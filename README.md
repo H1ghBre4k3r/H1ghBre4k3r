@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Louis, a CS student from Northern Germany with an affinity for IoT, distributed systems, mobile and web development. I am the creator of [MoneyBoy](https://github.com/pesca-dev/moneyboy-app), an app for managing and tracking payments between friends, and [Dependory](https://github.com/H1ghBre4k3r/dependory), a featherweight dependency injection framework for TypeScript.
+
 #### 👷 Check out what I'm currently working on
 
 - [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (today)
@@ -66,9 +68,9 @@
 - [Daniela1308](https://github.com/Daniela1308)
 - [I3J03RN](https://github.com/I3J03RN)
 
-#### 💬 Feedback
+# #### 💬 Feedback
 
-Say Hello, I don't bite!
+# Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
