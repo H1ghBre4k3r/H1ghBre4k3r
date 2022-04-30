@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=h1ghbre4k3r">
+
 I'm Louis, a CS student from Northern Germany with an affinity for IoT, distributed systems, mobile and web development. I am the creator of [MoneyBoy](https://github.com/pesca-dev/moneyboy-app), an app for managing and tracking payments between friends, and [Dependory](https://github.com/H1ghBre4k3r/dependory), a featherweight dependency injection framework for TypeScript.
 
 #### 👷 Check out what I'm currently working on
@@ -25,11 +28,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 #### ⭐ Recent Stars
 {{range recentStars 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-{{- end}}
-
-#### 👯 Check out some of my recent followers
-{{range followers 5}}
-- [{{.Login}}]({{.URL}})
 {{- end}}
 
 # #### 💬 Feedback
