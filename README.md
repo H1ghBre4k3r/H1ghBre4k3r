@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=h1ghbre4k3r">
+
 I'm Louis, a CS student from Northern Germany with an affinity for IoT, distributed systems, mobile and web development. I am the creator of [MoneyBoy](https://github.com/pesca-dev/moneyboy-app), an app for managing and tracking payments between friends, and [Dependory](https://github.com/H1ghBre4k3r/dependory), a featherweight dependency injection framework for TypeScript.
 
 #### 👷 Check out what I'm currently working on
@@ -59,14 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust (6 days ago)
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive. (6 days ago)
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline! (6 days ago)
-
-#### 👯 Check out some of my recent followers
-
-- [sadikkuzu](https://github.com/sadikkuzu)
-- [Skgland](https://github.com/Skgland)
-- [Drakae](https://github.com/Drakae)
-- [Daniela1308](https://github.com/Daniela1308)
-- [I3J03RN](https://github.com/I3J03RN)
 
 # #### 💬 Feedback
 
