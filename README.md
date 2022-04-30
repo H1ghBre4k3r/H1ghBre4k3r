@@ -63,10 +63,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive. (6 days ago)
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline! (6 days ago)
 
-# #### 💬 Feedback
-
-# Say Hello, I don't bite!
-
 #### 📫 How to reach me
 
 - Twitter: https://twitter.com/h1ghbre4k3r
