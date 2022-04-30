@@ -30,10 +30,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-# #### 💬 Feedback
-
-# Say Hello, I don't bite!
-
 #### 📫 How to reach me
 
 - Twitter: https://twitter.com/h1ghbre4k3r
