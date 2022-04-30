@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Louis, a CS student from Northern Germany with an affinity for IoT, distributed systems, mobile and web development. I am the creator of [MoneyBoy](https://github.com/pesca-dev/moneyboy-app), an app for managing and tracking payments between friends, and [Dependory](https://github.com/H1ghBre4k3r/dependory), a featherweight dependency injection framework for TypeScript.
+
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
@@ -30,9 +32,9 @@
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
-#### 💬 Feedback
+# #### 💬 Feedback
 
-Say Hello, I don't bite!
+# Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
