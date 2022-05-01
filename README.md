@@ -39,6 +39,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [Bump typedoc from 0.21.5 to 0.22.15](https://github.com/pesca-dev/moneyboy-app/pull/182) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (today)
 - [Fix typo in README.md.tpl](https://github.com/muesli/muesli/pull/4) on [muesli/muesli](https://github.com/muesli/muesli) (2 days ago)
 - [Feature: E2E Tests with Detox](https://github.com/pesca-dev/moneyboy-app/pull/177) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (6 days ago)
 - [Use themed background for tab bar](https://github.com/pesca-dev/moneyboy-app/pull/175) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (1 week ago)
@@ -48,7 +49,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Increase version to v0.2.0](https://github.com/pesca-dev/moneyboy-app/pull/165) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (2 weeks ago)
 - [Feature: Payment editing](https://github.com/pesca-dev/moneyboy-app/pull/164) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (2 weeks ago)
 - [Fix: Update vulnerable dependencies](https://github.com/pesca-dev/moneyboy-app/pull/163) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (2 weeks ago)
-- [Feature: K8s deploy deployment](https://github.com/pesca-dev/moneyboy-backend/pull/146) on [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
