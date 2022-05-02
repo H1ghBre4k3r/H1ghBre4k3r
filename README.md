@@ -52,6 +52,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [react-native-community/react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript) - 👾 Clean and minimalist React Native template for a quick start with TypeScript. (today)
 - [fwcd/mixync](https://github.com/fwcd/mixync) - CLI tool for copying Mixxx databases and music to and from portable stores (3 days ago)
 - [appfeel/node-pushnotifications](https://github.com/appfeel/node-pushnotifications) - Push notifications for GCM, APNS, MPNS, AMZ (automatic detection from device token) (3 days ago)
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios (3 days ago)
@@ -61,7 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [react-native-segmented-control/segmented-control](https://github.com/react-native-segmented-control/segmented-control) - React Native SegmentedControl library (1 week ago)
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust (1 week ago)
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive. (1 week ago)
-- [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline! (1 week ago)
 
 #### 📫 How to reach me
 
