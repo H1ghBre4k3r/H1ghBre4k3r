@@ -7,10 +7,10 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (2 days ago)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (2 days ago)
-- [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) - The mobile app for MoneyBoy - a tool to track spendings between different people. (4 days ago)
-- [muesli/muesli](https://github.com/muesli/muesli) - My secret muesli repo (6 days ago)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (3 days ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (3 days ago)
+- [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) - The mobile app for MoneyBoy - a tool to track spendings between different people. (5 days ago)
+- [muesli/muesli](https://github.com/muesli/muesli) - My secret muesli repo (1 week ago)
 - [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) - The (TypeScript) backend for MoneyBoy. (3 weeks ago)
 - [H1ghBre4k3r/k8s-deploy](https://github.com/H1ghBre4k3r/k8s-deploy) - Example repository for deploying a NodeJS app on own k8s instance. (3 weeks ago)
 - [H1ghBre4k3r/swarm-simulation](https://github.com/H1ghBre4k3r/swarm-simulation) - Swarm simulation as part of my bacherlor&#39;s thesis, written in Go. (1 month ago)
@@ -33,33 +33,33 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) ([v0.2.0](https://github.com/pesca-dev/moneyboy-app/releases/tag/v0.2.0), 2 weeks ago) - The mobile app for MoneyBoy - a tool to track spendings between different people.
+- [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) ([v0.2.0](https://github.com/pesca-dev/moneyboy-app/releases/tag/v0.2.0), 3 weeks ago) - The mobile app for MoneyBoy - a tool to track spendings between different people.
 - [H1ghBre4k3r/go-bf](https://github.com/H1ghBre4k3r/go-bf) ([v1.0.0](https://github.com/H1ghBre4k3r/go-bf/releases/tag/v1.0.0), 3 months ago) - Brainfuck interpreter and compiler written in Go.
 - [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) ([v0.2.0](https://github.com/H1ghBre4k3r/decoratory/releases/tag/v0.2.0), 4 months ago) - Utility decorators for TypeScript.
 
 #### 🔨 My recent Pull Requests
 
-- [Bump typedoc from 0.21.5 to 0.22.15](https://github.com/pesca-dev/moneyboy-app/pull/182) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (4 days ago)
-- [Fix typo in README.md.tpl](https://github.com/muesli/muesli/pull/4) on [muesli/muesli](https://github.com/muesli/muesli) (6 days ago)
+- [Bump typedoc from 0.21.5 to 0.22.15](https://github.com/pesca-dev/moneyboy-app/pull/182) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (5 days ago)
+- [Fix typo in README.md.tpl](https://github.com/muesli/muesli/pull/4) on [muesli/muesli](https://github.com/muesli/muesli) (1 week ago)
 - [Feature: E2E Tests with Detox](https://github.com/pesca-dev/moneyboy-app/pull/177) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (1 week ago)
 - [Use themed background for tab bar](https://github.com/pesca-dev/moneyboy-app/pull/175) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (1 week ago)
 - [Switch to auto linking for RNVectorIcons](https://github.com/pesca-dev/moneyboy-app/pull/174) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (1 week ago)
 - [Feature: Animated SVG TabBar](https://github.com/pesca-dev/moneyboy-app/pull/172) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (1 week ago)
-- [Hotfix: Bad language tag for Intl.NumberFormat](https://github.com/pesca-dev/moneyboy-app/pull/166) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (2 weeks ago)
-- [Increase version to v0.2.0](https://github.com/pesca-dev/moneyboy-app/pull/165) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (2 weeks ago)
-- [Feature: Payment editing](https://github.com/pesca-dev/moneyboy-app/pull/164) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (2 weeks ago)
+- [Hotfix: Bad language tag for Intl.NumberFormat](https://github.com/pesca-dev/moneyboy-app/pull/166) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (3 weeks ago)
+- [Increase version to v0.2.0](https://github.com/pesca-dev/moneyboy-app/pull/165) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (3 weeks ago)
+- [Feature: Payment editing](https://github.com/pesca-dev/moneyboy-app/pull/164) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (3 weeks ago)
 - [Fix: Update vulnerable dependencies](https://github.com/pesca-dev/moneyboy-app/pull/163) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS  (2 days ago)
-- [react-native-community/react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript) - 👾 Clean and minimalist React Native template for a quick start with TypeScript. (3 days ago)
-- [fwcd/mixync](https://github.com/fwcd/mixync) - CLI tool for copying Mixxx databases and music to and from portable stores (6 days ago)
-- [appfeel/node-pushnotifications](https://github.com/appfeel/node-pushnotifications) - Push notifications for GCM, APNS, MPNS, AMZ (automatic detection from device token) (6 days ago)
-- [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios (6 days ago)
-- [fwcd/archlinux-arm-images](https://github.com/fwcd/archlinux-arm-images) - Automated Arch Linux ARM image builds, e.g. for Raspberry Pis (6 days ago)
-- [muesli/muesli](https://github.com/muesli/muesli) - My secret muesli repo (6 days ago)
-- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing (6 days ago)
+- [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS  (3 days ago)
+- [react-native-community/react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript) - 👾 Clean and minimalist React Native template for a quick start with TypeScript. (4 days ago)
+- [fwcd/mixync](https://github.com/fwcd/mixync) - CLI tool for copying Mixxx databases and music to and from portable stores (1 week ago)
+- [appfeel/node-pushnotifications](https://github.com/appfeel/node-pushnotifications) - Push notifications for GCM, APNS, MPNS, AMZ (automatic detection from device token) (1 week ago)
+- [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios (1 week ago)
+- [fwcd/archlinux-arm-images](https://github.com/fwcd/archlinux-arm-images) - Automated Arch Linux ARM image builds, e.g. for Raspberry Pis (1 week ago)
+- [muesli/muesli](https://github.com/muesli/muesli) - My secret muesli repo (1 week ago)
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing (1 week ago)
 - [react-native-segmented-control/segmented-control](https://github.com/react-native-segmented-control/segmented-control) - React Native SegmentedControl library (1 week ago)
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust (1 week ago)
 
