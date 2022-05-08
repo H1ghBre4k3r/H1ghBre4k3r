@@ -52,6 +52,9 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [vytenisu/npm-dts](https://github.com/vytenisu/npm-dts) - Generates single dts file for bundling TypeScript NPM packages (today)
+- [react-native-community/cli](https://github.com/react-native-community/cli) - React Native command line tools (today)
+- [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code. (today)
 - [Karthik-B-06/react-native-segmented-control](https://github.com/Karthik-B-06/react-native-segmented-control) - 🎉 React Native Segmented Control 🎮  for both iOS, Android and Web (2 days ago)
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS  (5 days ago)
 - [react-native-community/react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript) - 👾 Clean and minimalist React Native template for a quick start with TypeScript. (6 days ago)
@@ -59,9 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [appfeel/node-pushnotifications](https://github.com/appfeel/node-pushnotifications) - Push notifications for GCM, APNS, MPNS, AMZ (automatic detection from device token) (1 week ago)
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios (1 week ago)
 - [fwcd/archlinux-arm-images](https://github.com/fwcd/archlinux-arm-images) - Automated Arch Linux ARM image builds, e.g. for Raspberry Pis (1 week ago)
-- [muesli/muesli](https://github.com/muesli/muesli) - My secret muesli repo (1 week ago)
-- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing (1 week ago)
-- [react-native-segmented-control/segmented-control](https://github.com/react-native-segmented-control/segmented-control) - React Native SegmentedControl library (2 weeks ago)
 
 #### 📫 How to reach me
 
