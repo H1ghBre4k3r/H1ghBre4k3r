@@ -7,8 +7,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (today)
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (5 days ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (1 day ago)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (6 days ago)
 - [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) - The mobile app for MoneyBoy - a tool to track spendings between different people. (1 week ago)
 - [muesli/muesli](https://github.com/muesli/muesli) - My secret muesli repo (1 week ago)
 - [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) - The (TypeScript) backend for MoneyBoy. (3 weeks ago)
@@ -41,7 +41,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 - [Bump typedoc from 0.21.5 to 0.22.15](https://github.com/pesca-dev/moneyboy-app/pull/182) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (1 week ago)
 - [Fix typo in README.md.tpl](https://github.com/muesli/muesli/pull/4) on [muesli/muesli](https://github.com/muesli/muesli) (1 week ago)
-- [Feature: E2E Tests with Detox](https://github.com/pesca-dev/moneyboy-app/pull/177) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (1 week ago)
+- [Feature: E2E Tests with Detox](https://github.com/pesca-dev/moneyboy-app/pull/177) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (2 weeks ago)
 - [Use themed background for tab bar](https://github.com/pesca-dev/moneyboy-app/pull/175) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (2 weeks ago)
 - [Switch to auto linking for RNVectorIcons](https://github.com/pesca-dev/moneyboy-app/pull/174) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (2 weeks ago)
 - [Feature: Animated SVG TabBar](https://github.com/pesca-dev/moneyboy-app/pull/172) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (2 weeks ago)
@@ -52,12 +52,12 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [vytenisu/npm-dts](https://github.com/vytenisu/npm-dts) - Generates single dts file for bundling TypeScript NPM packages (today)
-- [react-native-community/cli](https://github.com/react-native-community/cli) - React Native command line tools (today)
-- [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code. (today)
-- [Karthik-B-06/react-native-segmented-control](https://github.com/Karthik-B-06/react-native-segmented-control) - 🎉 React Native Segmented Control 🎮  for both iOS, Android and Web (2 days ago)
-- [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS  (5 days ago)
-- [react-native-community/react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript) - 👾 Clean and minimalist React Native template for a quick start with TypeScript. (6 days ago)
+- [vytenisu/npm-dts](https://github.com/vytenisu/npm-dts) - Generates single dts file for bundling TypeScript NPM packages (1 day ago)
+- [react-native-community/cli](https://github.com/react-native-community/cli) - React Native command line tools (1 day ago)
+- [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code. (1 day ago)
+- [Karthik-B-06/react-native-segmented-control](https://github.com/Karthik-B-06/react-native-segmented-control) - 🎉 React Native Segmented Control 🎮  for both iOS, Android and Web (3 days ago)
+- [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS  (6 days ago)
+- [react-native-community/react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript) - 👾 Clean and minimalist React Native template for a quick start with TypeScript. (1 week ago)
 - [fwcd/mixync](https://github.com/fwcd/mixync) - CLI tool for copying Mixxx databases and music to and from portable stores (1 week ago)
 - [appfeel/node-pushnotifications](https://github.com/appfeel/node-pushnotifications) - Push notifications for GCM, APNS, MPNS, AMZ (automatic detection from device token) (1 week ago)
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios (1 week ago)
