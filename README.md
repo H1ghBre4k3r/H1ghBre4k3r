@@ -52,16 +52,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [Friendly0Fire/GW2Radial](https://github.com/Friendly0Fire/GW2Radial) - A customizable radial menu overlay addon for Guild Wars 2. (today)
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web (today)
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh (today)
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player (today)
 - [prathje/uwb-swarm-ranging](https://github.com/prathje/uwb-swarm-ranging) - This project contains the PoC for Ultra-Wideband ranging using a single, broadcast message for simultaneous rangings to all other devices. (today)
 - [vytenisu/npm-dts](https://github.com/vytenisu/npm-dts) - Generates single dts file for bundling TypeScript NPM packages (1 day ago)
 - [react-native-community/cli](https://github.com/react-native-community/cli) - React Native command line tools (1 day ago)
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code. (1 day ago)
 - [Karthik-B-06/react-native-segmented-control](https://github.com/Karthik-B-06/react-native-segmented-control) - 🎉 React Native Segmented Control 🎮  for both iOS, Android and Web (3 days ago)
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS  (6 days ago)
-- [react-native-community/react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript) - 👾 Clean and minimalist React Native template for a quick start with TypeScript. (1 week ago)
-- [fwcd/mixync](https://github.com/fwcd/mixync) - CLI tool for copying Mixxx databases and music to and from portable stores (1 week ago)
-- [appfeel/node-pushnotifications](https://github.com/appfeel/node-pushnotifications) - Push notifications for GCM, APNS, MPNS, AMZ (automatic detection from device token) (1 week ago)
-- [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios (1 week ago)
 
 #### 📫 How to reach me
 
