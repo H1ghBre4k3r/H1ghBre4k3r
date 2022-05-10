@@ -7,6 +7,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
+- [fwcd/dotpkg](https://github.com/fwcd/dotpkg) - Package manager for your dotfiles (today)
 - [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (2 days ago)
 - [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (1 week ago)
 - [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) - The mobile app for MoneyBoy - a tool to track spendings between different people. (1 week ago)
@@ -16,7 +17,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/swarm-simulation](https://github.com/H1ghBre4k3r/swarm-simulation) - Swarm simulation as part of my bacherlor&#39;s thesis, written in Go. (1 month ago)
 - [H1ghBre4k3r/thesis-evaluation](https://github.com/H1ghBre4k3r/thesis-evaluation) - Repository containing the results of all my simulation runs for my bachelors thesis. (1 month ago)
 - [kieler/vscode](https://github.com/kieler/vscode) -  (2 months ago)
-- [H1ghBre4k3r/go-bf](https://github.com/H1ghBre4k3r/go-bf) - Brainfuck interpreter and compiler written in Go. (3 months ago)
 
 #### 🌱 My latest projects
 
