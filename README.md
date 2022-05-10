@@ -52,6 +52,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (today)
 - [Friendly0Fire/GW2Radial](https://github.com/Friendly0Fire/GW2Radial) - A customizable radial menu overlay addon for Guild Wars 2. (1 day ago)
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web (1 day ago)
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh (1 day ago)
@@ -61,7 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [react-native-community/cli](https://github.com/react-native-community/cli) - React Native command line tools (2 days ago)
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code. (2 days ago)
 - [Karthik-B-06/react-native-segmented-control](https://github.com/Karthik-B-06/react-native-segmented-control) - 🎉 React Native Segmented Control 🎮  for both iOS, Android and Web (4 days ago)
-- [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS  (1 week ago)
 
 #### 📫 How to reach me
 
