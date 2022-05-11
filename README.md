@@ -7,13 +7,13 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (today)
-- [fwcd/dotpkg](https://github.com/fwcd/dotpkg) - Package manager for your dotfiles (today)
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (today)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (1 day ago)
+- [fwcd/dotpkg](https://github.com/fwcd/dotpkg) - Package manager for your dotfiles (1 day ago)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (1 day ago)
 - [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) - The mobile app for MoneyBoy - a tool to track spendings between different people. (1 week ago)
 - [muesli/muesli](https://github.com/muesli/muesli) - My secret muesli repo (1 week ago)
 - [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) - The (TypeScript) backend for MoneyBoy. (3 weeks ago)
-- [H1ghBre4k3r/k8s-deploy](https://github.com/H1ghBre4k3r/k8s-deploy) - Example repository for deploying a NodeJS app on own k8s instance. (3 weeks ago)
+- [H1ghBre4k3r/k8s-deploy](https://github.com/H1ghBre4k3r/k8s-deploy) - Example repository for deploying a NodeJS app on own k8s instance. (4 weeks ago)
 - [H1ghBre4k3r/swarm-simulation](https://github.com/H1ghBre4k3r/swarm-simulation) - Swarm simulation as part of my bacherlor&#39;s thesis, written in Go. (1 month ago)
 - [H1ghBre4k3r/thesis-evaluation](https://github.com/H1ghBre4k3r/thesis-evaluation) - Repository containing the results of all my simulation runs for my bachelors thesis. (1 month ago)
 - [kieler/vscode](https://github.com/kieler/vscode) -  (2 months ago)
@@ -39,7 +39,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [Information about individual JSON schemas](https://github.com/fwcd/dotpkg/pull/5) on [fwcd/dotpkg](https://github.com/fwcd/dotpkg) (today)
+- [Information about individual JSON schemas](https://github.com/fwcd/dotpkg/pull/5) on [fwcd/dotpkg](https://github.com/fwcd/dotpkg) (1 day ago)
 - [Bump typedoc from 0.21.5 to 0.22.15](https://github.com/pesca-dev/moneyboy-app/pull/182) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (1 week ago)
 - [Fix typo in README.md.tpl](https://github.com/muesli/muesli/pull/4) on [muesli/muesli](https://github.com/muesli/muesli) (1 week ago)
 - [Feature: E2E Tests with Detox](https://github.com/pesca-dev/moneyboy-app/pull/177) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (2 weeks ago)
@@ -52,16 +52,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (today)
-- [Friendly0Fire/GW2Radial](https://github.com/Friendly0Fire/GW2Radial) - A customizable radial menu overlay addon for Guild Wars 2. (1 day ago)
-- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web (1 day ago)
-- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh (1 day ago)
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player (1 day ago)
-- [prathje/uwb-swarm-ranging](https://github.com/prathje/uwb-swarm-ranging) - This project contains the PoC for Ultra-Wideband ranging using a single, broadcast message for simultaneous rangings to all other devices. (1 day ago)
-- [vytenisu/npm-dts](https://github.com/vytenisu/npm-dts) - Generates single dts file for bundling TypeScript NPM packages (2 days ago)
-- [react-native-community/cli](https://github.com/react-native-community/cli) - React Native command line tools (2 days ago)
-- [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code. (2 days ago)
-- [Karthik-B-06/react-native-segmented-control](https://github.com/Karthik-B-06/react-native-segmented-control) - 🎉 React Native Segmented Control 🎮  for both iOS, Android and Web (4 days ago)
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (1 day ago)
+- [Friendly0Fire/GW2Radial](https://github.com/Friendly0Fire/GW2Radial) - A customizable radial menu overlay addon for Guild Wars 2. (2 days ago)
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web (2 days ago)
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh (2 days ago)
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player (2 days ago)
+- [prathje/uwb-swarm-ranging](https://github.com/prathje/uwb-swarm-ranging) - This project contains the PoC for Ultra-Wideband ranging using a single, broadcast message for simultaneous rangings to all other devices. (2 days ago)
+- [vytenisu/npm-dts](https://github.com/vytenisu/npm-dts) - Generates single dts file for bundling TypeScript NPM packages (3 days ago)
+- [react-native-community/cli](https://github.com/react-native-community/cli) - React Native command line tools (3 days ago)
+- [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code. (3 days ago)
+- [Karthik-B-06/react-native-segmented-control](https://github.com/Karthik-B-06/react-native-segmented-control) - 🎉 React Native Segmented Control 🎮  for both iOS, Android and Web (5 days ago)
 
 #### 📫 How to reach me
 
