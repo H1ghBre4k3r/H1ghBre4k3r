@@ -52,6 +52,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design. (today)
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (1 day ago)
 - [Friendly0Fire/GW2Radial](https://github.com/Friendly0Fire/GW2Radial) - A customizable radial menu overlay addon for Guild Wars 2. (2 days ago)
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web (2 days ago)
@@ -61,7 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [vytenisu/npm-dts](https://github.com/vytenisu/npm-dts) - Generates single dts file for bundling TypeScript NPM packages (3 days ago)
 - [react-native-community/cli](https://github.com/react-native-community/cli) - React Native command line tools (3 days ago)
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code. (3 days ago)
-- [Karthik-B-06/react-native-segmented-control](https://github.com/Karthik-B-06/react-native-segmented-control) - 🎉 React Native Segmented Control 🎮  for both iOS, Android and Web (5 days ago)
 
 #### 📫 How to reach me
 
