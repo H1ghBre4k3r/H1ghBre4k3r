@@ -39,6 +39,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [Feature: Rework SettingsView, use SegmentedControl and introduce NordColors](https://github.com/pesca-dev/moneyboy-app/pull/186) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (today)
 - [Information about individual JSON schemas](https://github.com/fwcd/dotpkg/pull/5) on [fwcd/dotpkg](https://github.com/fwcd/dotpkg) (4 days ago)
 - [Bump typedoc from 0.21.5 to 0.22.15](https://github.com/pesca-dev/moneyboy-app/pull/182) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (1 week ago)
 - [Fix typo in README.md.tpl](https://github.com/muesli/muesli/pull/4) on [muesli/muesli](https://github.com/muesli/muesli) (2 weeks ago)
@@ -48,7 +49,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Feature: Animated SVG TabBar](https://github.com/pesca-dev/moneyboy-app/pull/172) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (3 weeks ago)
 - [Hotfix: Bad language tag for Intl.NumberFormat](https://github.com/pesca-dev/moneyboy-app/pull/166) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (4 weeks ago)
 - [Increase version to v0.2.0](https://github.com/pesca-dev/moneyboy-app/pull/165) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (4 weeks ago)
-- [Feature: Payment editing](https://github.com/pesca-dev/moneyboy-app/pull/164) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
