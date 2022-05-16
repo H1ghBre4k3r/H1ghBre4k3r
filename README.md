@@ -7,10 +7,10 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) - The mobile app for MoneyBoy - a tool to track spendings between different people. (today)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (2 days ago)
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (2 days ago)
-- [fwcd/dotpkg](https://github.com/fwcd/dotpkg) - Package manager for your dotfiles (5 days ago)
+- [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) - The mobile app for MoneyBoy - a tool to track spendings between different people. (1 day ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (3 days ago)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (3 days ago)
+- [fwcd/dotpkg](https://github.com/fwcd/dotpkg) - Package manager for your dotfiles (6 days ago)
 - [muesli/muesli](https://github.com/muesli/muesli) - My secret muesli repo (2 weeks ago)
 - [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) - The (TypeScript) backend for MoneyBoy. (1 month ago)
 - [H1ghBre4k3r/k8s-deploy](https://github.com/H1ghBre4k3r/k8s-deploy) - Example repository for deploying a NodeJS app on own k8s instance. (1 month ago)
@@ -33,18 +33,18 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) ([v0.2.1](https://github.com/pesca-dev/moneyboy-app/releases/tag/v0.2.1), 1 day ago) - The mobile app for MoneyBoy - a tool to track spendings between different people.
+- [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) ([v0.2.1](https://github.com/pesca-dev/moneyboy-app/releases/tag/v0.2.1), 2 days ago) - The mobile app for MoneyBoy - a tool to track spendings between different people.
 - [H1ghBre4k3r/go-bf](https://github.com/H1ghBre4k3r/go-bf) ([v1.0.0](https://github.com/H1ghBre4k3r/go-bf/releases/tag/v1.0.0), 4 months ago) - Brainfuck interpreter and compiler written in Go.
 - [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) ([v0.2.0](https://github.com/H1ghBre4k3r/decoratory/releases/tag/v0.2.0), 4 months ago) - Utility decorators for TypeScript.
 
 #### 🔨 My recent Pull Requests
 
-- [Feature: SafeAreaView around the flyout](https://github.com/pesca-dev/moneyboy-app/pull/189) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (today)
-- [Feature: Rework SettingsView, use SegmentedControl and introduce NordColors](https://github.com/pesca-dev/moneyboy-app/pull/186) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (1 day ago)
-- [Information about individual JSON schemas](https://github.com/fwcd/dotpkg/pull/5) on [fwcd/dotpkg](https://github.com/fwcd/dotpkg) (5 days ago)
+- [Feature: SafeAreaView around the flyout](https://github.com/pesca-dev/moneyboy-app/pull/189) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (1 day ago)
+- [Feature: Rework SettingsView, use SegmentedControl and introduce NordColors](https://github.com/pesca-dev/moneyboy-app/pull/186) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (2 days ago)
+- [Information about individual JSON schemas](https://github.com/fwcd/dotpkg/pull/5) on [fwcd/dotpkg](https://github.com/fwcd/dotpkg) (6 days ago)
 - [Bump typedoc from 0.21.5 to 0.22.15](https://github.com/pesca-dev/moneyboy-app/pull/182) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (2 weeks ago)
 - [Fix typo in README.md.tpl](https://github.com/muesli/muesli/pull/4) on [muesli/muesli](https://github.com/muesli/muesli) (2 weeks ago)
-- [Feature: E2E Tests with Detox](https://github.com/pesca-dev/moneyboy-app/pull/177) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (2 weeks ago)
+- [Feature: E2E Tests with Detox](https://github.com/pesca-dev/moneyboy-app/pull/177) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (3 weeks ago)
 - [Use themed background for tab bar](https://github.com/pesca-dev/moneyboy-app/pull/175) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (3 weeks ago)
 - [Switch to auto linking for RNVectorIcons](https://github.com/pesca-dev/moneyboy-app/pull/174) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (3 weeks ago)
 - [Feature: Animated SVG TabBar](https://github.com/pesca-dev/moneyboy-app/pull/172) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (3 weeks ago)
@@ -52,15 +52,15 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette. (2 days ago)
-- [ProjectLighthouseCAU/lighthouse-go](https://github.com/ProjectLighthouseCAU/lighthouse-go) - Lighthouse Client SDK in Go (4 days ago)
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design. (4 days ago)
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (5 days ago)
-- [Friendly0Fire/GW2Radial](https://github.com/Friendly0Fire/GW2Radial) - A customizable radial menu overlay addon for Guild Wars 2. (6 days ago)
-- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web (6 days ago)
-- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh (6 days ago)
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player (6 days ago)
-- [prathje/uwb-swarm-ranging](https://github.com/prathje/uwb-swarm-ranging) - This project contains the PoC for Ultra-Wideband ranging using a single, broadcast message for simultaneous rangings to all other devices. (6 days ago)
+- [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette. (3 days ago)
+- [ProjectLighthouseCAU/lighthouse-go](https://github.com/ProjectLighthouseCAU/lighthouse-go) - Lighthouse Client SDK in Go (5 days ago)
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design. (5 days ago)
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (6 days ago)
+- [Friendly0Fire/GW2Radial](https://github.com/Friendly0Fire/GW2Radial) - A customizable radial menu overlay addon for Guild Wars 2. (1 week ago)
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web (1 week ago)
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh (1 week ago)
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player (1 week ago)
+- [prathje/uwb-swarm-ranging](https://github.com/prathje/uwb-swarm-ranging) - This project contains the PoC for Ultra-Wideband ranging using a single, broadcast message for simultaneous rangings to all other devices. (1 week ago)
 - [vytenisu/npm-dts](https://github.com/vytenisu/npm-dts) - Generates single dts file for bundling TypeScript NPM packages (1 week ago)
 
 #### 📫 How to reach me
