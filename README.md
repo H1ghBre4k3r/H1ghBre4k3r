@@ -52,6 +52,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required (today)
 - [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette. (3 days ago)
 - [ProjectLighthouseCAU/lighthouse-go](https://github.com/ProjectLighthouseCAU/lighthouse-go) - Lighthouse Client SDK in Go (5 days ago)
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design. (5 days ago)
@@ -61,7 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh (1 week ago)
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player (1 week ago)
 - [prathje/uwb-swarm-ranging](https://github.com/prathje/uwb-swarm-ranging) - This project contains the PoC for Ultra-Wideband ranging using a single, broadcast message for simultaneous rangings to all other devices. (1 week ago)
-- [vytenisu/npm-dts](https://github.com/vytenisu/npm-dts) - Generates single dts file for bundling TypeScript NPM packages (1 week ago)
 
 #### 📫 How to reach me
 
