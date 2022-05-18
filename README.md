@@ -52,6 +52,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The &#34;Activate Windows&#34; watermark ported to Linux (today)
 - [yep/virtualOS](https://github.com/yep/virtualOS) - macOS Virtual Machine (2 days ago)
 - [typestack/typedi](https://github.com/typestack/typedi) - Simple yet powerful dependency injection tool for JavaScript and TypeScript. (2 days ago)
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework. (2 days ago)
@@ -61,7 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [ProjectLighthouseCAU/lighthouse-go](https://github.com/ProjectLighthouseCAU/lighthouse-go) - Lighthouse Client SDK in Go (1 week ago)
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design. (1 week ago)
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (1 week ago)
-- [Friendly0Fire/GW2Radial](https://github.com/Friendly0Fire/GW2Radial) - A customizable radial menu overlay addon for Guild Wars 2. (1 week ago)
 
 #### 📫 How to reach me
 
