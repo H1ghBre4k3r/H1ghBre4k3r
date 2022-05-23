@@ -7,8 +7,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (2 days ago)
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (2 days ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (3 days ago)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (3 days ago)
 - [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) - The mobile app for MoneyBoy - a tool to track spendings between different people. (1 week ago)
 - [fwcd/dotpkg](https://github.com/fwcd/dotpkg) - Package manager for your dotfiles (1 week ago)
 - [muesli/muesli](https://github.com/muesli/muesli) - My secret muesli repo (3 weeks ago)
@@ -44,22 +44,22 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Information about individual JSON schemas](https://github.com/fwcd/dotpkg/pull/5) on [fwcd/dotpkg](https://github.com/fwcd/dotpkg) (1 week ago)
 - [Bump typedoc from 0.21.5 to 0.22.15](https://github.com/pesca-dev/moneyboy-app/pull/182) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (3 weeks ago)
 - [Fix typo in README.md.tpl](https://github.com/muesli/muesli/pull/4) on [muesli/muesli](https://github.com/muesli/muesli) (3 weeks ago)
-- [Feature: E2E Tests with Detox](https://github.com/pesca-dev/moneyboy-app/pull/177) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (3 weeks ago)
+- [Feature: E2E Tests with Detox](https://github.com/pesca-dev/moneyboy-app/pull/177) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (4 weeks ago)
 - [Use themed background for tab bar](https://github.com/pesca-dev/moneyboy-app/pull/175) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (4 weeks ago)
 - [Switch to auto linking for RNVectorIcons](https://github.com/pesca-dev/moneyboy-app/pull/174) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (4 weeks ago)
-- [Feature: Animated SVG TabBar](https://github.com/pesca-dev/moneyboy-app/pull/172) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (4 weeks ago)
+- [Feature: Animated SVG TabBar](https://github.com/pesca-dev/moneyboy-app/pull/172) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (1 month ago)
 - [Hotfix: Bad language tag for Intl.NumberFormat](https://github.com/pesca-dev/moneyboy-app/pull/166) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [rhoot/bgfx-rs](https://github.com/rhoot/bgfx-rs) - Rust wrapper around bgfx. (2 days ago)
-- [rust-windowing/glutin](https://github.com/rust-windowing/glutin) - A low-level library for OpenGL context creation, written in pure Rust. (2 days ago)
-- [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The &#34;Activate Windows&#34; watermark ported to Linux (4 days ago)
-- [yep/virtualOS](https://github.com/yep/virtualOS) - macOS Virtual Machine (6 days ago)
-- [typestack/typedi](https://github.com/typestack/typedi) - Simple yet powerful dependency injection tool for JavaScript and TypeScript. (6 days ago)
-- [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework. (6 days ago)
-- [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes. (6 days ago)
-- [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required (6 days ago)
+- [rhoot/bgfx-rs](https://github.com/rhoot/bgfx-rs) - Rust wrapper around bgfx. (3 days ago)
+- [rust-windowing/glutin](https://github.com/rust-windowing/glutin) - A low-level library for OpenGL context creation, written in pure Rust. (3 days ago)
+- [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The &#34;Activate Windows&#34; watermark ported to Linux (5 days ago)
+- [yep/virtualOS](https://github.com/yep/virtualOS) - macOS Virtual Machine (1 week ago)
+- [typestack/typedi](https://github.com/typestack/typedi) - Simple yet powerful dependency injection tool for JavaScript and TypeScript. (1 week ago)
+- [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework. (1 week ago)
+- [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes. (1 week ago)
+- [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required (1 week ago)
 - [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette. (1 week ago)
 - [ProjectLighthouseCAU/lighthouse-go](https://github.com/ProjectLighthouseCAU/lighthouse-go) - Lighthouse Client SDK in Go (1 week ago)
 
