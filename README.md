@@ -7,9 +7,9 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (today)
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (today)
-- [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) - The mobile app for MoneyBoy - a tool to track spendings between different people. (1 day ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (1 day ago)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (1 day ago)
+- [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) - The mobile app for MoneyBoy - a tool to track spendings between different people. (2 days ago)
 - [fwcd/dotpkg](https://github.com/fwcd/dotpkg) - Package manager for your dotfiles (2 weeks ago)
 - [muesli/muesli](https://github.com/muesli/muesli) - My secret muesli repo (3 weeks ago)
 - [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) - The (TypeScript) backend for MoneyBoy. (1 month ago)
@@ -35,7 +35,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 - [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) ([v0.2.1](https://github.com/pesca-dev/moneyboy-app/releases/tag/v0.2.1), 1 week ago) - The mobile app for MoneyBoy - a tool to track spendings between different people.
 - [H1ghBre4k3r/go-bf](https://github.com/H1ghBre4k3r/go-bf) ([v1.0.0](https://github.com/H1ghBre4k3r/go-bf/releases/tag/v1.0.0), 4 months ago) - Brainfuck interpreter and compiler written in Go.
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) ([v0.2.0](https://github.com/H1ghBre4k3r/decoratory/releases/tag/v0.2.0), 4 months ago) - Utility decorators for TypeScript.
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) ([v0.2.0](https://github.com/H1ghBre4k3r/decoratory/releases/tag/v0.2.0), 5 months ago) - Utility decorators for TypeScript.
 
 #### 🔨 My recent Pull Requests
 
@@ -52,16 +52,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [arcticicestudio/nord-vim](https://github.com/arcticicestudio/nord-vim) - An arctic, north-bluish clean and elegant Vim theme. (today)
-- [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust (2 days ago)
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (2 days ago)
-- [fannheyward/coc-rust-analyzer](https://github.com/fannheyward/coc-rust-analyzer) - rust-analyzer extension for coc.nvim (2 days ago)
-- [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All basic TypeScript types in one place 🤙 (2 days ago)
-- [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast &amp; safe pure Rust implementation of Git (2 days ago)
-- [asterisk/asterisk](https://github.com/asterisk/asterisk) -  Mirror of the official Asterisk (https://www.asterisk.org) Project repository. No pull requests here please.  Use Gerrit: (2 days ago)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 days ago)
-- [rhoot/bgfx-rs](https://github.com/rhoot/bgfx-rs) - Rust wrapper around bgfx. (5 days ago)
-- [rust-windowing/glutin](https://github.com/rust-windowing/glutin) - A low-level library for OpenGL context creation, written in pure Rust. (5 days ago)
+- [arcticicestudio/nord-vim](https://github.com/arcticicestudio/nord-vim) - An arctic, north-bluish clean and elegant Vim theme. (1 day ago)
+- [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust (3 days ago)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (3 days ago)
+- [fannheyward/coc-rust-analyzer](https://github.com/fannheyward/coc-rust-analyzer) - rust-analyzer extension for coc.nvim (3 days ago)
+- [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All basic TypeScript types in one place 🤙 (3 days ago)
+- [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast &amp; safe pure Rust implementation of Git (3 days ago)
+- [asterisk/asterisk](https://github.com/asterisk/asterisk) -  Mirror of the official Asterisk (https://www.asterisk.org) Project repository. No pull requests here please.  Use Gerrit: (3 days ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (3 days ago)
+- [rhoot/bgfx-rs](https://github.com/rhoot/bgfx-rs) - Rust wrapper around bgfx. (6 days ago)
+- [rust-windowing/glutin](https://github.com/rust-windowing/glutin) - A low-level library for OpenGL context creation, written in pure Rust. (6 days ago)
 
 #### 📫 How to reach me
 
