@@ -22,7 +22,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 - [H1ghBre4k3r/k8s-deploy](https://github.com/H1ghBre4k3r/k8s-deploy) - Example repository for deploying a NodeJS app on own k8s instance.
 - [H1ghBre4k3r/thesis-evaluation](https://github.com/H1ghBre4k3r/thesis-evaluation) - Repository containing the results of all my simulation runs for my bachelors thesis.
-- [H1ghBre4k3r/go-bf](https://github.com/H1ghBre4k3r/go-bf) - Brainfuck interpreter and compiler written in Go.
+- [H1ghBre4k3r/bfc](https://github.com/H1ghBre4k3r/bfc) - Brainfuck interpreter and compiler.
 - [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API
 - [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript.
 - [H1ghBre4k3r/advent-of-code-2021](https://github.com/H1ghBre4k3r/advent-of-code-2021) - Advent of Code solutions in as many languages as possible (probably mostly JS/TS).
@@ -34,7 +34,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 #### 🔭 Latest releases I've contributed to
 
 - [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) ([v0.2.1](https://github.com/pesca-dev/moneyboy-app/releases/tag/v0.2.1), 2 weeks ago) - The mobile app for MoneyBoy - a tool to track spendings between different people.
-- [H1ghBre4k3r/go-bf](https://github.com/H1ghBre4k3r/go-bf) ([v1.0.0](https://github.com/H1ghBre4k3r/go-bf/releases/tag/v1.0.0), 4 months ago) - Brainfuck interpreter and compiler written in Go.
+- [H1ghBre4k3r/bfc](https://github.com/H1ghBre4k3r/bfc) ([v1.0.0](https://github.com/H1ghBre4k3r/bfc/releases/tag/v1.0.0), 4 months ago) - Brainfuck interpreter and compiler.
 - [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) ([v0.2.0](https://github.com/H1ghBre4k3r/decoratory/releases/tag/v0.2.0), 5 months ago) - Utility decorators for TypeScript.
 
 #### 🔨 My recent Pull Requests
