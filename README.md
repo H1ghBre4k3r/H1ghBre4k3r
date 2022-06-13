@@ -52,6 +52,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [burtonageo/cargo-bundle](https://github.com/burtonageo/cargo-bundle) - Wrap rust executables in OS-specific app bundles (today)
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app (4 days ago)
 - [messense/homebrew-macos-cross-toolchains](https://github.com/messense/homebrew-macos-cross-toolchains) - macOS cross compiler toolchains (4 days ago)
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs (5 days ago)
@@ -61,7 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. (1 week ago)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (2 weeks ago)
 - [neondatabase/neon](https://github.com/neondatabase/neon) - The serverless open source alternative to AWS Aurora Postgres. (2 weeks ago)
-- [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go (2 weeks ago)
 
 #### 📫 How to reach me
 
