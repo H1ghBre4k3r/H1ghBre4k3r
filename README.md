@@ -7,13 +7,13 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (1 day ago)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (1 day ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (5 days ago)
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (6 days ago)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (2 days ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (2 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (6 days ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 week ago)
 - [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) - The mobile app for MoneyBoy - a tool to track spendings between different people. (1 month ago)
 - [fwcd/dotpkg](https://github.com/fwcd/dotpkg) - Package manager for your dotfiles (1 month ago)
-- [fwcd/bassment](https://github.com/fwcd/bassment) - 💿️ Music library server with support for cue points, playlists, crates, tags and a web/mobile frontend (1 month ago)
+- [fwcd/bassment](https://github.com/fwcd/bassment) - 💿️ Music library server with support for cue points, playlists, crates, tags and a web/mobile frontend (2 months ago)
 - [muesli/muesli](https://github.com/muesli/muesli) - My secret muesli repo (2 months ago)
 - [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) - The (TypeScript) backend for MoneyBoy. (2 months ago)
 - [H1ghBre4k3r/k8s-deploy](https://github.com/H1ghBre4k3r/k8s-deploy) - Example repository for deploying a NodeJS app on own k8s instance. (2 months ago)
@@ -52,16 +52,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. (today)
-- [TilBlechschmidt/WebGrid](https://github.com/TilBlechschmidt/WebGrid) - Decentralized, scalable and robust implementation of a selenium-grid equivalent. Based on the WebDriver specification by the W3C. (1 day ago)
-- [softprops/shiplift](https://github.com/softprops/shiplift) - 🐳 🦀 rust interface for maneuvering docker containers (1 day ago)
-- [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine (2 days ago)
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices. (2 days ago)
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. (2 days ago)
-- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (2 days ago)
-- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator. (2 days ago)
-- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (2 days ago)
-- [colorfy-software/react-native-modalfy](https://github.com/colorfy-software/react-native-modalfy) - 🥞 Modal citizen of React Native. (2 days ago)
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. (1 day ago)
+- [TilBlechschmidt/WebGrid](https://github.com/TilBlechschmidt/WebGrid) - Decentralized, scalable and robust implementation of a selenium-grid equivalent. Based on the WebDriver specification by the W3C. (2 days ago)
+- [softprops/shiplift](https://github.com/softprops/shiplift) - 🐳 🦀 rust interface for maneuvering docker containers (2 days ago)
+- [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine (3 days ago)
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices. (3 days ago)
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. (3 days ago)
+- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (3 days ago)
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator. (3 days ago)
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (3 days ago)
+- [colorfy-software/react-native-modalfy](https://github.com/colorfy-software/react-native-modalfy) - 🥞 Modal citizen of React Native. (3 days ago)
 
 #### 📫 How to reach me
 
