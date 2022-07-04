@@ -52,6 +52,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [Shopify/flash-list](https://github.com/Shopify/flash-list) - A better list for React Native (today)
+- [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust (today)
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. (1 day ago)
 - [TilBlechschmidt/WebGrid](https://github.com/TilBlechschmidt/WebGrid) - Decentralized, scalable and robust implementation of a selenium-grid equivalent. Based on the WebDriver specification by the W3C. (2 days ago)
 - [softprops/shiplift](https://github.com/softprops/shiplift) - 🐳 🦀 rust interface for maneuvering docker containers (2 days ago)
@@ -60,8 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. (3 days ago)
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (3 days ago)
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator. (3 days ago)
-- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (3 days ago)
-- [colorfy-software/react-native-modalfy](https://github.com/colorfy-software/react-native-modalfy) - 🥞 Modal citizen of React Native. (3 days ago)
 
 #### 📫 How to reach me
 
