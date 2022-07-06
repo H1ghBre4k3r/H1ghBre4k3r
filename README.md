@@ -52,6 +52,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.  (today)
 - [MeViMo/youbit](https://github.com/MeViMo/youbit) - Using YouTube as a free file hosting service (today)
 - [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. (today)
 - [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal IO library for Rust (today)
@@ -61,7 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust (2 days ago)
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. (3 days ago)
 - [TilBlechschmidt/WebGrid](https://github.com/TilBlechschmidt/WebGrid) - Decentralized, scalable and robust implementation of a selenium-grid equivalent. Based on the WebDriver specification by the W3C. (4 days ago)
-- [softprops/shiplift](https://github.com/softprops/shiplift) - 🐳 🦀 rust interface for maneuvering docker containers (4 days ago)
 
 #### 📫 How to reach me
 
