@@ -52,6 +52,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal IO library for Rust (today)
+- [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust (today)
 - [smol-rs/async-channel](https://github.com/smol-rs/async-channel) - Async multi-producer multi-consumer channel (2 days ago)
 - [Shopify/flash-list](https://github.com/Shopify/flash-list) - A better list for React Native (2 days ago)
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust (2 days ago)
@@ -60,8 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [softprops/shiplift](https://github.com/softprops/shiplift) - 🐳 🦀 rust interface for maneuvering docker containers (4 days ago)
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine (5 days ago)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices. (5 days ago)
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. (5 days ago)
-- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (5 days ago)
 
 #### 📫 How to reach me
 
