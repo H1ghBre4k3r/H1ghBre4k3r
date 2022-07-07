@@ -9,7 +9,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 - [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (today)
 - [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (today)
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (today)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (1 day ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 week ago)
 - [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) - The mobile app for MoneyBoy - a tool to track spendings between different people. (1 month ago)
 - [fwcd/dotpkg](https://github.com/fwcd/dotpkg) - Package manager for your dotfiles (1 month ago)
@@ -52,16 +52,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.  (today)
-- [MeViMo/youbit](https://github.com/MeViMo/youbit) - Using YouTube as a free file hosting service (today)
-- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. (today)
-- [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal IO library for Rust (today)
-- [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust (today)
-- [smol-rs/async-channel](https://github.com/smol-rs/async-channel) - Async multi-producer multi-consumer channel (2 days ago)
-- [Shopify/flash-list](https://github.com/Shopify/flash-list) - A better list for React Native (2 days ago)
-- [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust (2 days ago)
-- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. (3 days ago)
-- [TilBlechschmidt/WebGrid](https://github.com/TilBlechschmidt/WebGrid) - Decentralized, scalable and robust implementation of a selenium-grid equivalent. Based on the WebDriver specification by the W3C. (4 days ago)
+- [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.  (1 day ago)
+- [MeViMo/youbit](https://github.com/MeViMo/youbit) - Using YouTube as a free file hosting service (1 day ago)
+- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. (1 day ago)
+- [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal IO library for Rust (1 day ago)
+- [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust (1 day ago)
+- [smol-rs/async-channel](https://github.com/smol-rs/async-channel) - Async multi-producer multi-consumer channel (3 days ago)
+- [Shopify/flash-list](https://github.com/Shopify/flash-list) - A better list for React Native (3 days ago)
+- [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust (3 days ago)
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. (4 days ago)
+- [TilBlechschmidt/WebGrid](https://github.com/TilBlechschmidt/WebGrid) - Decentralized, scalable and robust implementation of a selenium-grid equivalent. Based on the WebDriver specification by the W3C. (5 days ago)
 
 #### 📫 How to reach me
 
