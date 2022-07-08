@@ -52,6 +52,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [jaromaz/MacintoshPi](https://github.com/jaromaz/MacintoshPi) - The project that allows running full-screen versions of Apple&#39;s Mac OS 7, Mac OS 8 and Mac OS 9 with sound, active online connection and modem emulation under Raspberry Pi. (today)
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. (today)
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.  (2 days ago)
 - [MeViMo/youbit](https://github.com/MeViMo/youbit) - Using YouTube as a free file hosting service (2 days ago)
@@ -61,7 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [smol-rs/async-channel](https://github.com/smol-rs/async-channel) - Async multi-producer multi-consumer channel (4 days ago)
 - [Shopify/flash-list](https://github.com/Shopify/flash-list) - A better list for React Native (4 days ago)
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust (4 days ago)
-- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. (5 days ago)
 
 #### 📫 How to reach me
 
