@@ -57,7 +57,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. (2 days ago)
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.  (4 days ago)
 - [MeViMo/youbit](https://github.com/MeViMo/youbit) - Using YouTube as a free file hosting service (4 days ago)
-- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. (4 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. (4 days ago)
 - [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal IO library for Rust (4 days ago)
 - [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust (4 days ago)
 - [smol-rs/async-channel](https://github.com/smol-rs/async-channel) - Async multi-producer multi-consumer channel (6 days ago)
