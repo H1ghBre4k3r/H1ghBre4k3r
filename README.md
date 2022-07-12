@@ -52,16 +52,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [tiltedphoques/TiltedEvolution](https://github.com/tiltedphoques/TiltedEvolution) - Skyrim and Fallout 4 mod to play online! (today)
+- [coder/coder](https://github.com/coder/coder) - Remote development environments on your infrastructure (today)
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (today)
+- [pittcsc/Summer2023-Internships](https://github.com/pittcsc/Summer2023-Internships) - Collection of Summer 2023 tech internships! (today)
 - [ryanmcgrath/cacao](https://github.com/ryanmcgrath/cacao) - Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working! (3 days ago)
 - [jaromaz/MacintoshPi](https://github.com/jaromaz/MacintoshPi) - A small project that allows running full-screen versions of Apple&#39;s Mac OS 7, Mac OS 8 and Mac OS 9 with sound, active online connection and modem emulation under Raspberry Pi. (4 days ago)
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. (4 days ago)
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.  (6 days ago)
 - [MeViMo/youbit](https://github.com/MeViMo/youbit) - Using YouTube as a free file hosting service (6 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. (6 days ago)
-- [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal IO library for Rust (6 days ago)
-- [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust (6 days ago)
-- [smol-rs/async-channel](https://github.com/smol-rs/async-channel) - Async multi-producer multi-consumer channel (1 week ago)
-- [Shopify/flash-list](https://github.com/Shopify/flash-list) - A better list for React Native (1 week ago)
 
 #### 📫 How to reach me
 
