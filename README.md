@@ -52,6 +52,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [nitnelave/lldap](https://github.com/nitnelave/lldap) - Light LDAP implementation (today)
 - [tiltedphoques/TiltedEvolution](https://github.com/tiltedphoques/TiltedEvolution) - Skyrim and Fallout 4 mod to play online! (1 day ago)
 - [coder/coder](https://github.com/coder/coder) - Remote development environments on your infrastructure (1 day ago)
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (1 day ago)
@@ -61,7 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. (5 days ago)
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.  (1 week ago)
 - [MeViMo/youbit](https://github.com/MeViMo/youbit) - Using YouTube as a free file hosting service (1 week ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. (1 week ago)
 
 #### 📫 How to reach me
 
