@@ -52,6 +52,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud (today)
+- [smol-rs/futures-lite](https://github.com/smol-rs/futures-lite) - Futures, streams, and async I/O combinators. (today)
 - [nitnelave/lldap](https://github.com/nitnelave/lldap) - Light LDAP implementation (2 days ago)
 - [tiltedphoques/TiltedEvolution](https://github.com/tiltedphoques/TiltedEvolution) - Skyrim and Fallout 4 mod to play online! (3 days ago)
 - [coder/coder](https://github.com/coder/coder) - Remote development environments on your infrastructure (3 days ago)
@@ -60,8 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [ryanmcgrath/cacao](https://github.com/ryanmcgrath/cacao) - Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working! (6 days ago)
 - [jaromaz/MacintoshPi](https://github.com/jaromaz/MacintoshPi) - A small project that allows running full-screen versions of Apple&#39;s Mac OS 7, Mac OS 8 and Mac OS 9 with sound, active online connection and modem emulation under Raspberry Pi. (1 week ago)
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. (1 week ago)
-- [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.  (1 week ago)
-- [MeViMo/youbit](https://github.com/MeViMo/youbit) - Using YouTube as a free file hosting service (1 week ago)
 
 #### 📫 How to reach me
 
