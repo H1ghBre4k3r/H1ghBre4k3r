@@ -7,12 +7,12 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/advent-of-code](https://github.com/H1ghBre4k3r/advent-of-code) - Advent of Code solutions written in Rust. (today)
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (today)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (2 days ago)
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (3 days ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (3 days ago)
-- [pesca-dev/artwork](https://github.com/pesca-dev/artwork) - Logo for PescaDev (5 days ago)
+- [H1ghBre4k3r/advent-of-code](https://github.com/H1ghBre4k3r/advent-of-code) - Advent of Code solutions written in Rust. (1 day ago)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (1 day ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (3 days ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (4 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (4 days ago)
+- [pesca-dev/artwork](https://github.com/pesca-dev/artwork) - Logo for PescaDev (6 days ago)
 - [H1ghBre4k3r/orca-rs](https://github.com/H1ghBre4k3r/orca-rs) - Library for using ORCA written in Rust. Originally part of my bachelors thesis. (1 week ago)
 - [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) - The mobile app for MoneyBoy - a tool to track spendings between different people. (1 month ago)
 - [fwcd/dotpkg](https://github.com/fwcd/dotpkg) - Package manager for your dotfiles (2 months ago)
@@ -39,7 +39,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [Update README.md](https://github.com/pesca-dev/artwork/pull/2) on [pesca-dev/artwork](https://github.com/pesca-dev/artwork) (5 days ago)
+- [Update README.md](https://github.com/pesca-dev/artwork/pull/2) on [pesca-dev/artwork](https://github.com/pesca-dev/artwork) (6 days ago)
 - [Feature: Rust rewrite](https://github.com/H1ghBre4k3r/bfc/pull/1) on [H1ghBre4k3r/bfc](https://github.com/H1ghBre4k3r/bfc) (1 month ago)
 - [Feature: SafeAreaView around the flyout](https://github.com/pesca-dev/moneyboy-app/pull/189) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (2 months ago)
 - [Feature: Rework SettingsView, use SegmentedControl and introduce NordColors](https://github.com/pesca-dev/moneyboy-app/pull/186) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (2 months ago)
@@ -52,16 +52,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust (today)
-- [rust-osdev/bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel. (1 day ago)
-- [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust (1 day ago)
-- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud (3 days ago)
-- [smol-rs/futures-lite](https://github.com/smol-rs/futures-lite) - Futures, streams, and async I/O combinators. (3 days ago)
-- [nitnelave/lldap](https://github.com/nitnelave/lldap) - Light LDAP implementation (5 days ago)
-- [tiltedphoques/TiltedEvolution](https://github.com/tiltedphoques/TiltedEvolution) - Skyrim and Fallout 4 mod to play online! (6 days ago)
-- [coder/coder](https://github.com/coder/coder) - Remote development environments on your infrastructure (6 days ago)
-- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (6 days ago)
-- [pittcsc/Summer2023-Internships](https://github.com/pittcsc/Summer2023-Internships) - Collection of Summer 2023 tech internships! (6 days ago)
+- [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys) - Lightweight full-featured WhatsApp Web &#43; Multi-Device API (1 day ago)
+- [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast. (1 day ago)
+- [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot (1 day ago)
+- [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust (1 day ago)
+- [rust-osdev/bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel. (2 days ago)
+- [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust (2 days ago)
+- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud (4 days ago)
+- [smol-rs/futures-lite](https://github.com/smol-rs/futures-lite) - Futures, streams, and async I/O combinators. (4 days ago)
+- [nitnelave/lldap](https://github.com/nitnelave/lldap) - Light LDAP implementation (6 days ago)
+- [tiltedphoques/TiltedEvolution](https://github.com/tiltedphoques/TiltedEvolution) - Skyrim and Fallout 4 mod to play online! (1 week ago)
 
 #### 📫 How to reach me
 
