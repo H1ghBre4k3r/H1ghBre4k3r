@@ -7,10 +7,10 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 day ago)
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (1 day ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (1 day ago)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (1 day ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (2 days ago)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (2 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (2 days ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (2 days ago)
 - [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (1 week ago)
 - [H1ghBre4k3r/advent-of-code](https://github.com/H1ghBre4k3r/advent-of-code) - Advent of Code solutions written in Rust. (1 week ago)
 - [pesca-dev/artwork](https://github.com/pesca-dev/artwork) - Logo for PescaDev (2 weeks ago)
@@ -40,7 +40,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 #### 🔨 My recent Pull Requests
 
 - [Update README.md](https://github.com/pesca-dev/artwork/pull/2) on [pesca-dev/artwork](https://github.com/pesca-dev/artwork) (2 weeks ago)
-- [Feature: Create Library](https://github.com/H1ghBre4k3r/disruption/pull/2) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (2 weeks ago)
+- [Feature: Create Library](https://github.com/H1ghBre4k3r/disruption/pull/2) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (3 weeks ago)
 - [Feature: Rust rewrite](https://github.com/H1ghBre4k3r/bfc/pull/1) on [H1ghBre4k3r/bfc](https://github.com/H1ghBre4k3r/bfc) (2 months ago)
 - [Feature: SafeAreaView around the flyout](https://github.com/pesca-dev/moneyboy-app/pull/189) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (2 months ago)
 - [Feature: Rework SettingsView, use SegmentedControl and introduce NordColors](https://github.com/pesca-dev/moneyboy-app/pull/186) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (2 months ago)
@@ -52,10 +52,10 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (today)
-- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (today)
-- [thepowersgang/rust-barebones-kernel](https://github.com/thepowersgang/rust-barebones-kernel) - A barebones framework for a rust kernel. (3 days ago)
-- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Safe and portable GPU abstraction in Rust, implementing WebGPU API. (5 days ago)
+- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (1 day ago)
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (1 day ago)
+- [thepowersgang/rust-barebones-kernel](https://github.com/thepowersgang/rust-barebones-kernel) - A barebones framework for a rust kernel. (4 days ago)
+- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Safe and portable GPU abstraction in Rust, implementing WebGPU API. (6 days ago)
 - [fwcd/trails](https://github.com/fwcd/trails) - Experimental web browser and rendering engine written from scratch (1 week ago)
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (1 week ago)
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly (1 week ago)
