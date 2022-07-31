@@ -9,8 +9,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (2 days ago)
 - [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (2 days ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (2 days ago)
 - [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (2 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (2 days ago)
 - [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (1 week ago)
 - [H1ghBre4k3r/advent-of-code](https://github.com/H1ghBre4k3r/advent-of-code) - Advent of Code solutions written in Rust. (1 week ago)
 - [pesca-dev/artwork](https://github.com/pesca-dev/artwork) - Logo for PescaDev (2 weeks ago)
