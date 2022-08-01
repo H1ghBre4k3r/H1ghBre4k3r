@@ -7,12 +7,12 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (2 days ago)
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (2 days ago)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (2 days ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (2 days ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (3 days ago)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (3 days ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (3 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (3 days ago)
 - [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (1 week ago)
-- [H1ghBre4k3r/advent-of-code](https://github.com/H1ghBre4k3r/advent-of-code) - Advent of Code solutions written in Rust. (1 week ago)
+- [H1ghBre4k3r/advent-of-code](https://github.com/H1ghBre4k3r/advent-of-code) - Advent of Code solutions written in Rust. (2 weeks ago)
 - [pesca-dev/artwork](https://github.com/pesca-dev/artwork) - Logo for PescaDev (2 weeks ago)
 - [H1ghBre4k3r/orca-rs](https://github.com/H1ghBre4k3r/orca-rs) - Library for using ORCA written in Rust. Originally part of my bachelors thesis. (3 weeks ago)
 - [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) - The mobile app for MoneyBoy - a tool to track spendings between different people. (2 months ago)
@@ -52,16 +52,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust (today)
-- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (1 day ago)
-- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (1 day ago)
-- [thepowersgang/rust-barebones-kernel](https://github.com/thepowersgang/rust-barebones-kernel) - A barebones framework for a rust kernel. (4 days ago)
-- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Safe and portable GPU abstraction in Rust, implementing WebGPU API. (6 days ago)
+- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust (1 day ago)
+- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (2 days ago)
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (2 days ago)
+- [thepowersgang/rust-barebones-kernel](https://github.com/thepowersgang/rust-barebones-kernel) - A barebones framework for a rust kernel. (5 days ago)
+- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Safe and portable GPU abstraction in Rust, implementing WebGPU API. (1 week ago)
 - [fwcd/trails](https://github.com/fwcd/trails) - Experimental web browser and rendering engine written from scratch (1 week ago)
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (1 week ago)
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly (1 week ago)
-- [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys) - Lightweight full-featured WhatsApp Web &#43; Multi-Device API (1 week ago)
-- [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast. (1 week ago)
+- [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys) - Lightweight full-featured WhatsApp Web &#43; Multi-Device API (2 weeks ago)
+- [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast. (2 weeks ago)
 
 #### 📫 How to reach me
 
