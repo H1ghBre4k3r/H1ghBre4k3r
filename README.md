@@ -7,10 +7,10 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (3 days ago)
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (3 days ago)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (3 days ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (3 days ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (4 days ago)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (4 days ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (4 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (4 days ago)
 - [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (1 week ago)
 - [H1ghBre4k3r/advent-of-code](https://github.com/H1ghBre4k3r/advent-of-code) - Advent of Code solutions written in Rust. (2 weeks ago)
 - [pesca-dev/artwork](https://github.com/pesca-dev/artwork) - Logo for PescaDev (2 weeks ago)
@@ -45,20 +45,20 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Feature: SafeAreaView around the flyout](https://github.com/pesca-dev/moneyboy-app/pull/189) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (2 months ago)
 - [Feature: Rework SettingsView, use SegmentedControl and introduce NordColors](https://github.com/pesca-dev/moneyboy-app/pull/186) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (2 months ago)
 - [Information about individual JSON schemas](https://github.com/fwcd/dotpkg/pull/5) on [fwcd/dotpkg](https://github.com/fwcd/dotpkg) (2 months ago)
-- [Add sample project structure](https://github.com/fwcd/bassment/pull/28) on [fwcd/bassment](https://github.com/fwcd/bassment) (2 months ago)
+- [Add sample project structure](https://github.com/fwcd/bassment/pull/28) on [fwcd/bassment](https://github.com/fwcd/bassment) (3 months ago)
 - [Bump typedoc from 0.21.5 to 0.22.15](https://github.com/pesca-dev/moneyboy-app/pull/182) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (3 months ago)
 - [Fix typo in README.md.tpl](https://github.com/muesli/muesli/pull/4) on [muesli/muesli](https://github.com/muesli/muesli) (3 months ago)
 - [Feature: E2E Tests with Detox](https://github.com/pesca-dev/moneyboy-app/pull/177) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [ronami/HypeScript](https://github.com/ronami/HypeScript) - 🐬 A simplified implementation of TypeScript&#39;s type system written in TypeScript&#39;s type system (today)
-- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL. (today)
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc (today)
-- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust (1 day ago)
-- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (2 days ago)
-- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (2 days ago)
-- [thepowersgang/rust-barebones-kernel](https://github.com/thepowersgang/rust-barebones-kernel) - A barebones framework for a rust kernel. (5 days ago)
+- [ronami/HypeScript](https://github.com/ronami/HypeScript) - 🐬 A simplified implementation of TypeScript&#39;s type system written in TypeScript&#39;s type system (1 day ago)
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL. (1 day ago)
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc (1 day ago)
+- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust (2 days ago)
+- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (3 days ago)
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (3 days ago)
+- [thepowersgang/rust-barebones-kernel](https://github.com/thepowersgang/rust-barebones-kernel) - A barebones framework for a rust kernel. (6 days ago)
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Safe and portable GPU abstraction in Rust, implementing WebGPU API. (1 week ago)
 - [fwcd/trails](https://github.com/fwcd/trails) - Experimental web browser and rendering engine written from scratch (1 week ago)
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (1 week ago)
