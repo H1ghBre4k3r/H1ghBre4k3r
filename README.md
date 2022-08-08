@@ -7,16 +7,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (2 days ago)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (2 days ago)
-- [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (3 days ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (4 days ago)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (3 days ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (3 days ago)
+- [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (4 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (5 days ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 week ago)
-- [H1ghBre4k3r/advent-of-code](https://github.com/H1ghBre4k3r/advent-of-code) - Advent of Code solutions written in Rust. (2 weeks ago)
+- [H1ghBre4k3r/advent-of-code](https://github.com/H1ghBre4k3r/advent-of-code) - Advent of Code solutions written in Rust. (3 weeks ago)
 - [pesca-dev/artwork](https://github.com/pesca-dev/artwork) - Logo for PescaDev (3 weeks ago)
 - [H1ghBre4k3r/orca-rs](https://github.com/H1ghBre4k3r/orca-rs) - Library for using ORCA written in Rust. Originally part of my bachelors thesis. (1 month ago)
 - [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) - The mobile app for MoneyBoy - a tool to track spendings between different people. (2 months ago)
-- [fwcd/dotpkg](https://github.com/fwcd/dotpkg) - Package manager for your dotfiles (2 months ago)
+- [fwcd/dotpkg](https://github.com/fwcd/dotpkg) - Package manager for your dotfiles (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -44,7 +44,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Feature: Rust rewrite](https://github.com/H1ghBre4k3r/bfc/pull/1) on [H1ghBre4k3r/bfc](https://github.com/H1ghBre4k3r/bfc) (2 months ago)
 - [Feature: SafeAreaView around the flyout](https://github.com/pesca-dev/moneyboy-app/pull/189) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (2 months ago)
 - [Feature: Rework SettingsView, use SegmentedControl and introduce NordColors](https://github.com/pesca-dev/moneyboy-app/pull/186) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (2 months ago)
-- [Information about individual JSON schemas](https://github.com/fwcd/dotpkg/pull/5) on [fwcd/dotpkg](https://github.com/fwcd/dotpkg) (2 months ago)
+- [Information about individual JSON schemas](https://github.com/fwcd/dotpkg/pull/5) on [fwcd/dotpkg](https://github.com/fwcd/dotpkg) (3 months ago)
 - [Add sample project structure](https://github.com/fwcd/bassment/pull/28) on [fwcd/bassment](https://github.com/fwcd/bassment) (3 months ago)
 - [Bump typedoc from 0.21.5 to 0.22.15](https://github.com/pesca-dev/moneyboy-app/pull/182) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (3 months ago)
 - [Fix typo in README.md.tpl](https://github.com/muesli/muesli/pull/4) on [muesli/muesli](https://github.com/muesli/muesli) (3 months ago)
@@ -52,16 +52,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [rust-osdev/x86_64](https://github.com/rust-osdev/x86_64) - Library to program x86_64 hardware. (today)
-- [rust-osdev/bootloader](https://github.com/rust-osdev/bootloader) - An experimental pure-Rust x86 bootloader (today)
-- [Rust-SDL2/rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust (today)
-- [vulkano-rs/vulkano](https://github.com/vulkano-rs/vulkano) - Safe and rich Rust wrapper around the Vulkan API (today)
-- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine (today)
-- [cia-foundation/TempleOS](https://github.com/cia-foundation/TempleOS) - Talk to God on up to 64 cores. Final snapshot of the Third Temple. (2 days ago)
-- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm (5 days ago)
-- [ronami/HypeScript](https://github.com/ronami/HypeScript) - 🐬 A simplified implementation of TypeScript&#39;s type system written in TypeScript&#39;s type system (6 days ago)
-- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL. (6 days ago)
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc (6 days ago)
+- [rust-osdev/x86_64](https://github.com/rust-osdev/x86_64) - Library to program x86_64 hardware. (1 day ago)
+- [rust-osdev/bootloader](https://github.com/rust-osdev/bootloader) - An experimental pure-Rust x86 bootloader (1 day ago)
+- [Rust-SDL2/rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust (1 day ago)
+- [vulkano-rs/vulkano](https://github.com/vulkano-rs/vulkano) - Safe and rich Rust wrapper around the Vulkan API (1 day ago)
+- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine (1 day ago)
+- [cia-foundation/TempleOS](https://github.com/cia-foundation/TempleOS) - Talk to God on up to 64 cores. Final snapshot of the Third Temple. (3 days ago)
+- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm (6 days ago)
+- [ronami/HypeScript](https://github.com/ronami/HypeScript) - 🐬 A simplified implementation of TypeScript&#39;s type system written in TypeScript&#39;s type system (1 week ago)
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL. (1 week ago)
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc (1 week ago)
 
 #### 📫 How to reach me
 
