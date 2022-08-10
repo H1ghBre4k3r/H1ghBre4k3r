@@ -52,6 +52,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [Quramy/npm-ts-workspaces-example](https://github.com/Quramy/npm-ts-workspaces-example) - Monorepos example project using npm workspaces and TypeScript project references (today)
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen&#39;s branching model. (today)
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. (1 day ago)
 - [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives. (2 days ago)
@@ -61,7 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Rust-SDL2/rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust (3 days ago)
 - [vulkano-rs/vulkano](https://github.com/vulkano-rs/vulkano) - Safe and rich Rust wrapper around the Vulkan API (3 days ago)
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine (3 days ago)
-- [cia-foundation/TempleOS](https://github.com/cia-foundation/TempleOS) - Talk to God on up to 64 cores. Final snapshot of the Third Temple. (5 days ago)
 
 #### 📫 How to reach me
 
