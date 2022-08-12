@@ -39,6 +39,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [Cleanup unneeded code](https://github.com/H1ghBre4k3r/orca-rs/pull/2) on [H1ghBre4k3r/orca-rs](https://github.com/H1ghBre4k3r/orca-rs) (today)
 - [Update README.md](https://github.com/pesca-dev/artwork/pull/2) on [pesca-dev/artwork](https://github.com/pesca-dev/artwork) (1 month ago)
 - [Feature: Create Library](https://github.com/H1ghBre4k3r/disruption/pull/2) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (1 month ago)
 - [Feature: Rust rewrite](https://github.com/H1ghBre4k3r/bfc/pull/1) on [H1ghBre4k3r/bfc](https://github.com/H1ghBre4k3r/bfc) (2 months ago)
@@ -48,7 +49,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Add sample project structure](https://github.com/fwcd/bassment/pull/28) on [fwcd/bassment](https://github.com/fwcd/bassment) (3 months ago)
 - [Bump typedoc from 0.21.5 to 0.22.15](https://github.com/pesca-dev/moneyboy-app/pull/182) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (3 months ago)
 - [Fix typo in README.md.tpl](https://github.com/muesli/muesli/pull/4) on [muesli/muesli](https://github.com/muesli/muesli) (3 months ago)
-- [Feature: E2E Tests with Detox](https://github.com/pesca-dev/moneyboy-app/pull/177) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (3 months ago)
 
 #### ⭐ Recent Stars
 
