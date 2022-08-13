@@ -52,6 +52,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop (today)
 - [requarks/wiki-site](https://github.com/requarks/wiki-site) - Website for Wiki.js v3 (today)
 - [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨ (1 day ago)
 - [novuhq/novu](https://github.com/novuhq/novu) - 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more... (1 day ago)
@@ -61,7 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Quramy/npm-ts-workspaces-example](https://github.com/Quramy/npm-ts-workspaces-example) - Monorepos example project using npm workspaces and TypeScript project references (3 days ago)
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen&#39;s branching model. (3 days ago)
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. (4 days ago)
-- [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives. (5 days ago)
 
 #### 📫 How to reach me
 
