@@ -52,6 +52,9 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [cloud-hypervisor/hypervisor-framework](https://github.com/cloud-hypervisor/hypervisor-framework) - Crates for the Mac OS Hypervisor bindings and APIs (today)
+- [RWTH-OS/xhypervisor](https://github.com/RWTH-OS/xhypervisor) - Rust API to the OS X Hypervisor framework for hardware-accelerated virtualization (today)
+- [moby/hyperkit](https://github.com/moby/hyperkit) - A toolkit for embedding hypervisor capabilities in your application (today)
 - [not-fl3/macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.  (2 days ago)
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop (2 days ago)
 - [requarks/wiki-site](https://github.com/requarks/wiki-site) - Website for Wiki.js v3 (2 days ago)
@@ -59,9 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [novuhq/novu](https://github.com/novuhq/novu) - 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more... (3 days ago)
 - [GetStream/whatsApp-clone-compose](https://github.com/GetStream/whatsApp-clone-compose) - 📱 WhatsApp clone project demonstrates modern Android development built with Jetpack Compose and Stream Chat SDK for Compose. (3 days ago)
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (3 days ago)
-- [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim (5 days ago)
-- [Quramy/npm-ts-workspaces-example](https://github.com/Quramy/npm-ts-workspaces-example) - Monorepos example project using npm workspaces and TypeScript project references (5 days ago)
-- [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen&#39;s branching model. (5 days ago)
 
 #### 📫 How to reach me
 
