@@ -7,11 +7,11 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (1 day ago)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (1 day ago)
-- [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (2 days ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (2 days ago)
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (6 days ago)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (2 days ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (2 days ago)
+- [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (3 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (3 days ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 week ago)
 - [H1ghBre4k3r/advent-of-code](https://github.com/H1ghBre4k3r/advent-of-code) - Advent of Code solutions written in Rust. (1 month ago)
 - [pesca-dev/artwork](https://github.com/pesca-dev/artwork) - Logo for PescaDev (1 month ago)
 - [H1ghBre4k3r/orca-rs](https://github.com/H1ghBre4k3r/orca-rs) - Library for using ORCA written in Rust. Originally part of my bachelors thesis. (1 month ago)
@@ -39,7 +39,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [Cleanup unneeded code](https://github.com/H1ghBre4k3r/orca-rs/pull/2) on [H1ghBre4k3r/orca-rs](https://github.com/H1ghBre4k3r/orca-rs) (6 days ago)
+- [Cleanup unneeded code](https://github.com/H1ghBre4k3r/orca-rs/pull/2) on [H1ghBre4k3r/orca-rs](https://github.com/H1ghBre4k3r/orca-rs) (1 week ago)
 - [Update README.md](https://github.com/pesca-dev/artwork/pull/2) on [pesca-dev/artwork](https://github.com/pesca-dev/artwork) (1 month ago)
 - [Feature: Create Library](https://github.com/H1ghBre4k3r/disruption/pull/2) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (1 month ago)
 - [Feature: Rust rewrite](https://github.com/H1ghBre4k3r/bfc/pull/1) on [H1ghBre4k3r/bfc](https://github.com/H1ghBre4k3r/bfc) (2 months ago)
@@ -52,16 +52,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [nrf-rs/nrf-hal](https://github.com/nrf-rs/nrf-hal) - A Rust HAL for the nRF family of devices (2 days ago)
-- [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console (2 days ago)
-- [cloud-hypervisor/hypervisor-framework](https://github.com/cloud-hypervisor/hypervisor-framework) - Crates for the Mac OS Hypervisor bindings and APIs (3 days ago)
-- [RWTH-OS/xhypervisor](https://github.com/RWTH-OS/xhypervisor) - Rust API to the OS X Hypervisor framework for hardware-accelerated virtualization (3 days ago)
-- [moby/hyperkit](https://github.com/moby/hyperkit) - A toolkit for embedding hypervisor capabilities in your application (3 days ago)
-- [not-fl3/macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.  (5 days ago)
-- [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop (5 days ago)
-- [requarks/wiki-site](https://github.com/requarks/wiki-site) - Website for Wiki.js v3 (5 days ago)
-- [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨ (6 days ago)
-- [novuhq/novu](https://github.com/novuhq/novu) - 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more... (6 days ago)
+- [nrf-rs/nrf-hal](https://github.com/nrf-rs/nrf-hal) - A Rust HAL for the nRF family of devices (3 days ago)
+- [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console (3 days ago)
+- [cloud-hypervisor/hypervisor-framework](https://github.com/cloud-hypervisor/hypervisor-framework) - Crates for the Mac OS Hypervisor bindings and APIs (4 days ago)
+- [RWTH-OS/xhypervisor](https://github.com/RWTH-OS/xhypervisor) - Rust API to the OS X Hypervisor framework for hardware-accelerated virtualization (4 days ago)
+- [moby/hyperkit](https://github.com/moby/hyperkit) - A toolkit for embedding hypervisor capabilities in your application (4 days ago)
+- [not-fl3/macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.  (6 days ago)
+- [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop (6 days ago)
+- [requarks/wiki-site](https://github.com/requarks/wiki-site) - Website for Wiki.js v3 (6 days ago)
+- [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨ (1 week ago)
+- [novuhq/novu](https://github.com/novuhq/novu) - 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more... (1 week ago)
 
 #### 📫 How to reach me
 
