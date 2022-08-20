@@ -52,6 +52,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [majbthrd/DapperMime](https://github.com/majbthrd/DapperMime) - CMSIS-DAP using TinyUSB (today)
 - [nrf-rs/nrf-hal](https://github.com/nrf-rs/nrf-hal) - A Rust HAL for the nRF family of devices (4 days ago)
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console (4 days ago)
 - [cloud-hypervisor/hypervisor-framework](https://github.com/cloud-hypervisor/hypervisor-framework) - Crates for the Mac OS Hypervisor bindings and APIs (5 days ago)
@@ -61,7 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop (1 week ago)
 - [requarks/wiki-site](https://github.com/requarks/wiki-site) - Website for Wiki.js v3 (1 week ago)
 - [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨ (1 week ago)
-- [novuhq/novu](https://github.com/novuhq/novu) - 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more... (1 week ago)
 
 #### 📫 How to reach me
 
