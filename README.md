@@ -52,6 +52,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [embassy-rs/cyw43](https://github.com/embassy-rs/cyw43) - Pure-Rust driver for the CYW43439 (WiFi chip used in the Raspberry Pi Pico W) (today)
 - [majbthrd/DapperMime](https://github.com/majbthrd/DapperMime) - CMSIS-DAP using TinyUSB (today)
 - [nrf-rs/nrf-hal](https://github.com/nrf-rs/nrf-hal) - A Rust HAL for the nRF family of devices (4 days ago)
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console (4 days ago)
@@ -61,7 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [not-fl3/macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.  (1 week ago)
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop (1 week ago)
 - [requarks/wiki-site](https://github.com/requarks/wiki-site) - Website for Wiki.js v3 (1 week ago)
-- [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨ (1 week ago)
 
 #### 📫 How to reach me
 
