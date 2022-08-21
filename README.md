@@ -52,6 +52,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS) (today)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library (today)
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (today)
 - [embassy-rs/cyw43](https://github.com/embassy-rs/cyw43) - Pure-Rust driver for the CYW43439 (WiFi chip used in the Raspberry Pi Pico W) (1 day ago)
@@ -61,7 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [cloud-hypervisor/hypervisor-framework](https://github.com/cloud-hypervisor/hypervisor-framework) - Crates for the Mac OS Hypervisor bindings and APIs (6 days ago)
 - [RWTH-OS/xhypervisor](https://github.com/RWTH-OS/xhypervisor) - Rust API to the OS X Hypervisor framework for hardware-accelerated virtualization (6 days ago)
 - [moby/hyperkit](https://github.com/moby/hyperkit) - A toolkit for embedding hypervisor capabilities in your application (6 days ago)
-- [not-fl3/macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.  (1 week ago)
 
 #### 📫 How to reach me
 
