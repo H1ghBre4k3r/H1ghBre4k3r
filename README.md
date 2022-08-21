@@ -7,10 +7,10 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (1 day ago)
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (3 days ago)
-- [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (4 days ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (4 days ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (2 days ago)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (4 days ago)
+- [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (5 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (5 days ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 week ago)
 - [H1ghBre4k3r/advent-of-code](https://github.com/H1ghBre4k3r/advent-of-code) - Advent of Code solutions written in Rust. (1 month ago)
 - [pesca-dev/artwork](https://github.com/pesca-dev/artwork) - Logo for PescaDev (1 month ago)
@@ -52,13 +52,13 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [embassy-rs/cyw43](https://github.com/embassy-rs/cyw43) - Pure-Rust driver for the CYW43439 (WiFi chip used in the Raspberry Pi Pico W) (today)
-- [majbthrd/DapperMime](https://github.com/majbthrd/DapperMime) - CMSIS-DAP using TinyUSB (today)
-- [nrf-rs/nrf-hal](https://github.com/nrf-rs/nrf-hal) - A Rust HAL for the nRF family of devices (4 days ago)
-- [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console (4 days ago)
-- [cloud-hypervisor/hypervisor-framework](https://github.com/cloud-hypervisor/hypervisor-framework) - Crates for the Mac OS Hypervisor bindings and APIs (5 days ago)
-- [RWTH-OS/xhypervisor](https://github.com/RWTH-OS/xhypervisor) - Rust API to the OS X Hypervisor framework for hardware-accelerated virtualization (5 days ago)
-- [moby/hyperkit](https://github.com/moby/hyperkit) - A toolkit for embedding hypervisor capabilities in your application (5 days ago)
+- [embassy-rs/cyw43](https://github.com/embassy-rs/cyw43) - Pure-Rust driver for the CYW43439 (WiFi chip used in the Raspberry Pi Pico W) (1 day ago)
+- [majbthrd/DapperMime](https://github.com/majbthrd/DapperMime) - CMSIS-DAP using TinyUSB (1 day ago)
+- [nrf-rs/nrf-hal](https://github.com/nrf-rs/nrf-hal) - A Rust HAL for the nRF family of devices (5 days ago)
+- [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console (5 days ago)
+- [cloud-hypervisor/hypervisor-framework](https://github.com/cloud-hypervisor/hypervisor-framework) - Crates for the Mac OS Hypervisor bindings and APIs (6 days ago)
+- [RWTH-OS/xhypervisor](https://github.com/RWTH-OS/xhypervisor) - Rust API to the OS X Hypervisor framework for hardware-accelerated virtualization (6 days ago)
+- [moby/hyperkit](https://github.com/moby/hyperkit) - A toolkit for embedding hypervisor capabilities in your application (6 days ago)
 - [not-fl3/macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.  (1 week ago)
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop (1 week ago)
 - [requarks/wiki-site](https://github.com/requarks/wiki-site) - Website for Wiki.js v3 (1 week ago)
