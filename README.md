@@ -39,6 +39,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [Minor example refactorings](https://github.com/fwcd/djcontroller.js/pull/3) on [fwcd/djcontroller.js](https://github.com/fwcd/djcontroller.js) (today)
 - [Major refactorings](https://github.com/H1ghBre4k3r/orca-rs/pull/4) on [H1ghBre4k3r/orca-rs](https://github.com/H1ghBre4k3r/orca-rs) (2 days ago)
 - [Cleanup unneeded code](https://github.com/H1ghBre4k3r/orca-rs/pull/2) on [H1ghBre4k3r/orca-rs](https://github.com/H1ghBre4k3r/orca-rs) (1 week ago)
 - [Update README.md](https://github.com/pesca-dev/artwork/pull/2) on [pesca-dev/artwork](https://github.com/pesca-dev/artwork) (1 month ago)
@@ -48,10 +49,11 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Feature: Rework SettingsView, use SegmentedControl and introduce NordColors](https://github.com/pesca-dev/moneyboy-app/pull/186) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (3 months ago)
 - [Information about individual JSON schemas](https://github.com/fwcd/dotpkg/pull/5) on [fwcd/dotpkg](https://github.com/fwcd/dotpkg) (3 months ago)
 - [Add sample project structure](https://github.com/fwcd/bassment/pull/28) on [fwcd/bassment](https://github.com/fwcd/bassment) (3 months ago)
-- [Bump typedoc from 0.21.5 to 0.22.15](https://github.com/pesca-dev/moneyboy-app/pull/182) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (3 months ago)
 
 #### ⭐ Recent Stars
 
+- [fwcd/djcontroller.js](https://github.com/fwcd/djcontroller.js) - Library for interacting with MIDI DJ controllers in JavaScript (today)
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder (today)
 - [headwaymaps/headway](https://github.com/headwaymaps/headway) - Self-hostable maps stack, powered by OpenStreetMap. (today)
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust  (today)
 - [woutervh-/typescript-is](https://github.com/woutervh-/typescript-is) -  (3 days ago)
@@ -60,8 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library (4 days ago)
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (4 days ago)
 - [embassy-rs/cyw43](https://github.com/embassy-rs/cyw43) - Pure-Rust driver for the CYW43439 (WiFi chip used in the Raspberry Pi Pico W) (5 days ago)
-- [majbthrd/DapperMime](https://github.com/majbthrd/DapperMime) - CMSIS-DAP using TinyUSB (5 days ago)
-- [nrf-rs/nrf-hal](https://github.com/nrf-rs/nrf-hal) - A Rust HAL for the nRF family of devices (1 week ago)
 
 #### 📫 How to reach me
 
