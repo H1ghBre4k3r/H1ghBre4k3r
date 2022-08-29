@@ -52,6 +52,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [knurling-rs/defmt](https://github.com/knurling-rs/defmt) - Efficient, deferred formatting for logging on embedded systems (today)
 - [almindor/mipidsi](https://github.com/almindor/mipidsi) - MIPI Display Serial Interface unified driver (3 days ago)
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively. (4 days ago)
 - [fwcd/djcontroller.js](https://github.com/fwcd/djcontroller.js) - Library for interacting with MIDI DJ controllers in JavaScript (4 days ago)
@@ -61,7 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [woutervh-/typescript-is](https://github.com/woutervh-/typescript-is) -  (1 week ago)
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React (1 week ago)
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS) (1 week ago)
-- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library (1 week ago)
 
 #### 📫 How to reach me
 
