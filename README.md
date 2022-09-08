@@ -33,6 +33,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
+- [kieler/vscode](https://github.com/kieler/vscode) ([v0.1.0](https://github.com/kieler/vscode/releases/tag/v0.1.0), today) - 
 - [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) ([v0.2.1](https://github.com/pesca-dev/moneyboy-app/releases/tag/v0.2.1), 3 months ago) - The mobile app for MoneyBoy - a tool to track spendings between different people.
 - [H1ghBre4k3r/bfc](https://github.com/H1ghBre4k3r/bfc) ([v1.0.0](https://github.com/H1ghBre4k3r/bfc/releases/tag/v1.0.0), 7 months ago) - Brainfuck interpreter and compiler.
 - [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) ([v0.2.0](https://github.com/H1ghBre4k3r/decoratory/releases/tag/v0.2.0), 8 months ago) - Utility decorators for TypeScript.
