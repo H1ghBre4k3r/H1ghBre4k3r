@@ -7,11 +7,11 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (today)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (today)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (today)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (2 days ago)
-- [H1ghBre4k3r/orca-rs](https://github.com/H1ghBre4k3r/orca-rs) - Library for using ORCA written in Rust. Originally part of my bachelors thesis. (6 days ago)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (1 day ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (1 day ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (1 day ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (3 days ago)
+- [H1ghBre4k3r/orca-rs](https://github.com/H1ghBre4k3r/orca-rs) - Library for using ORCA written in Rust. Originally part of my bachelors thesis. (1 week ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 week ago)
 - [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (1 week ago)
 - [H1ghBre4k3r/advent-of-code](https://github.com/H1ghBre4k3r/advent-of-code) - Advent of Code solutions written in Rust. (2 months ago)
@@ -48,12 +48,12 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Feature: Rust rewrite](https://github.com/H1ghBre4k3r/bfc/pull/1) on [H1ghBre4k3r/bfc](https://github.com/H1ghBre4k3r/bfc) (4 months ago)
 - [Feature: SafeAreaView around the flyout](https://github.com/pesca-dev/moneyboy-app/pull/189) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (4 months ago)
 - [Feature: Rework SettingsView, use SegmentedControl and introduce NordColors](https://github.com/pesca-dev/moneyboy-app/pull/186) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (4 months ago)
-- [Information about individual JSON schemas](https://github.com/fwcd/dotpkg/pull/5) on [fwcd/dotpkg](https://github.com/fwcd/dotpkg) (4 months ago)
+- [Information about individual JSON schemas](https://github.com/fwcd/dotpkg/pull/5) on [fwcd/dotpkg](https://github.com/fwcd/dotpkg) (5 months ago)
 - [Add sample project structure](https://github.com/fwcd/bassment/pull/28) on [fwcd/bassment](https://github.com/fwcd/bassment) (5 months ago)
 
 #### ⭐ Recent Stars
 
-- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com (today)
+- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com (1 day ago)
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference (1 week ago)
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly (1 week ago)
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics &#43; free custom domains. (1 week ago)
