@@ -53,6 +53,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [AleoHQ/snarkOS](https://github.com/AleoHQ/snarkOS) - A Decentralized Operating System for Zero-Knowledge Applications (today)
 - [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly (2 weeks ago)
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com (2 weeks ago)
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference (3 weeks ago)
@@ -62,7 +63,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (1 month ago)
 - [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest) - A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript. (1 month ago)
 - [rust-embedded/wg](https://github.com/rust-embedded/wg) - Coordination repository of the embedded devices Working Group (1 month ago)
-- [MaikKlein/unreal-rust](https://github.com/MaikKlein/unreal-rust) - Rust integration for Unreal Engine 5 (1 month ago)
 
 #### 📫 How to reach me
 
