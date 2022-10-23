@@ -53,6 +53,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [gfx-rs/gfx](https://github.com/gfx-rs/gfx) - [maintenance mode] A low-overhead Vulkan-like GPU API for Rust. (today)
+- [gfx-rs/naga](https://github.com/gfx-rs/naga) - Universal shader translation in Rust (today)
 - [AleoHQ/snarkOS](https://github.com/AleoHQ/snarkOS) - A Decentralized Operating System for Zero-Knowledge Applications (2 days ago)
 - [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly (2 weeks ago)
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com (2 weeks ago)
@@ -61,8 +63,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics &#43; free custom domains. (4 weeks ago)
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet (1 month ago)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (1 month ago)
-- [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest) - A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript. (1 month ago)
-- [rust-embedded/wg](https://github.com/rust-embedded/wg) - Coordination repository of the embedded devices Working Group (1 month ago)
 
 #### 📫 How to reach me
 
