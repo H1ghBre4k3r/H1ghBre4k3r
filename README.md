@@ -53,6 +53,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [rexim/aoc-2022](https://github.com/rexim/aoc-2022) -  (today)
 - [tsoding/olive.c](https://github.com/tsoding/olive.c) - Simple 2D Graphics Library for C (2 days ago)
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - An open-source low-code Platform for Developers. (1 week ago)
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install. (1 week ago)
@@ -62,7 +63,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (1 week ago)
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes (1 week ago)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (2 weeks ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 month ago)
 
 #### 📫 How to reach me
 
