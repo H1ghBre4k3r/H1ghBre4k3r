@@ -40,6 +40,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [Add H1ghBre4k3r to submissions](https://github.com/melfkammholz/aoc-submissions/pull/13) on [melfkammholz/aoc-submissions](https://github.com/melfkammholz/aoc-submissions) (today)
 - [Fix PersistentVolumeClaim](https://github.com/fwcd/d2/pull/123) on [fwcd/d2](https://github.com/fwcd/d2) (1 week ago)
 - [Minor example refactorings](https://github.com/fwcd/djcontroller.js/pull/3) on [fwcd/djcontroller.js](https://github.com/fwcd/djcontroller.js) (3 months ago)
 - [Major refactorings](https://github.com/H1ghBre4k3r/orca-rs/pull/4) on [H1ghBre4k3r/orca-rs](https://github.com/H1ghBre4k3r/orca-rs) (3 months ago)
@@ -49,7 +50,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Feature: Rust rewrite](https://github.com/H1ghBre4k3r/bfc/pull/1) on [H1ghBre4k3r/bfc](https://github.com/H1ghBre4k3r/bfc) (6 months ago)
 - [Feature: SafeAreaView around the flyout](https://github.com/pesca-dev/moneyboy-app/pull/189) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (6 months ago)
 - [Feature: Rework SettingsView, use SegmentedControl and introduce NordColors](https://github.com/pesca-dev/moneyboy-app/pull/186) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (6 months ago)
-- [Information about individual JSON schemas](https://github.com/fwcd/dotpkg/pull/5) on [fwcd/dotpkg](https://github.com/fwcd/dotpkg) (6 months ago)
 
 #### ⭐ Recent Stars
 
