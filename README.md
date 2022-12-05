@@ -7,13 +7,13 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/aoc-2022](https://github.com/H1ghBre4k3r/aoc-2022) - My solutions to Advent of Code 2022. (today)
-- [melfkammholz/aoc-submissions](https://github.com/melfkammholz/aoc-submissions) -  (1 day ago)
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (3 days ago)
-- [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (3 days ago)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (3 days ago)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (3 days ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (5 days ago)
+- [H1ghBre4k3r/aoc-2022](https://github.com/H1ghBre4k3r/aoc-2022) - My solutions to Advent of Code 2022. (1 day ago)
+- [melfkammholz/aoc-submissions](https://github.com/melfkammholz/aoc-submissions) -  (2 days ago)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (4 days ago)
+- [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (4 days ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (4 days ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (4 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (6 days ago)
 - [fwcd/d2](https://github.com/fwcd/d2) - Command-based virtual assistant for Discord and other platforms (2 weeks ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (2 weeks ago)
 - [H1ghBre4k3r/orca-rs](https://github.com/H1ghBre4k3r/orca-rs) - Library for using ORCA written in Rust. Originally part of my bachelors thesis. (2 months ago)
@@ -40,7 +40,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [Add H1ghBre4k3r to submissions](https://github.com/melfkammholz/aoc-submissions/pull/13) on [melfkammholz/aoc-submissions](https://github.com/melfkammholz/aoc-submissions) (1 day ago)
+- [Add H1ghBre4k3r to submissions](https://github.com/melfkammholz/aoc-submissions/pull/13) on [melfkammholz/aoc-submissions](https://github.com/melfkammholz/aoc-submissions) (2 days ago)
 - [Fix PersistentVolumeClaim](https://github.com/fwcd/d2/pull/123) on [fwcd/d2](https://github.com/fwcd/d2) (2 weeks ago)
 - [Minor example refactorings](https://github.com/fwcd/djcontroller.js/pull/3) on [fwcd/djcontroller.js](https://github.com/fwcd/djcontroller.js) (3 months ago)
 - [Major refactorings](https://github.com/H1ghBre4k3r/orca-rs/pull/4) on [H1ghBre4k3r/orca-rs](https://github.com/H1ghBre4k3r/orca-rs) (3 months ago)
@@ -53,8 +53,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [rexim/aoc-2022](https://github.com/rexim/aoc-2022) -  (3 days ago)
-- [tsoding/olive.c](https://github.com/tsoding/olive.c) - Simple 2D Graphics Library for C (5 days ago)
+- [rexim/aoc-2022](https://github.com/rexim/aoc-2022) -  (4 days ago)
+- [tsoding/olive.c](https://github.com/tsoding/olive.c) - Simple 2D Graphics Library for C (6 days ago)
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - An open-source low-code Platform for Developers. (1 week ago)
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install. (1 week ago)
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator (1 week ago)
