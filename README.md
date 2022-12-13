@@ -54,6 +54,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [apple/ccs-calendarserver](https://github.com/apple/ccs-calendarserver) - The Calendar and Contacts Server. (today)
 - [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language (1 week ago)
 - [hendrick404/advent-of-code-2022](https://github.com/hendrick404/advent-of-code-2022) -  (1 week ago)
 - [rexim/aoc-2022](https://github.com/rexim/aoc-2022) -  (1 week ago)
@@ -63,7 +64,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator (2 weeks ago)
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (2 weeks ago)
 - [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform. (3 weeks ago)
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (3 weeks ago)
 
 #### 📫 How to reach me
 
