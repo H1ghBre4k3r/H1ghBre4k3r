@@ -33,7 +33,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [H1ghBre4k3r/rustvision](https://github.com/H1ghBre4k3r/rustvision) ([v0.1.0](https://github.com/H1ghBre4k3r/rustvision/releases/tag/v0.1.0), 6 days ago) - Simple (and very early) library for interacting with images, vertices (and some other stuff related to computer vision) written in Rust. 
+- [H1ghBre4k3r/rustvision](https://github.com/H1ghBre4k3r/rustvision) ([v0.1.1](https://github.com/H1ghBre4k3r/rustvision/releases/tag/v0.1.1), today) - Simple (and very early) library for interacting with images, vertices (and some other stuff related to computer vision) written in Rust. 
 - [kieler/vscode](https://github.com/kieler/vscode) ([v0.2.0](https://github.com/kieler/vscode/releases/tag/v0.2.0), 1 week ago) - 
 - [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) ([v0.2.1](https://github.com/pesca-dev/moneyboy-app/releases/tag/v0.2.1), 7 months ago) - The mobile app for MoneyBoy - a tool to track spendings between different people.
 - [H1ghBre4k3r/bfc](https://github.com/H1ghBre4k3r/bfc) ([v1.0.0](https://github.com/H1ghBre4k3r/bfc/releases/tag/v1.0.0), 11 months ago) - Brainfuck interpreter and compiler.
