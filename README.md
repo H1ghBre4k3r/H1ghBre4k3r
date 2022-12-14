@@ -7,15 +7,15 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (today)
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (today)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (today)
-- [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (today)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (today)
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (today)
-- [H1ghBre4k3r/rustvision](https://github.com/H1ghBre4k3r/rustvision) - Simple (and very early) library for interacting with images, vertices (and some other stuff related to computer vision) written in Rust.  (1 day ago)
-- [H1ghBre4k3r/aoc-2022](https://github.com/H1ghBre4k3r/aoc-2022) - My solutions to Advent of Code 2022. (3 days ago)
-- [melfkammholz/aoc-submissions](https://github.com/melfkammholz/aoc-submissions) -  (4 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (1 day ago)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (1 day ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (1 day ago)
+- [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (1 day ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (1 day ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 day ago)
+- [H1ghBre4k3r/rustvision](https://github.com/H1ghBre4k3r/rustvision) - Simple (and very early) library for interacting with images, vertices (and some other stuff related to computer vision) written in Rust.  (2 days ago)
+- [H1ghBre4k3r/aoc-2022](https://github.com/H1ghBre4k3r/aoc-2022) - My solutions to Advent of Code 2022. (4 days ago)
+- [melfkammholz/aoc-submissions](https://github.com/melfkammholz/aoc-submissions) -  (5 days ago)
 - [fwcd/d2](https://github.com/fwcd/d2) - Command-based virtual assistant for Discord and other platforms (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -33,7 +33,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [H1ghBre4k3r/rustvision](https://github.com/H1ghBre4k3r/rustvision) ([v0.1.1](https://github.com/H1ghBre4k3r/rustvision/releases/tag/v0.1.1), today) - Simple (and very early) library for interacting with images, vertices (and some other stuff related to computer vision) written in Rust. 
+- [H1ghBre4k3r/rustvision](https://github.com/H1ghBre4k3r/rustvision) ([v0.1.1](https://github.com/H1ghBre4k3r/rustvision/releases/tag/v0.1.1), 1 day ago) - Simple (and very early) library for interacting with images, vertices (and some other stuff related to computer vision) written in Rust. 
 - [kieler/vscode](https://github.com/kieler/vscode) ([v0.2.0](https://github.com/kieler/vscode/releases/tag/v0.2.0), 1 week ago) - 
 - [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) ([v0.2.1](https://github.com/pesca-dev/moneyboy-app/releases/tag/v0.2.1), 7 months ago) - The mobile app for MoneyBoy - a tool to track spendings between different people.
 - [H1ghBre4k3r/bfc](https://github.com/H1ghBre4k3r/bfc) ([v1.0.0](https://github.com/H1ghBre4k3r/bfc/releases/tag/v1.0.0), 11 months ago) - Brainfuck interpreter and compiler.
@@ -41,7 +41,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [Fix: Adjust paths for H1ghBre4k3r](https://github.com/melfkammholz/aoc-submissions/pull/26) on [melfkammholz/aoc-submissions](https://github.com/melfkammholz/aoc-submissions) (4 days ago)
+- [Fix: Adjust paths for H1ghBre4k3r](https://github.com/melfkammholz/aoc-submissions/pull/26) on [melfkammholz/aoc-submissions](https://github.com/melfkammholz/aoc-submissions) (5 days ago)
 - [Add H1ghBre4k3r to submissions](https://github.com/melfkammholz/aoc-submissions/pull/13) on [melfkammholz/aoc-submissions](https://github.com/melfkammholz/aoc-submissions) (1 week ago)
 - [Fix PersistentVolumeClaim](https://github.com/fwcd/d2/pull/123) on [fwcd/d2](https://github.com/fwcd/d2) (3 weeks ago)
 - [Minor example refactorings](https://github.com/fwcd/djcontroller.js/pull/3) on [fwcd/djcontroller.js](https://github.com/fwcd/djcontroller.js) (3 months ago)
@@ -54,15 +54,15 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [apple/ccs-calendarserver](https://github.com/apple/ccs-calendarserver) - The Calendar and Contacts Server. (today)
+- [apple/ccs-calendarserver](https://github.com/apple/ccs-calendarserver) - The Calendar and Contacts Server. (1 day ago)
 - [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language (1 week ago)
 - [hendrick404/advent-of-code-2022](https://github.com/hendrick404/advent-of-code-2022) -  (1 week ago)
 - [rexim/aoc-2022](https://github.com/rexim/aoc-2022) -  (1 week ago)
 - [tsoding/olive.c](https://github.com/tsoding/olive.c) - Simple 2D Graphics Library for C (2 weeks ago)
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - An open-source low-code Platform for Developers. (2 weeks ago)
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install. (2 weeks ago)
-- [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator (2 weeks ago)
-- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (2 weeks ago)
+- [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator (3 weeks ago)
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (3 weeks ago)
 - [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform. (3 weeks ago)
 
 #### 📫 How to reach me
