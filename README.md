@@ -54,6 +54,9 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server. (today)
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data (today)
+- [espruino/Espruino](https://github.com/espruino/Espruino) - The Espruino JavaScript interpreter - Official Repo (today)
 - [apple/ccs-calendarserver](https://github.com/apple/ccs-calendarserver) - The Calendar and Contacts Server. (2 days ago)
 - [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language (1 week ago)
 - [hendrick404/advent-of-code-2022](https://github.com/hendrick404/advent-of-code-2022) -  (1 week ago)
@@ -61,9 +64,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [tsoding/olive.c](https://github.com/tsoding/olive.c) - Simple 2D Graphics Library for C (2 weeks ago)
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - An open-source low-code Platform for Developers. (3 weeks ago)
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install. (3 weeks ago)
-- [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator (3 weeks ago)
-- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (3 weeks ago)
-- [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform. (3 weeks ago)
 
 #### 📫 How to reach me
 
