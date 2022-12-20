@@ -7,16 +7,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/rustvision](https://github.com/H1ghBre4k3r/rustvision) - Simple (and very early) library for interacting with images, vertices (and some other stuff related to computer vision) written in Rust.  (today)
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (4 days ago)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (4 days ago)
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (4 days ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (4 days ago)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (6 days ago)
-- [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (6 days ago)
+- [H1ghBre4k3r/rustvision](https://github.com/H1ghBre4k3r/rustvision) - Simple (and very early) library for interacting with images, vertices (and some other stuff related to computer vision) written in Rust.  (1 day ago)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (5 days ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (5 days ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (5 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (5 days ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (1 week ago)
+- [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (1 week ago)
 - [H1ghBre4k3r/aoc-2022](https://github.com/H1ghBre4k3r/aoc-2022) - My solutions to Advent of Code 2022. (1 week ago)
 - [melfkammholz/aoc-submissions](https://github.com/melfkammholz/aoc-submissions) -  (1 week ago)
-- [fwcd/d2](https://github.com/fwcd/d2) - Command-based virtual assistant for Discord and other platforms (4 weeks ago)
+- [fwcd/d2](https://github.com/fwcd/d2) - Command-based virtual assistant for Discord and other platforms (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -33,7 +33,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [H1ghBre4k3r/rustvision](https://github.com/H1ghBre4k3r/rustvision) ([v0.1.1](https://github.com/H1ghBre4k3r/rustvision/releases/tag/v0.1.1), 6 days ago) - Simple (and very early) library for interacting with images, vertices (and some other stuff related to computer vision) written in Rust. 
+- [H1ghBre4k3r/rustvision](https://github.com/H1ghBre4k3r/rustvision) ([v0.1.1](https://github.com/H1ghBre4k3r/rustvision/releases/tag/v0.1.1), 1 week ago) - Simple (and very early) library for interacting with images, vertices (and some other stuff related to computer vision) written in Rust. 
 - [kieler/vscode](https://github.com/kieler/vscode) ([v0.2.0](https://github.com/kieler/vscode/releases/tag/v0.2.0), 2 weeks ago) - 
 - [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) ([v0.2.1](https://github.com/pesca-dev/moneyboy-app/releases/tag/v0.2.1), 7 months ago) - The mobile app for MoneyBoy - a tool to track spendings between different people.
 - [H1ghBre4k3r/bfc](https://github.com/H1ghBre4k3r/bfc) ([v1.0.0](https://github.com/H1ghBre4k3r/bfc/releases/tag/v1.0.0), 11 months ago) - Brainfuck interpreter and compiler.
@@ -43,7 +43,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 - [Fix: Adjust paths for H1ghBre4k3r](https://github.com/melfkammholz/aoc-submissions/pull/26) on [melfkammholz/aoc-submissions](https://github.com/melfkammholz/aoc-submissions) (1 week ago)
 - [Add H1ghBre4k3r to submissions](https://github.com/melfkammholz/aoc-submissions/pull/13) on [melfkammholz/aoc-submissions](https://github.com/melfkammholz/aoc-submissions) (2 weeks ago)
-- [Fix PersistentVolumeClaim](https://github.com/fwcd/d2/pull/123) on [fwcd/d2](https://github.com/fwcd/d2) (4 weeks ago)
+- [Fix PersistentVolumeClaim](https://github.com/fwcd/d2/pull/123) on [fwcd/d2](https://github.com/fwcd/d2) (1 month ago)
 - [Minor example refactorings](https://github.com/fwcd/djcontroller.js/pull/3) on [fwcd/djcontroller.js](https://github.com/fwcd/djcontroller.js) (3 months ago)
 - [Major refactorings](https://github.com/H1ghBre4k3r/orca-rs/pull/4) on [H1ghBre4k3r/orca-rs](https://github.com/H1ghBre4k3r/orca-rs) (3 months ago)
 - [Cleanup unneeded code](https://github.com/H1ghBre4k3r/orca-rs/pull/2) on [H1ghBre4k3r/orca-rs](https://github.com/H1ghBre4k3r/orca-rs) (4 months ago)
@@ -54,14 +54,14 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server. (4 days ago)
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data (4 days ago)
-- [espruino/Espruino](https://github.com/espruino/Espruino) - The Espruino JavaScript interpreter - Official Repo (4 days ago)
-- [apple/ccs-calendarserver](https://github.com/apple/ccs-calendarserver) - The Calendar and Contacts Server. (6 days ago)
-- [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language (1 week ago)
+- [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server. (5 days ago)
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data (5 days ago)
+- [espruino/Espruino](https://github.com/espruino/Espruino) - The Espruino JavaScript interpreter - Official Repo (5 days ago)
+- [apple/ccs-calendarserver](https://github.com/apple/ccs-calendarserver) - The Calendar and Contacts Server. (1 week ago)
+- [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language (2 weeks ago)
 - [hendrick404/advent-of-code-2022](https://github.com/hendrick404/advent-of-code-2022) -  (2 weeks ago)
 - [rexim/aoc-2022](https://github.com/rexim/aoc-2022) -  (2 weeks ago)
-- [tsoding/olive.c](https://github.com/tsoding/olive.c) - Simple 2D Graphics Library for C (2 weeks ago)
+- [tsoding/olive.c](https://github.com/tsoding/olive.c) - Simple 2D Graphics Library for C (3 weeks ago)
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - An open-source low-code Platform for Developers. (3 weeks ago)
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install. (3 weeks ago)
 
