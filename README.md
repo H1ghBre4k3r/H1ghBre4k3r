@@ -54,6 +54,9 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration (today)
+- [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system (today)
+- [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (today)
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique (today)
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server. (6 days ago)
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data (6 days ago)
@@ -61,9 +64,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [apple/ccs-calendarserver](https://github.com/apple/ccs-calendarserver) - The Calendar and Contacts Server. (1 week ago)
 - [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language (2 weeks ago)
 - [hendrick404/advent-of-code-2022](https://github.com/hendrick404/advent-of-code-2022) -  (2 weeks ago)
-- [rexim/aoc-2022](https://github.com/rexim/aoc-2022) -  (2 weeks ago)
-- [tsoding/olive.c](https://github.com/tsoding/olive.c) - Simple 2D Graphics Library for C (3 weeks ago)
-- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - An open-source low-code Platform for Developers. (3 weeks ago)
 
 #### 📫 How to reach me
 
