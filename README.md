@@ -54,6 +54,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) -  (today)
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration (1 day ago)
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system (1 day ago)
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (1 day ago)
@@ -63,7 +64,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [espruino/Espruino](https://github.com/espruino/Espruino) - The Espruino JavaScript interpreter - Official Repo (1 week ago)
 - [apple/ccs-calendarserver](https://github.com/apple/ccs-calendarserver) - The Calendar and Contacts Server. (1 week ago)
 - [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language (2 weeks ago)
-- [hendrick404/advent-of-code-2022](https://github.com/hendrick404/advent-of-code-2022) -  (2 weeks ago)
 
 #### 📫 How to reach me
 
