@@ -54,6 +54,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [pkivolowitz/asm_book](https://github.com/pkivolowitz/asm_book) - A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offered which apply directly to higher level languages. (today)
+- [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc). (today)
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps (1 day ago)
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean &amp; mean status/tabline for vim that&#39;s light as air (1 day ago)
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (4 days ago)
@@ -62,8 +64,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system (6 days ago)
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (6 days ago)
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique (6 days ago)
-- [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server. (1 week ago)
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data (1 week ago)
 
 #### 📫 How to reach me
 
