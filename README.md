@@ -8,6 +8,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 #### 👷 Check out what I'm currently working on
 
 - [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (today)
+- [H1ghBre4k3r/swarm-simulation](https://github.com/H1ghBre4k3r/swarm-simulation) - Swarm simulation as part of my bacherlor&#39;s thesis, written in Go. (today)
 - [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (3 days ago)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (3 days ago)
 - [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (3 days ago)
@@ -16,7 +17,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/rustvision](https://github.com/H1ghBre4k3r/rustvision) - Simple (and very early) library for interacting with images, vertices (and some other stuff related to computer vision) written in Rust.  (1 week ago)
 - [H1ghBre4k3r/aoc-2022](https://github.com/H1ghBre4k3r/aoc-2022) - My solutions to Advent of Code 2022. (3 weeks ago)
 - [melfkammholz/aoc-submissions](https://github.com/melfkammholz/aoc-submissions) -  (3 weeks ago)
-- [fwcd/d2](https://github.com/fwcd/d2) - Command-based virtual assistant for Discord and other platforms (1 month ago)
 
 #### 🌱 My latest projects
 
