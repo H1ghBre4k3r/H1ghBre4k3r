@@ -7,9 +7,9 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (today)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (today)
 - [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (1 day ago)
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (1 day ago)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (1 day ago)
 - [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (1 day ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 day ago)
 - [H1ghBre4k3r/swarm-simulation](https://github.com/H1ghBre4k3r/swarm-simulation) - Swarm simulation as part of my bacherlor&#39;s thesis, written in Go. (3 days ago)
@@ -54,6 +54,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [mohanson/gameboy](https://github.com/mohanson/gameboy) - Full featured Cross-platform GameBoy emulator by Rust. Forever boys!. (today)
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust (5 days ago)
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. (5 days ago)
 - [pkivolowitz/asm_book](https://github.com/pkivolowitz/asm_book) - A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offered which apply directly to higher level languages. (1 week ago)
@@ -63,7 +64,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (1 week ago)
 - [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) -  (1 week ago)
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration (1 week ago)
-- [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system (1 week ago)
 
 #### 📫 How to reach me
 
