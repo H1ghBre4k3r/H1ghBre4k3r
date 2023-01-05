@@ -41,6 +41,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [Feature: Use efficient build cache ](https://github.com/H1ghBre4k3r/eventer/pull/12) on [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) (today)
 - [Fix: Adjust paths for H1ghBre4k3r](https://github.com/melfkammholz/aoc-submissions/pull/26) on [melfkammholz/aoc-submissions](https://github.com/melfkammholz/aoc-submissions) (3 weeks ago)
 - [Add H1ghBre4k3r to submissions](https://github.com/melfkammholz/aoc-submissions/pull/13) on [melfkammholz/aoc-submissions](https://github.com/melfkammholz/aoc-submissions) (1 month ago)
 - [Fix PersistentVolumeClaim](https://github.com/fwcd/d2/pull/123) on [fwcd/d2](https://github.com/fwcd/d2) (1 month ago)
@@ -50,10 +51,11 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Update README.md](https://github.com/pesca-dev/artwork/pull/2) on [pesca-dev/artwork](https://github.com/pesca-dev/artwork) (5 months ago)
 - [Feature: Create Library](https://github.com/H1ghBre4k3r/disruption/pull/2) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (5 months ago)
 - [Feature: Rust rewrite](https://github.com/H1ghBre4k3r/bfc/pull/1) on [H1ghBre4k3r/bfc](https://github.com/H1ghBre4k3r/bfc) (7 months ago)
-- [Feature: SafeAreaView around the flyout](https://github.com/pesca-dev/moneyboy-app/pull/189) on [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) (7 months ago)
 
 #### ⭐ Recent Stars
 
+- [mikehardy/buildcache-action](https://github.com/mikehardy/buildcache-action) - GitHub Action to install and configure buildcache for faster compilation (today)
+- [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. (today)
 - [mohanson/gameboy](https://github.com/mohanson/gameboy) - Full featured Cross-platform GameBoy emulator by Rust. Forever boys!. (2 days ago)
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust (1 week ago)
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. (1 week ago)
@@ -62,8 +64,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps (1 week ago)
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean &amp; mean status/tabline for vim that&#39;s light as air (1 week ago)
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (1 week ago)
-- [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) -  (2 weeks ago)
-- [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration (2 weeks ago)
 
 #### 📫 How to reach me
 
