@@ -40,7 +40,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [Feature: Build cache](https://github.com/H1ghBre4k3r/eventer/pull/18) on [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) (1 week ago)
+- [Feature: Build cache](https://github.com/H1ghBre4k3r/eventer/pull/18) on [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) (2 weeks ago)
 - [Feature: Use efficient build cache ](https://github.com/H1ghBre4k3r/eventer/pull/12) on [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) (2 weeks ago)
 - [Fix: Adjust paths for H1ghBre4k3r](https://github.com/melfkammholz/aoc-submissions/pull/26) on [melfkammholz/aoc-submissions](https://github.com/melfkammholz/aoc-submissions) (1 month ago)
 - [Add H1ghBre4k3r to submissions](https://github.com/melfkammholz/aoc-submissions/pull/13) on [melfkammholz/aoc-submissions](https://github.com/melfkammholz/aoc-submissions) (1 month ago)
@@ -53,8 +53,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [pacedotdev/oto](https://github.com/pacedotdev/oto) - Go driven rpc code generation tool for right now. (today)
-- [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines. (6 days ago)
+- [pacedotdev/oto](https://github.com/pacedotdev/oto) - Go driven rpc code generation tool for right now. (1 day ago)
+- [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines. (1 week ago)
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3100 free MIT-licensed high-quality SVG icons for you to use in your web projects. (1 week ago)
 - [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices (1 week ago)
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript. (1 week ago)
