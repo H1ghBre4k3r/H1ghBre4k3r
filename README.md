@@ -55,7 +55,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 - [pacedotdev/oto](https://github.com/pacedotdev/oto) - Go driven rpc code generation tool for right now. (1 day ago)
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines. (1 week ago)
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3100 free MIT-licensed high-quality SVG icons for you to use in your web projects. (1 week ago)
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3200 free MIT-licensed high-quality SVG icons for you to use in your web projects. (1 week ago)
 - [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices (1 week ago)
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript. (1 week ago)
 - [dilanx/craco](https://github.com/dilanx/craco) - Create React App Configuration Override, an easy and comprehensible configuration layer for Create React App. (1 week ago)
