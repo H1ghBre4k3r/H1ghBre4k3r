@@ -40,6 +40,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [Syscall abstraction](https://github.com/H1ghBre4k3r/y-lang/pull/35) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (today)
 - [Fix last features for v0.1](https://github.com/H1ghBre4k3r/y-lang/pull/33) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (4 days ago)
 - [Outer Mutability](https://github.com/H1ghBre4k3r/y-lang/pull/28) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (5 days ago)
 - [Chain-Expressions &amp; Parenthesis](https://github.com/H1ghBre4k3r/y-lang/pull/6) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (3 weeks ago)
@@ -49,7 +50,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Feature: Use efficient build cache ](https://github.com/H1ghBre4k3r/eventer/pull/12) on [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) (1 month ago)
 - [Fix: Adjust paths for H1ghBre4k3r](https://github.com/melfkammholz/aoc-submissions/pull/26) on [melfkammholz/aoc-submissions](https://github.com/melfkammholz/aoc-submissions) (2 months ago)
 - [Add H1ghBre4k3r to submissions](https://github.com/melfkammholz/aoc-submissions/pull/13) on [melfkammholz/aoc-submissions](https://github.com/melfkammholz/aoc-submissions) (2 months ago)
-- [Fix PersistentVolumeClaim](https://github.com/fwcd/d2/pull/123) on [fwcd/d2](https://github.com/fwcd/d2) (3 months ago)
 
 #### ⭐ Recent Stars
 
