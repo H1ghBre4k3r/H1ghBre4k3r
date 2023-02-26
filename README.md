@@ -40,7 +40,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [Syscall abstraction](https://github.com/H1ghBre4k3r/y-lang/pull/35) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (today)
+- [Syscalls, STD library &amp; Conditional Compilation](https://github.com/H1ghBre4k3r/y-lang/pull/35) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (today)
 - [Fix last features for v0.1](https://github.com/H1ghBre4k3r/y-lang/pull/33) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (4 days ago)
 - [Outer Mutability](https://github.com/H1ghBre4k3r/y-lang/pull/28) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (5 days ago)
 - [Chain-Expressions &amp; Parenthesis](https://github.com/H1ghBre4k3r/y-lang/pull/6) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (3 weeks ago)
