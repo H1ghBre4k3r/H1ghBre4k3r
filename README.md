@@ -40,6 +40,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [Add `unknown` type](https://github.com/H1ghBre4k3r/y-lang/pull/40) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (today)
 - [Better parse errors](https://github.com/H1ghBre4k3r/y-lang/pull/39) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (today)
 - [Syscalls, STD library &amp; Conditional Compilation](https://github.com/H1ghBre4k3r/y-lang/pull/35) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 week ago)
 - [Fix last features for v0.1](https://github.com/H1ghBre4k3r/y-lang/pull/33) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 week ago)
@@ -49,7 +50,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Restructure the AST](https://github.com/H1ghBre4k3r/y-lang/pull/1) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 month ago)
 - [Feature: Build cache](https://github.com/H1ghBre4k3r/eventer/pull/18) on [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) (1 month ago)
 - [Feature: Use efficient build cache ](https://github.com/H1ghBre4k3r/eventer/pull/12) on [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) (1 month ago)
-- [Fix: Adjust paths for H1ghBre4k3r](https://github.com/melfkammholz/aoc-submissions/pull/26) on [melfkammholz/aoc-submissions](https://github.com/melfkammholz/aoc-submissions) (2 months ago)
 
 #### ⭐ Recent Stars
 
