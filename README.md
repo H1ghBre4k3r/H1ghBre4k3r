@@ -53,6 +53,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [LeoVerto/chatgpt-discord-portal](https://github.com/LeoVerto/chatgpt-discord-portal) - Use ChatGPT to connect to a discord channel to another dimension (today)
 - [hydro-project/rust-sitter](https://github.com/hydro-project/rust-sitter) - Use Tree Sitter to parse your own languages in Rust (5 days ago)
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (1 week ago)
 - [gluon-lang/lsp-types](https://github.com/gluon-lang/lsp-types) - Types for communicating with a language server (2 weeks ago)
@@ -62,7 +63,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Complex Ideas Programmatically (3 weeks ago)
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket. (3 weeks ago)
 - [mihanus/recipes](https://github.com/mihanus/recipes) - Implementation of a recipe database with a web-based interface implemented in Curry (3 weeks ago)
-- [mihanus/wine](https://github.com/mihanus/wine) - A Curry implementation of a personal wine database together with a web-based interface. (3 weeks ago)
 
 #### 📫 How to reach me
 
