@@ -53,6 +53,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [apple/llvm-project](https://github.com/apple/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.  This fork is used to manage Apple’s stable releases of Clang as well as support the Swift project. (today)
+- [apple-oss-distributions/Libc](https://github.com/apple-oss-distributions/Libc) -  (today)
 - [facebook/componentkit](https://github.com/facebook/componentkit) - A React-inspired view framework for iOS. (today)
 - [LeoVerto/chatgpt-discord-portal](https://github.com/LeoVerto/chatgpt-discord-portal) - Use ChatGPT to connect to a discord channel to another dimension (1 day ago)
 - [hydro-project/rust-sitter](https://github.com/hydro-project/rust-sitter) - Use Tree Sitter to parse your own languages in Rust (6 days ago)
@@ -61,8 +63,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation (2 weeks ago)
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. (3 weeks ago)
 - [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker. (3 weeks ago)
-- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Complex Ideas Programmatically (3 weeks ago)
-- [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket. (3 weeks ago)
 
 #### 📫 How to reach me
 
