@@ -53,6 +53,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [rust-analyzer/rowan](https://github.com/rust-analyzer/rowan) -  (today)
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (1 week ago)
 - [trintel/trintel](https://github.com/trintel/trintel) - Wirtschaftsplanspiel für Schulen (2 weeks ago)
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (2 weeks ago)
@@ -62,7 +63,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [facebook/componentkit](https://github.com/facebook/componentkit) - A React-inspired view framework for iOS. (3 weeks ago)
 - [LeoVerto/chatgpt-discord-portal](https://github.com/LeoVerto/chatgpt-discord-portal) - Use ChatGPT to connect to a discord channel to another dimension (3 weeks ago)
 - [hydro-project/rust-sitter](https://github.com/hydro-project/rust-sitter) - Use Tree Sitter to parse your own languages in Rust (1 month ago)
-- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (1 month ago)
 
 #### 📫 How to reach me
 
