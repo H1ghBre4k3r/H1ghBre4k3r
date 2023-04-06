@@ -53,6 +53,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [tiny-http/tiny-http](https://github.com/tiny-http/tiny-http) - Low level HTTP server library in Rust (today)
 - [tsoding/c.php](https://github.com/tsoding/c.php) - C to Python compiler in PHP (5 days ago)
 - [rust-analyzer/rowan](https://github.com/rust-analyzer/rowan) -  (5 days ago)
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (2 weeks ago)
@@ -62,7 +63,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [apple/llvm-project](https://github.com/apple/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.  This fork is used to manage Apple’s stable releases of Clang as well as support the Swift project. (1 month ago)
 - [apple-oss-distributions/Libc](https://github.com/apple-oss-distributions/Libc) -  (1 month ago)
 - [facebook/componentkit](https://github.com/facebook/componentkit) - A React-inspired view framework for iOS. (1 month ago)
-- [LeoVerto/chatgpt-discord-portal](https://github.com/LeoVerto/chatgpt-discord-portal) - Use ChatGPT to connect to a discord channel to another dimension (1 month ago)
 
 #### 📫 How to reach me
 
