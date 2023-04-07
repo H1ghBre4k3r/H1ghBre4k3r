@@ -53,6 +53,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C&#43;&#43;, or JavaScript. (today)
 - [tiny-http/tiny-http](https://github.com/tiny-http/tiny-http) - Low level HTTP server library in Rust (1 day ago)
 - [tsoding/c.php](https://github.com/tsoding/c.php) - C to Python compiler in PHP (6 days ago)
 - [rust-analyzer/rowan](https://github.com/rust-analyzer/rowan) -  (6 days ago)
@@ -62,7 +63,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️ (3 weeks ago)
 - [apple/llvm-project](https://github.com/apple/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.  This fork is used to manage Apple’s stable releases of Clang as well as support the Swift project. (1 month ago)
 - [apple-oss-distributions/Libc](https://github.com/apple-oss-distributions/Libc) -  (1 month ago)
-- [facebook/componentkit](https://github.com/facebook/componentkit) - A React-inspired view framework for iOS. (1 month ago)
 
 #### 📫 How to reach me
 
