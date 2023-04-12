@@ -53,6 +53,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [icyphox/legit](https://github.com/icyphox/legit) - web frontend for git, written in go (today)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (today)
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨ (today)
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C&#43;&#43;, or JavaScript. (5 days ago)
 - [tiny-http/tiny-http](https://github.com/tiny-http/tiny-http) - Low level HTTP server library in Rust (6 days ago)
@@ -61,8 +63,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (2 weeks ago)
 - [trintel/trintel](https://github.com/trintel/trintel) - Wirtschaftsplanspiel für Schulen (3 weeks ago)
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (3 weeks ago)
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️ (1 month ago)
-- [apple/llvm-project](https://github.com/apple/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.  This fork is used to manage Apple’s stable releases of Clang as well as support the Swift project. (1 month ago)
 
 #### 📫 How to reach me
 
