@@ -40,6 +40,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [Inline Assembly](https://github.com/H1ghBre4k3r/y-lang/pull/61) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (today)
 - [Feature: Loops](https://github.com/H1ghBre4k3r/y-lang/pull/59) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 day ago)
 - [Arrays](https://github.com/H1ghBre4k3r/y-lang/pull/47) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 month ago)
 - [Standard Library Syscall Abstractions](https://github.com/H1ghBre4k3r/y-lang/pull/44) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 month ago)
@@ -49,7 +50,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Better parse errors](https://github.com/H1ghBre4k3r/y-lang/pull/39) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 month ago)
 - [Syscalls, STD library &amp; Conditional Compilation](https://github.com/H1ghBre4k3r/y-lang/pull/35) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 month ago)
 - [Fix last features for v0.1](https://github.com/H1ghBre4k3r/y-lang/pull/33) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 month ago)
-- [Outer Mutability](https://github.com/H1ghBre4k3r/y-lang/pull/28) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 month ago)
 
 #### ⭐ Recent Stars
 
