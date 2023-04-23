@@ -7,16 +7,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (3 days ago)
-- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (3 days ago)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (3 days ago)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (4 days ago)
-- [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (5 days ago)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (4 days ago)
+- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (4 days ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (4 days ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (5 days ago)
+- [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (6 days ago)
 - [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (1 week ago)
 - [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) - The (TypeScript) backend for MoneyBoy. (1 week ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 week ago)
-- [H1ghBre4k3r/y-lang.nvim](https://github.com/H1ghBre4k3r/y-lang.nvim) - Y support for Neovim (1 week ago)
-- [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (2 weeks ago)
+- [H1ghBre4k3r/y-lang.nvim](https://github.com/H1ghBre4k3r/y-lang.nvim) - Y support for Neovim (2 weeks ago)
+- [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -49,7 +49,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Add `unknown` type](https://github.com/H1ghBre4k3r/y-lang/pull/40) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 month ago)
 - [Better parse errors](https://github.com/H1ghBre4k3r/y-lang/pull/39) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 month ago)
 - [Syscalls, STD library &amp; Conditional Compilation](https://github.com/H1ghBre4k3r/y-lang/pull/35) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 month ago)
-- [Fix last features for v0.1](https://github.com/H1ghBre4k3r/y-lang/pull/33) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 month ago)
+- [Fix last features for v0.1](https://github.com/H1ghBre4k3r/y-lang/pull/33) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 months ago)
 
 #### ⭐ Recent Stars
 
