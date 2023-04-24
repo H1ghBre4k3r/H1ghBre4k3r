@@ -53,6 +53,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples (today)
 - [icyphox/legit](https://github.com/icyphox/legit) - web frontend for git, written in go (1 week ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 week ago)
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨ (1 week ago)
@@ -62,7 +63,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [rust-analyzer/rowan](https://github.com/rust-analyzer/rowan) -  (3 weeks ago)
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (1 month ago)
 - [trintel/trintel](https://github.com/trintel/trintel) - Wirtschaftsplanspiel für Schulen (1 month ago)
-- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (1 month ago)
 
 #### 📫 How to reach me
 
