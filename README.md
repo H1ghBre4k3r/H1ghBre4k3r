@@ -40,6 +40,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [Configurable Verbosity](https://github.com/H1ghBre4k3r/y-lang/pull/68) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (today)
 - [Module system](https://github.com/H1ghBre4k3r/y-lang/pull/67) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 day ago)
 - [Inline Assembly](https://github.com/H1ghBre4k3r/y-lang/pull/61) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 weeks ago)
 - [Feature: Loops](https://github.com/H1ghBre4k3r/y-lang/pull/59) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 weeks ago)
@@ -49,10 +50,10 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Neovim extension](https://github.com/H1ghBre4k3r/y-lang/pull/42) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 month ago)
 - [Add `unknown` type](https://github.com/H1ghBre4k3r/y-lang/pull/40) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 month ago)
 - [Better parse errors](https://github.com/H1ghBre4k3r/y-lang/pull/39) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 month ago)
-- [Syscalls, STD library &amp; Conditional Compilation](https://github.com/H1ghBre4k3r/y-lang/pull/35) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 months ago)
 
 #### ⭐ Recent Stars
 
+- [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (today)
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples (1 week ago)
 - [icyphox/legit](https://github.com/icyphox/legit) - web frontend for git, written in go (2 weeks ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (2 weeks ago)
@@ -62,7 +63,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [tsoding/c.php](https://github.com/tsoding/c.php) - C to Python compiler in PHP (1 month ago)
 - [rust-analyzer/rowan](https://github.com/rust-analyzer/rowan) -  (1 month ago)
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (1 month ago)
-- [trintel/trintel](https://github.com/trintel/trintel) - Wirtschaftsplanspiel für Schulen (1 month ago)
 
 #### 📫 How to reach me
 
