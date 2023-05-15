@@ -53,6 +53,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping (today)
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (2 weeks ago)
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples (3 weeks ago)
 - [icyphox/legit](https://github.com/icyphox/legit) - web frontend for git, written in go (1 month ago)
@@ -62,7 +63,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [tiny-http/tiny-http](https://github.com/tiny-http/tiny-http) - Low level HTTP server library in Rust (1 month ago)
 - [tsoding/c.php](https://github.com/tsoding/c.php) - C to Python compiler in PHP (1 month ago)
 - [rust-analyzer/rowan](https://github.com/rust-analyzer/rowan) -  (1 month ago)
-- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (1 month ago)
 
 #### 📫 How to reach me
 
