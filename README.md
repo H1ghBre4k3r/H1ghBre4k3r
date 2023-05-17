@@ -59,7 +59,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [icyphox/legit](https://github.com/icyphox/legit) - web frontend for git, written in go (1 month ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 month ago)
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨ (1 month ago)
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C&#43;&#43;, or JavaScript. (1 month ago)
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C&#43;&#43;, or JavaScript.  (1 month ago)
 - [tiny-http/tiny-http](https://github.com/tiny-http/tiny-http) - Low level HTTP server library in Rust (1 month ago)
 - [tsoding/c.php](https://github.com/tsoding/c.php) - C to Python compiler in PHP (1 month ago)
 - [rust-analyzer/rowan](https://github.com/rust-analyzer/rowan) -  (1 month ago)
