@@ -53,6 +53,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [turing-machines/turing-pi](https://github.com/turing-machines/turing-pi) - Turing-pi BMC firmware (today)
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping (5 days ago)
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (2 weeks ago)
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples (3 weeks ago)
@@ -62,7 +63,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C&#43;&#43;, or JavaScript.  (1 month ago)
 - [tiny-http/tiny-http](https://github.com/tiny-http/tiny-http) - Low level HTTP server library in Rust (1 month ago)
 - [tsoding/c.php](https://github.com/tsoding/c.php) - C to Python compiler in PHP (1 month ago)
-- [rust-analyzer/rowan](https://github.com/rust-analyzer/rowan) -  (1 month ago)
 
 #### 📫 How to reach me
 
