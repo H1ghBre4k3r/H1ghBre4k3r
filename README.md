@@ -53,7 +53,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [turing-machines/turing-pi](https://github.com/turing-machines/turing-pi) - Turing-pi BMC firmware (2 days ago)
+- [turing-machines/Firmware](https://github.com/turing-machines/Firmware) - Turing-pi BMC firmware (2 days ago)
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping (1 week ago)
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (3 weeks ago)
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples (4 weeks ago)
