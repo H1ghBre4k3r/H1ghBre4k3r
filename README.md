@@ -53,6 +53,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [fzakfeld/rewe-to-grocy](https://github.com/fzakfeld/rewe-to-grocy) - Import digital REWE receipts into Grocy! (today)
 - [turing-machines/BMC-Firmware](https://github.com/turing-machines/BMC-Firmware) - Turing-pi BMC firmware (3 days ago)
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping (1 week ago)
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (3 weeks ago)
@@ -62,7 +63,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨ (1 month ago)
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C&#43;&#43;, or JavaScript.  (1 month ago)
 - [tiny-http/tiny-http](https://github.com/tiny-http/tiny-http) - Low level HTTP server library in Rust (1 month ago)
-- [tsoding/c.php](https://github.com/tsoding/c.php) - C to Python compiler in PHP (1 month ago)
 
 #### 📫 How to reach me
 
