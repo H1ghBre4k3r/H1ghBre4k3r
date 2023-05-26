@@ -7,16 +7,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/y-lang.nvim](https://github.com/H1ghBre4k3r/y-lang.nvim) - Y support for Neovim (1 day ago)
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (2 days ago)
-- [H1ghBre4k3r/tpi](https://github.com/H1ghBre4k3r/tpi) - A small (and WIP) CLI for interacting with your local TuringPi 2 Cluster. (5 days ago)
+- [H1ghBre4k3r/y-lang.nvim](https://github.com/H1ghBre4k3r/y-lang.nvim) - Y support for Neovim (2 days ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (3 days ago)
+- [H1ghBre4k3r/tpi](https://github.com/H1ghBre4k3r/tpi) - A small (and WIP) CLI for interacting with your local TuringPi 2 Cluster. (6 days ago)
 - [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (1 week ago)
 - [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (1 week ago)
 - [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (1 week ago)
 - [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (1 week ago)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (1 week ago)
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (2 weeks ago)
-- [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (4 weeks ago)
+- [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -52,8 +52,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [fzakfeld/rewe-to-grocy](https://github.com/fzakfeld/rewe-to-grocy) - Import digital REWE receipts into Grocy! (2 days ago)
-- [turing-machines/BMC-Firmware](https://github.com/turing-machines/BMC-Firmware) - Turing-pi BMC firmware (5 days ago)
+- [fzakfeld/rewe-to-grocy](https://github.com/fzakfeld/rewe-to-grocy) - Import digital REWE receipts into Grocy! (3 days ago)
+- [turing-machines/BMC-Firmware](https://github.com/turing-machines/BMC-Firmware) - Turing-pi BMC firmware (6 days ago)
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping (1 week ago)
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (3 weeks ago)
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples (1 month ago)
