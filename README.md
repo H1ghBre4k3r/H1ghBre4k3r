@@ -44,7 +44,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Module system](https://github.com/H1ghBre4k3r/y-lang/pull/67) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 month ago)
 - [Inline Assembly](https://github.com/H1ghBre4k3r/y-lang/pull/61) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 month ago)
 - [Feature: Loops](https://github.com/H1ghBre4k3r/y-lang/pull/59) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 month ago)
-- [Arrays](https://github.com/H1ghBre4k3r/y-lang/pull/47) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 months ago)
+- [Arrays](https://github.com/H1ghBre4k3r/y-lang/pull/47) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (3 months ago)
 - [Standard Library Syscall Abstractions](https://github.com/H1ghBre4k3r/y-lang/pull/44) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (3 months ago)
 - [Revert &#34;Neovim extension&#34;](https://github.com/H1ghBre4k3r/y-lang/pull/43) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (3 months ago)
 - [Neovim extension](https://github.com/H1ghBre4k3r/y-lang/pull/42) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (3 months ago)
