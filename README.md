@@ -16,7 +16,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (1 week ago)
 - [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (1 week ago)
 - [H1ghBre4k3r/y-lang.nvim](https://github.com/H1ghBre4k3r/y-lang.nvim) - Y support for Neovim (2 weeks ago)
-- [H1ghBre4k3r/tpi](https://github.com/H1ghBre4k3r/tpi) - A small (and WIP) CLI for interacting with your local TuringPi 2 Cluster. (2 weeks ago)
+- [H1ghBre4k3r/tpi](https://github.com/H1ghBre4k3r/tpi) - A small (and WIP) CLI for interacting with your local TuringPi 2 Cluster. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -54,7 +54,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 - [keel-hq/keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet &amp; Deployment updates (1 week ago)
 - [fzakfeld/rewe-to-grocy](https://github.com/fzakfeld/rewe-to-grocy) - Import digital REWE receipts into Grocy! (2 weeks ago)
-- [turing-machines/BMC-Firmware](https://github.com/turing-machines/BMC-Firmware) - Turing-pi BMC firmware (2 weeks ago)
+- [turing-machines/BMC-Firmware](https://github.com/turing-machines/BMC-Firmware) - Turing-pi BMC firmware (3 weeks ago)
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping (3 weeks ago)
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (1 month ago)
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples (1 month ago)
