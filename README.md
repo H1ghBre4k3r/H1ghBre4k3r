@@ -34,7 +34,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 #### 🔭 Latest releases I've contributed to
 
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) ([v0.1.3](https://github.com/H1ghBre4k3r/y-lang/releases/tag/v0.1.3), 1 month ago) - Compiler for the (rather new and very experimental) Y programming language. 
-- [H1ghBre4k3r/rustvision](https://github.com/H1ghBre4k3r/rustvision) ([v0.1.1](https://github.com/H1ghBre4k3r/rustvision/releases/tag/v0.1.1), 5 months ago) - Simple (and very early) library for interacting with images, vertices (and some other stuff related to computer vision) written in Rust. 
+- [H1ghBre4k3r/rustvision](https://github.com/H1ghBre4k3r/rustvision) ([v0.1.1](https://github.com/H1ghBre4k3r/rustvision/releases/tag/v0.1.1), 6 months ago) - Simple (and very early) library for interacting with images, vertices (and some other stuff related to computer vision) written in Rust. 
 - [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) ([v0.2.0](https://github.com/H1ghBre4k3r/decoratory/releases/tag/v0.2.0), 1 year ago) - Utility decorators for TypeScript.
 
 #### 🔨 My recent Pull Requests
@@ -58,9 +58,9 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping (3 weeks ago)
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (1 month ago)
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples (1 month ago)
-- [icyphox/legit](https://github.com/icyphox/legit) - web frontend for git, written in go (1 month ago)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 month ago)
-- [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨ (1 month ago)
+- [icyphox/legit](https://github.com/icyphox/legit) - web frontend for git, written in go (2 months ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (2 months ago)
+- [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨ (2 months ago)
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C&#43;&#43;, or JavaScript.  (2 months ago)
 
 #### 📫 How to reach me
