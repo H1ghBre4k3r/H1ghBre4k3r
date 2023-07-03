@@ -61,7 +61,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping (1 month ago)
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (2 months ago)
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples (2 months ago)
-- [icyphox/legit](https://github.com/icyphox/legit) - web frontend for git, written in go (2 months ago)
+- [icyphox/legit](https://github.com/icyphox/legit) - web frontend for git (2 months ago)
 
 #### 📫 How to reach me
 
