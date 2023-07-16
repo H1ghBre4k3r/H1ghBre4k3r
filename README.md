@@ -7,14 +7,14 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 day ago)
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (1 day ago)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (1 day ago)
-- [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (1 day ago)
-- [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (1 day ago)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (1 day ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (1 day ago)
-- [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) - The (TypeScript) backend for MoneyBoy. (5 days ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (today)
+- [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (today)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (2 days ago)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (2 days ago)
+- [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (2 days ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (2 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (2 days ago)
+- [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) - The (TypeScript) backend for MoneyBoy. (6 days ago)
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (1 week ago)
 - [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (1 month ago)
 
@@ -54,7 +54,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple (1 week ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes. (1 week ago)
-- [deepnight/ldtk](https://github.com/deepnight/ldtk) - Modern, lightweight and efficient 2D level editor (1 week ago)
+- [deepnight/ldtk](https://github.com/deepnight/ldtk) - Modern, lightweight and efficient 2D level editor (2 weeks ago)
 - [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language (3 weeks ago)
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (1 month ago)
 - [keel-hq/keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet &amp; Deployment updates (1 month ago)
