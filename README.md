@@ -7,19 +7,20 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (4 days ago)
+- [H1ghBre4k3r/eventer-k8s](https://github.com/H1ghBre4k3r/eventer-k8s) - K8s configuration for Eventer (today)
+- [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (today)
 - [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (4 days ago)
-- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (4 days ago)
-- [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (4 days ago)
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (4 days ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (4 days ago)
 - [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) - The (TypeScript) backend for MoneyBoy. (4 days ago)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (6 days ago)
+- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (4 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (4 days ago)
+- [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (4 days ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (4 days ago)
 - [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (6 days ago)
-- [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (1 month ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (6 days ago)
 
 #### 🌱 My latest projects
 
+- [H1ghBre4k3r/eventer-k8s](https://github.com/H1ghBre4k3r/eventer-k8s) - K8s configuration for Eventer
 - [H1ghBre4k3r/tpi](https://github.com/H1ghBre4k3r/tpi) - A small (and WIP) CLI for interacting with your local TuringPi 2 Cluster.
 - [H1ghBre4k3r/std.why](https://github.com/H1ghBre4k3r/std.why) - The home of the Y standard library.
 - [H1ghBre4k3r/y-lang.nvim](https://github.com/H1ghBre4k3r/y-lang.nvim) - Y support for Neovim
@@ -29,7 +30,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/aoc-2022](https://github.com/H1ghBre4k3r/aoc-2022) - My solutions to Advent of Code 2022.
 - [H1ghBre4k3r/rustvision](https://github.com/H1ghBre4k3r/rustvision) - Simple (and very early) library for interacting with images, vertices (and some other stuff related to computer vision) written in Rust. 
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents.
-- [H1ghBre4k3r/advent-of-code](https://github.com/H1ghBre4k3r/advent-of-code) - Advent of Code solutions written in Rust.
 
 #### 🔭 Latest releases I've contributed to
 
@@ -39,6 +39,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [Revert &#34;Build(deps): Bump react-native-gesture-handler from 2.8.0 to 2.12.0 in /frontend&#34;](https://github.com/H1ghBre4k3r/eventer/pull/76) on [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) (today)
+- [Revert &#34;Build(deps): Bump react-native-reanimated from 2.13.0 to 3.0.2 in /frontend&#34;](https://github.com/H1ghBre4k3r/eventer/pull/74) on [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) (today)
 - [Core library](https://github.com/H1ghBre4k3r/y-lang/pull/81) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 month ago)
 - [References](https://github.com/H1ghBre4k3r/y-lang/pull/69) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 months ago)
 - [Configurable Verbosity](https://github.com/H1ghBre4k3r/y-lang/pull/68) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 months ago)
@@ -47,8 +49,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Feature: Loops](https://github.com/H1ghBre4k3r/y-lang/pull/59) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (3 months ago)
 - [Arrays](https://github.com/H1ghBre4k3r/y-lang/pull/47) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (4 months ago)
 - [Standard Library Syscall Abstractions](https://github.com/H1ghBre4k3r/y-lang/pull/44) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (4 months ago)
-- [Revert &#34;Neovim extension&#34;](https://github.com/H1ghBre4k3r/y-lang/pull/43) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (4 months ago)
-- [Neovim extension](https://github.com/H1ghBre4k3r/y-lang/pull/42) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (4 months ago)
 
 #### ⭐ Recent Stars
 
