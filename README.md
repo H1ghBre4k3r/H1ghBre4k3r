@@ -7,14 +7,14 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (today)
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (today)
-- [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (today)
-- [H1ghBre4k3r/eventer-k8s](https://github.com/H1ghBre4k3r/eventer-k8s) - K8s configuration for Eventer (2 days ago)
-- [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) - The (TypeScript) backend for MoneyBoy. (6 days ago)
-- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (6 days ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (6 days ago)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (6 days ago)
+- [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (1 day ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 day ago)
+- [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (1 day ago)
+- [H1ghBre4k3r/eventer-k8s](https://github.com/H1ghBre4k3r/eventer-k8s) - K8s configuration for Eventer (3 days ago)
+- [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) - The (TypeScript) backend for MoneyBoy. (1 week ago)
+- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (1 week ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (1 week ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (1 week ago)
 - [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (1 week ago)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (1 week ago)
 
@@ -39,8 +39,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [Revert &#34;Build(deps): Bump react-native-gesture-handler from 2.8.0 to 2.12.0 in /frontend&#34;](https://github.com/H1ghBre4k3r/eventer/pull/76) on [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) (2 days ago)
-- [Revert &#34;Build(deps): Bump react-native-reanimated from 2.13.0 to 3.0.2 in /frontend&#34;](https://github.com/H1ghBre4k3r/eventer/pull/74) on [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) (2 days ago)
+- [Revert &#34;Build(deps): Bump react-native-gesture-handler from 2.8.0 to 2.12.0 in /frontend&#34;](https://github.com/H1ghBre4k3r/eventer/pull/76) on [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) (3 days ago)
+- [Revert &#34;Build(deps): Bump react-native-reanimated from 2.13.0 to 3.0.2 in /frontend&#34;](https://github.com/H1ghBre4k3r/eventer/pull/74) on [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) (3 days ago)
 - [Core library](https://github.com/H1ghBre4k3r/y-lang/pull/81) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 month ago)
 - [References](https://github.com/H1ghBre4k3r/y-lang/pull/69) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 months ago)
 - [Configurable Verbosity](https://github.com/H1ghBre4k3r/y-lang/pull/68) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 months ago)
@@ -52,9 +52,9 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. (1 day ago)
-- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github&#39;s Neovim themes  (2 days ago)
-- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager (6 days ago)
+- [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. (2 days ago)
+- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github&#39;s Neovim themes  (3 days ago)
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager (1 week ago)
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple (3 weeks ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes. (3 weeks ago)
 - [deepnight/ldtk](https://github.com/deepnight/ldtk) - Modern, lightweight and efficient 2D level editor (3 weeks ago)
