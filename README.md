@@ -39,6 +39,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [Gateway refactoring](https://github.com/H1ghBre4k3r/disruption/pull/131) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (today)
 - [Revert &#34;Build(deps-dev): Bump metro-react-native-babel-preset from 0.74.0 to 0.77.0 in /frontend&#34;](https://github.com/H1ghBre4k3r/eventer/pull/85) on [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) (5 days ago)
 - [deps(breaking): update to React Native 0.72.3](https://github.com/H1ghBre4k3r/eventer/pull/84) on [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) (5 days ago)
 - [Revert &#34;Build(deps): Bump react-native-gesture-handler from 2.8.0 to 2.12.0 in /frontend&#34;](https://github.com/H1ghBre4k3r/eventer/pull/76) on [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) (1 week ago)
@@ -48,7 +49,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Configurable Verbosity](https://github.com/H1ghBre4k3r/y-lang/pull/68) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (3 months ago)
 - [Module system](https://github.com/H1ghBre4k3r/y-lang/pull/67) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (3 months ago)
 - [Inline Assembly](https://github.com/H1ghBre4k3r/y-lang/pull/61) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (3 months ago)
-- [Feature: Loops](https://github.com/H1ghBre4k3r/y-lang/pull/59) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (3 months ago)
 
 #### ⭐ Recent Stars
 
