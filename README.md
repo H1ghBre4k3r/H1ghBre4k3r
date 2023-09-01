@@ -39,7 +39,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [Verification Mail ](https://github.com/pesca-dev/aoc-website/pull/14) on [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) (today)
+- [Feature: Verification Mail ](https://github.com/pesca-dev/aoc-website/pull/14) on [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) (today)
 - [Feature: Add auth integration](https://github.com/pesca-dev/aoc-website/pull/5) on [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) (1 week ago)
 - [Gateway refactoring](https://github.com/H1ghBre4k3r/disruption/pull/131) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (4 weeks ago)
 - [Revert &#34;Build(deps-dev): Bump metro-react-native-babel-preset from 0.74.0 to 0.77.0 in /frontend&#34;](https://github.com/H1ghBre4k3r/eventer/pull/85) on [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) (1 month ago)
