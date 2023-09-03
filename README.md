@@ -39,6 +39,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [Feature: JWT expiration](https://github.com/pesca-dev/aoc-website/pull/20) on [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) (today)
 - [Feature: Verification mail](https://github.com/pesca-dev/aoc-website/pull/16) on [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) (2 days ago)
 - [Feature: Verification Mail ](https://github.com/pesca-dev/aoc-website/pull/14) on [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) (2 days ago)
 - [Feature: Add auth integration](https://github.com/pesca-dev/aoc-website/pull/5) on [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) (1 week ago)
@@ -48,7 +49,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Revert &#34;Build(deps): Bump react-native-gesture-handler from 2.8.0 to 2.12.0 in /frontend&#34;](https://github.com/H1ghBre4k3r/eventer/pull/76) on [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) (1 month ago)
 - [Revert &#34;Build(deps): Bump react-native-reanimated from 2.13.0 to 3.0.2 in /frontend&#34;](https://github.com/H1ghBre4k3r/eventer/pull/74) on [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) (1 month ago)
 - [Core library](https://github.com/H1ghBre4k3r/y-lang/pull/81) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 months ago)
-- [References](https://github.com/H1ghBre4k3r/y-lang/pull/69) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (4 months ago)
 
 #### ⭐ Recent Stars
 
