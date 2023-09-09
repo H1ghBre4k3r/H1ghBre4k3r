@@ -52,6 +52,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust (today)
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST (1 day ago)
 - [ebkalderon/tower-lsp](https://github.com/ebkalderon/tower-lsp) - Language Server Protocol implementation written in Rust (4 days ago)
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets (1 week ago)
@@ -61,7 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar) - A yabai status bar widget for Übersicht (1 month ago)
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. (1 month ago)
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github&#39;s Neovim themes  (1 month ago)
-- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager (1 month ago)
 
 #### 📫 How to reach me
 
