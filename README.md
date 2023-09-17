@@ -52,6 +52,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls. (today)
 - [ewilken/hap-rs](https://github.com/ewilken/hap-rs) - Rust implementation of the Apple HomeKit Accessory Protocol (HAP) (2 days ago)
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust (1 week ago)
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST (1 week ago)
@@ -61,7 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [rwaldron/johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, developed at Bocoup. (1 month ago)
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (1 month ago)
 - [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar) - A yabai status bar widget for Übersicht (1 month ago)
-- [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. (1 month ago)
 
 #### 📫 How to reach me
 
