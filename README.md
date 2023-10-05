@@ -20,7 +20,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🌱 My latest projects
 
-- [H1ghBre4k3r/inf-wiki-storage](https://github.com/H1ghBre4k3r/inf-wiki-storage) - 
 - [H1ghBre4k3r/embassy-rp](https://github.com/H1ghBre4k3r/embassy-rp) - Experiments with embassy on the RP2040
 - [H1ghBre4k3r/eventer-k8s](https://github.com/H1ghBre4k3r/eventer-k8s) - K8s configuration for Eventer
 - [H1ghBre4k3r/tpi](https://github.com/H1ghBre4k3r/tpi) - A small (and WIP) CLI for interacting with your local TuringPi 2 Cluster.
@@ -30,6 +29,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants.
 - [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration.
 - [H1ghBre4k3r/aoc-2022](https://github.com/H1ghBre4k3r/aoc-2022) - My solutions to Advent of Code 2022.
+- [H1ghBre4k3r/rustvision](https://github.com/H1ghBre4k3r/rustvision) - Simple (and very early) library for interacting with images, vertices (and some other stuff related to computer vision) written in Rust. 
 
 #### 🔭 Latest releases I've contributed to
 
