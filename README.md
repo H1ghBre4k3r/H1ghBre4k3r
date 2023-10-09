@@ -39,6 +39,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [Update Cargo.toml](https://github.com/pesca-dev/aoc-website/pull/51) on [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) (today)
 - [feat(ci): tag image with current commit hash](https://github.com/fwcd/d2/pull/139) on [fwcd/d2](https://github.com/fwcd/d2) (today)
 - [deps(leptos): Update all dependencies to leptos 0.5.1](https://github.com/pesca-dev/aoc-website/pull/50) on [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) (2 days ago)
 - [Feature: JWT expiration](https://github.com/pesca-dev/aoc-website/pull/20) on [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) (1 month ago)
@@ -48,7 +49,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Gateway refactoring](https://github.com/H1ghBre4k3r/disruption/pull/131) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (2 months ago)
 - [Revert &#34;Build(deps-dev): Bump metro-react-native-babel-preset from 0.74.0 to 0.77.0 in /frontend&#34;](https://github.com/H1ghBre4k3r/eventer/pull/85) on [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) (2 months ago)
 - [deps(breaking): update to React Native 0.72.3](https://github.com/H1ghBre4k3r/eventer/pull/84) on [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) (2 months ago)
-- [Revert &#34;Build(deps): Bump react-native-gesture-handler from 2.8.0 to 2.12.0 in /frontend&#34;](https://github.com/H1ghBre4k3r/eventer/pull/76) on [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) (2 months ago)
 
 #### ⭐ Recent Stars
 
