@@ -7,14 +7,14 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (today)
-- [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) - A website for viewing advent of code submissions of (Halb-)Offizieller-CAU-Informatik-Server™. (2 days ago)
-- [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) - Parsing all the way down.  (2 days ago)
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (3 days ago)
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (3 days ago)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (3 days ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (4 days ago)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (6 days ago)
+- [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (1 day ago)
+- [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) - A website for viewing advent of code submissions of (Halb-)Offizieller-CAU-Informatik-Server™. (3 days ago)
+- [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) - Parsing all the way down.  (3 days ago)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (4 days ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (4 days ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (4 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (5 days ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (1 week ago)
 - [H1ghBre4k3r/tpi](https://github.com/H1ghBre4k3r/tpi) - A small (and WIP) CLI for interacting with your local TuringPi 2 Cluster. (1 week ago)
 - [pesca-dev/decentnoobbot](https://github.com/pesca-dev/decentnoobbot) - A small Discord bot written in Rust. (1 week ago)
 
@@ -39,13 +39,13 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [Support for Comments](https://github.com/H1ghBre4k3r/pesca-parser/pull/14) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (2 days ago)
-- [ci(workflows): run tests also on windows](https://github.com/H1ghBre4k3r/pesca-parser/pull/13) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (2 weeks ago)
+- [Support for Comments](https://github.com/H1ghBre4k3r/pesca-parser/pull/14) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (3 days ago)
+- [ci(workflows): run tests also on windows](https://github.com/H1ghBre4k3r/pesca-parser/pull/13) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (3 weeks ago)
 - [Update Cargo.toml](https://github.com/pesca-dev/aoc-website/pull/51) on [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) (3 weeks ago)
 - [feat(ci): tag image with current commit hash](https://github.com/fwcd/d2/pull/139) on [fwcd/d2](https://github.com/fwcd/d2) (3 weeks ago)
 - [Parser: While-Loops](https://github.com/H1ghBre4k3r/pesca-parser/pull/5) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (3 weeks ago)
 - [deps(leptos): Update all dependencies to leptos 0.5.1](https://github.com/pesca-dev/aoc-website/pull/50) on [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) (3 weeks ago)
-- [feat(parser): lambda functions](https://github.com/H1ghBre4k3r/pesca-parser/pull/4) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (4 weeks ago)
+- [feat(parser): lambda functions](https://github.com/H1ghBre4k3r/pesca-parser/pull/4) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (1 month ago)
 - [feat(parser): add support for if expressions](https://github.com/H1ghBre4k3r/pesca-parser/pull/3) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (1 month ago)
 - [Improve lexing](https://github.com/H1ghBre4k3r/pesca-parser/pull/2) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (1 month ago)
 - [Improve lexing](https://github.com/H1ghBre4k3r/pesca-parser/pull/1) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (1 month ago)
@@ -54,7 +54,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 - [hendrick404/oe2023-latex-workshop](https://github.com/hendrick404/oe2023-latex-workshop) -  (1 week ago)
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team (3 weeks ago)
-- [ASDAlexander77/TypeScriptCompiler](https://github.com/ASDAlexander77/TypeScriptCompiler) - TypeScript Compiler (by LLVM) (4 weeks ago)
+- [ASDAlexander77/TypeScriptCompiler](https://github.com/ASDAlexander77/TypeScriptCompiler) - TypeScript Compiler (by LLVM) (1 month ago)
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more. (1 month ago)
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls. (1 month ago)
 - [ewilken/hap-rs](https://github.com/ewilken/hap-rs) - Rust implementation of the Apple HomeKit Accessory Protocol (HAP) (1 month ago)
