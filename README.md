@@ -7,16 +7,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (3 days ago)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (3 days ago)
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (3 days ago)
-- [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (3 days ago)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (3 days ago)
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (3 days ago)
-- [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) - A website for viewing advent of code submissions of (Halb-)Offizieller-CAU-Informatik-Server™. (3 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (4 days ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (4 days ago)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (4 days ago)
+- [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (4 days ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (4 days ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (4 days ago)
+- [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) - A website for viewing advent of code submissions of (Halb-)Offizieller-CAU-Informatik-Server™. (4 days ago)
 - [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) - Parsing all the way down.  (1 week ago)
-- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (1 week ago)
-- [H1ghBre4k3r/orca-rs](https://github.com/H1ghBre4k3r/orca-rs) - Library for using ORCA written in Rust. Originally part of my bachelors thesis. (1 week ago)
+- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (2 weeks ago)
+- [H1ghBre4k3r/orca-rs](https://github.com/H1ghBre4k3r/orca-rs) - Library for using ORCA written in Rust. Originally part of my bachelors thesis. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -33,7 +33,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) ([v0.1.3](https://github.com/H1ghBre4k3r/y-lang/releases/tag/v0.1.3), 6 months ago) - Compiler for the (rather new and very experimental) Y programming language. 
+- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) ([v0.1.3](https://github.com/H1ghBre4k3r/y-lang/releases/tag/v0.1.3), 7 months ago) - Compiler for the (rather new and very experimental) Y programming language. 
 - [H1ghBre4k3r/rustvision](https://github.com/H1ghBre4k3r/rustvision) ([v0.1.1](https://github.com/H1ghBre4k3r/rustvision/releases/tag/v0.1.1), 11 months ago) - Simple (and very early) library for interacting with images, vertices (and some other stuff related to computer vision) written in Rust. 
 - [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) ([v0.2.0](https://github.com/H1ghBre4k3r/decoratory/releases/tag/v0.2.0), 2 years ago) - Utility decorators for TypeScript.
 
@@ -43,15 +43,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Parse Constants](https://github.com/H1ghBre4k3r/pesca-parser/pull/22) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (2 weeks ago)
 - [Basic CLI](https://github.com/H1ghBre4k3r/pesca-parser/pull/21) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (2 weeks ago)
 - [Declaration Support](https://github.com/H1ghBre4k3r/pesca-parser/pull/20) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (2 weeks ago)
-- [Reference Types](https://github.com/H1ghBre4k3r/pesca-parser/pull/19) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (2 weeks ago)
-- [Convert crate to library](https://github.com/H1ghBre4k3r/pesca-parser/pull/17) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (2 weeks ago)
-- [Array support](https://github.com/H1ghBre4k3r/pesca-parser/pull/16) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (2 weeks ago)
-- [Support for Comments](https://github.com/H1ghBre4k3r/pesca-parser/pull/14) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (4 weeks ago)
+- [Reference Types](https://github.com/H1ghBre4k3r/pesca-parser/pull/19) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (3 weeks ago)
+- [Convert crate to library](https://github.com/H1ghBre4k3r/pesca-parser/pull/17) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (3 weeks ago)
+- [Array support](https://github.com/H1ghBre4k3r/pesca-parser/pull/16) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (3 weeks ago)
+- [Support for Comments](https://github.com/H1ghBre4k3r/pesca-parser/pull/14) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (1 month ago)
 - [ci(workflows): run tests also on windows](https://github.com/H1ghBre4k3r/pesca-parser/pull/13) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (1 month ago)
 - [Update Cargo.toml](https://github.com/pesca-dev/aoc-website/pull/51) on [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) (1 month ago)
 
 #### ⭐ Recent Stars
 
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (today)
 - [hendrick404/oe2023-latex-workshop](https://github.com/hendrick404/oe2023-latex-workshop) -  (1 month ago)
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team (1 month ago)
 - [ASDAlexander77/TypeScriptCompiler](https://github.com/ASDAlexander77/TypeScriptCompiler) - TypeScript Compiler (by LLVM) (1 month ago)
@@ -61,7 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust (2 months ago)
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST (2 months ago)
 - [ebkalderon/tower-lsp](https://github.com/ebkalderon/tower-lsp) - Language Server Protocol implementation written in Rust (2 months ago)
-- [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets (2 months ago)
 
 #### 📫 How to reach me
 
