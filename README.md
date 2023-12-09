@@ -14,7 +14,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (today)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (today)
 - [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (today)
-- [H1ghBre4k3r/aoc-2023](https://github.com/H1ghBre4k3r/aoc-2023) - Yes. These are my solutions for AoC 2023. No guarantee for completeness or correctness. Maybe I will include some proofs. But mostly some random tests based on the example data. We will see. However, I&#39;m really looking forward for solving each problem! Probably I will just &#34;leave&#34; after day 6 or 7 (like last year), we&#39;ll see. Nonetheless, have fun! (5 days ago)
+- [H1ghBre4k3r/aoc-2023](https://github.com/H1ghBre4k3r/aoc-2023) - Yes. These are my solutions for AoC 2023. No guarantee for completeness or correctness. Maybe I will include some proofs. But mostly some random tests based on the example data. We will see. However, I&#39;m really looking forward for solving each problem! Probably I will just &#34;leave&#34; after day 6 or 7 (like last year), we&#39;ll see. Nonetheless, have fun! (today)
 - [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) - A website for viewing advent of code submissions of (Halb-)Offizieller-CAU-Informatik-Server™. (1 week ago)
 - [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) - Parsing all the way down.  (3 weeks ago)
 
