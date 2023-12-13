@@ -52,6 +52,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser! (today)
 - [Flexicon/latenightcommits](https://github.com/Flexicon/latenightcommits) - When the pressures of being 10x just overwhelm you (3 days ago)
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (2 weeks ago)
 - [hendrick404/oe2023-latex-workshop](https://github.com/hendrick404/oe2023-latex-workshop) -  (1 month ago)
@@ -61,7 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls. (2 months ago)
 - [ewilken/hap-rs](https://github.com/ewilken/hap-rs) - Rust implementation of the Apple HomeKit Accessory Protocol (HAP) (2 months ago)
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust (3 months ago)
-- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST (3 months ago)
 
 #### 📫 How to reach me
 
