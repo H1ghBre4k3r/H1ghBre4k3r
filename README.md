@@ -7,10 +7,10 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (4 days ago)
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (4 days ago)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (4 days ago)
-- [H1ghBre4k3r/aoc-2023](https://github.com/H1ghBre4k3r/aoc-2023) - Yes. These are my solutions for AoC 2023. No guarantee for completeness or correctness. Maybe I will include some proofs. But mostly some random tests based on the example data. We will see. However, I&#39;m really looking forward for solving each problem! Probably I will just &#34;leave&#34; after day 6 or 7 (like last year), we&#39;ll see. Nonetheless, have fun! (6 days ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (5 days ago)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (5 days ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (5 days ago)
+- [H1ghBre4k3r/aoc-2023](https://github.com/H1ghBre4k3r/aoc-2023) - Yes. These are my solutions for AoC 2023. No guarantee for completeness or correctness. Maybe I will include some proofs. But mostly some random tests based on the example data. We will see. However, I&#39;m really looking forward for solving each problem! Probably I will just &#34;leave&#34; after day 6 or 7 (like last year), we&#39;ll see. Nonetheless, have fun! (1 week ago)
 - [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (1 week ago)
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (1 week ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 week ago)
@@ -52,7 +52,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser! (5 days ago)
+- [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser! (6 days ago)
 - [Flexicon/latenightcommits](https://github.com/Flexicon/latenightcommits) - When the pressures of being 10x just overwhelm you (1 week ago)
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (3 weeks ago)
 - [hendrick404/oe2023-latex-workshop](https://github.com/hendrick404/oe2023-latex-workshop) -  (1 month ago)
