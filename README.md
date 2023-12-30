@@ -38,6 +38,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [Parser: Struct Support](https://github.com/H1ghBre4k3r/pesca-parser/pull/24) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (today)
 - [Update SurrealDB to v1.0.0](https://github.com/pesca-dev/aoc-website/pull/66) on [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) (1 month ago)
 - [Parse Constants](https://github.com/H1ghBre4k3r/pesca-parser/pull/22) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (1 month ago)
 - [Basic CLI](https://github.com/H1ghBre4k3r/pesca-parser/pull/21) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (1 month ago)
@@ -47,7 +48,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Array support](https://github.com/H1ghBre4k3r/pesca-parser/pull/16) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (1 month ago)
 - [Support for Comments](https://github.com/H1ghBre4k3r/pesca-parser/pull/14) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (2 months ago)
 - [ci(workflows): run tests also on windows](https://github.com/H1ghBre4k3r/pesca-parser/pull/13) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (2 months ago)
-- [Update Cargo.toml](https://github.com/pesca-dev/aoc-website/pull/51) on [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) (2 months ago)
 
 #### ⭐ Recent Stars
 
