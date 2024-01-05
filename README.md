@@ -7,7 +7,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) - Parsing all the way down.  (3 days ago)
+- [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) - A new fancy and not at all useful programming language. (4 days ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (2 weeks ago)
 - [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (2 weeks ago)
 - [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (2 weeks ago)
@@ -22,7 +22,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 - [H1ghBre4k3r/aoc-2023](https://github.com/H1ghBre4k3r/aoc-2023) - Yes. These are my solutions for AoC 2023. No guarantee for completeness or correctness. Maybe I will include some proofs. But mostly some random tests based on the example data. We will see. However, I&#39;m really looking forward for solving each problem! Probably I will just &#34;leave&#34; after day 6 or 7 (like last year), we&#39;ll see. Nonetheless, have fun!
 - [H1ghBre4k3r/embassy-rp](https://github.com/H1ghBre4k3r/embassy-rp) - Experiments with embassy on the RP2040
-- [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) - Parsing all the way down. 
+- [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) - A new fancy and not at all useful programming language.
 - [H1ghBre4k3r/eventer-k8s](https://github.com/H1ghBre4k3r/eventer-k8s) - K8s configuration for Eventer
 - [H1ghBre4k3r/tpi](https://github.com/H1ghBre4k3r/tpi) - A small (and WIP) CLI for interacting with your local TuringPi 2 Cluster.
 - [H1ghBre4k3r/std.why](https://github.com/H1ghBre4k3r/std.why) - The home of the Y standard library.
@@ -38,16 +38,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [Parser: Prefix Negation and Minus](https://github.com/H1ghBre4k3r/pesca-parser/pull/25) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (4 days ago)
-- [Parser: Struct Support](https://github.com/H1ghBre4k3r/pesca-parser/pull/24) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (5 days ago)
+- [Parser: Prefix Negation and Minus](https://github.com/H1ghBre4k3r/pesca-lang/pull/25) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (5 days ago)
+- [Parser: Struct Support](https://github.com/H1ghBre4k3r/pesca-lang/pull/24) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (6 days ago)
 - [Update SurrealDB to v1.0.0](https://github.com/pesca-dev/aoc-website/pull/66) on [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) (1 month ago)
-- [Parse Constants](https://github.com/H1ghBre4k3r/pesca-parser/pull/22) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (1 month ago)
-- [Basic CLI](https://github.com/H1ghBre4k3r/pesca-parser/pull/21) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (1 month ago)
-- [Declaration Support](https://github.com/H1ghBre4k3r/pesca-parser/pull/20) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (1 month ago)
-- [Reference Types](https://github.com/H1ghBre4k3r/pesca-parser/pull/19) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (1 month ago)
-- [Convert crate to library](https://github.com/H1ghBre4k3r/pesca-parser/pull/17) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (1 month ago)
-- [Array support](https://github.com/H1ghBre4k3r/pesca-parser/pull/16) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (1 month ago)
-- [Support for Comments](https://github.com/H1ghBre4k3r/pesca-parser/pull/14) on [H1ghBre4k3r/pesca-parser](https://github.com/H1ghBre4k3r/pesca-parser) (2 months ago)
+- [Parse Constants](https://github.com/H1ghBre4k3r/pesca-lang/pull/22) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 month ago)
+- [Basic CLI](https://github.com/H1ghBre4k3r/pesca-lang/pull/21) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 month ago)
+- [Declaration Support](https://github.com/H1ghBre4k3r/pesca-lang/pull/20) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 month ago)
+- [Reference Types](https://github.com/H1ghBre4k3r/pesca-lang/pull/19) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 months ago)
+- [Convert crate to library](https://github.com/H1ghBre4k3r/pesca-lang/pull/17) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 months ago)
+- [Array support](https://github.com/H1ghBre4k3r/pesca-lang/pull/16) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 months ago)
+- [Support for Comments](https://github.com/H1ghBre4k3r/pesca-lang/pull/14) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 months ago)
 
 #### ⭐ Recent Stars
 
