@@ -38,22 +38,22 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [Parser: Prefix Negation and Minus](https://github.com/H1ghBre4k3r/pesca-lang/pull/25) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (5 days ago)
-- [Parser: Struct Support](https://github.com/H1ghBre4k3r/pesca-lang/pull/24) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (6 days ago)
+- [Parser: Support for Decimal Number](https://github.com/H1ghBre4k3r/pesca-lang/pull/30) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 day ago)
+- [Lexer: Use RegEx for Tokenization](https://github.com/H1ghBre4k3r/pesca-lang/pull/29) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 day ago)
+- [Parser: Prefix Negation and Minus](https://github.com/H1ghBre4k3r/pesca-lang/pull/25) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (6 days ago)
+- [Parser: Struct Support](https://github.com/H1ghBre4k3r/pesca-lang/pull/24) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 week ago)
 - [Update SurrealDB to v1.0.0](https://github.com/pesca-dev/aoc-website/pull/66) on [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) (1 month ago)
-- [Parse Constants](https://github.com/H1ghBre4k3r/pesca-lang/pull/22) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 month ago)
-- [Basic CLI](https://github.com/H1ghBre4k3r/pesca-lang/pull/21) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 month ago)
-- [Declaration Support](https://github.com/H1ghBre4k3r/pesca-lang/pull/20) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 month ago)
+- [Parse Constants](https://github.com/H1ghBre4k3r/pesca-lang/pull/22) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 months ago)
+- [Basic CLI](https://github.com/H1ghBre4k3r/pesca-lang/pull/21) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 months ago)
+- [Declaration Support](https://github.com/H1ghBre4k3r/pesca-lang/pull/20) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 months ago)
 - [Reference Types](https://github.com/H1ghBre4k3r/pesca-lang/pull/19) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 months ago)
 - [Convert crate to library](https://github.com/H1ghBre4k3r/pesca-lang/pull/17) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 months ago)
-- [Array support](https://github.com/H1ghBre4k3r/pesca-lang/pull/16) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 months ago)
-- [Support for Comments](https://github.com/H1ghBre4k3r/pesca-lang/pull/14) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [apple/ml-ferret](https://github.com/apple/ml-ferret) -  (today)
-- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (today)
-- [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager (today)
+- [apple/ml-ferret](https://github.com/apple/ml-ferret) -  (1 day ago)
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (1 day ago)
+- [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager (1 day ago)
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser! (3 weeks ago)
 - [Flexicon/latenightcommits](https://github.com/Flexicon/latenightcommits) - When the pressures of being 10x just overwhelm you (3 weeks ago)
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (1 month ago)
