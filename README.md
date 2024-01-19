@@ -52,16 +52,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (today)
+- [grovesNL/glow](https://github.com/grovesNL/glow) - GL on Whatever: a set of bindings to run GL anywhere and avoid target-specific code (today)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (today)
+- [mattgodbolt/atuin](https://github.com/mattgodbolt/atuin) - ✨ Magical shell history (today)
 - [rust-lang/ferris-says](https://github.com/rust-lang/ferris-says) - A Rust flavored implementation of `cowsay` (4 days ago)
 - [apple/ml-ferret](https://github.com/apple/ml-ferret) -  (2 weeks ago)
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (2 weeks ago)
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager (2 weeks ago)
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser! (1 month ago)
 - [Flexicon/latenightcommits](https://github.com/Flexicon/latenightcommits) - When the pressures of being 10x just overwhelm you (1 month ago)
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (1 month ago)
-- [hendrick404/oe2023-latex-workshop](https://github.com/hendrick404/oe2023-latex-workshop) -  (3 months ago)
-- [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team (3 months ago)
-- [ASDAlexander77/TypeScriptCompiler](https://github.com/ASDAlexander77/TypeScriptCompiler) - TypeScript Compiler (by LLVM) (3 months ago)
 
 #### 📫 How to reach me
 
