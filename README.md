@@ -7,13 +7,13 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (today)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (today)
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (today)
-- [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) - A website for viewing advent of code submissions of (Halb-)Offizieller-CAU-Informatik-Server™. (today)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (today)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (4 days ago)
-- [H1ghBre4k3r/orca-rs](https://github.com/H1ghBre4k3r/orca-rs) - Library for using ORCA written in Rust. Originally part of my bachelors thesis. (4 days ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 day ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (1 day ago)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (1 day ago)
+- [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) - A website for viewing advent of code submissions of (Halb-)Offizieller-CAU-Informatik-Server™. (1 day ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (1 day ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (5 days ago)
+- [H1ghBre4k3r/orca-rs](https://github.com/H1ghBre4k3r/orca-rs) - Library for using ORCA written in Rust. Originally part of my bachelors thesis. (5 days ago)
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (1 week ago)
 - [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) - The (TypeScript) backend for MoneyBoy. (2 weeks ago)
 - [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (2 weeks ago)
@@ -42,7 +42,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Parser: Operator Precedence](https://github.com/H1ghBre4k3r/pesca-lang/pull/31) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (3 weeks ago)
 - [Parser: Support for Decimal Number](https://github.com/H1ghBre4k3r/pesca-lang/pull/30) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (3 weeks ago)
 - [Lexer: Use RegEx for Tokenization](https://github.com/H1ghBre4k3r/pesca-lang/pull/29) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (3 weeks ago)
-- [Parser: Prefix Negation and Minus](https://github.com/H1ghBre4k3r/pesca-lang/pull/25) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (4 weeks ago)
+- [Parser: Prefix Negation and Minus](https://github.com/H1ghBre4k3r/pesca-lang/pull/25) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 month ago)
 - [Parser: Struct Support](https://github.com/H1ghBre4k3r/pesca-lang/pull/24) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 month ago)
 - [Update SurrealDB to v1.0.0](https://github.com/pesca-dev/aoc-website/pull/66) on [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) (2 months ago)
 - [Parse Constants](https://github.com/H1ghBre4k3r/pesca-lang/pull/22) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 months ago)
@@ -52,8 +52,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based &#34;The Matrix&#34; like implementation (today)
-- [glium/glium](https://github.com/glium/glium) - Safe OpenGL wrapper for the Rust language. (3 days ago)
+- [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based &#34;The Matrix&#34; like implementation (1 day ago)
+- [glium/glium](https://github.com/glium/glium) - Safe OpenGL wrapper for the Rust language. (4 days ago)
 - [tom-tan/brainfuck-mode](https://github.com/tom-tan/brainfuck-mode) - Brainfuck mode for Emacs (1 week ago)
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (1 week ago)
 - [grovesNL/glow](https://github.com/grovesNL/glow) - GL on Whatever: a set of bindings to run GL anywhere and avoid target-specific code (1 week ago)
