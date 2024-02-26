@@ -7,14 +7,14 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (today)
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (today)
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (2 days ago)
-- [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) - The (TypeScript) backend for MoneyBoy. (2 days ago)
-- [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (2 days ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (2 days ago)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (5 days ago)
-- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (6 days ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (1 day ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 day ago)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (3 days ago)
+- [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) - The (TypeScript) backend for MoneyBoy. (3 days ago)
+- [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (3 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (3 days ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (6 days ago)
+- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (1 week ago)
 - [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) - A new fancy and not at all useful programming language. (3 weeks ago)
 - [H1ghBre4k3r/embassy-rp](https://github.com/H1ghBre4k3r/embassy-rp) - Experiments with embassy on the RP2040 (3 weeks ago)
 
@@ -52,12 +52,12 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (today)
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (6 days ago)
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (6 days ago)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (1 day ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 week ago)
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (1 week ago)
 - [tsoding/zozlib.js](https://github.com/tsoding/zozlib.js) - Unofficial Implementation of Subset of Raylib API in JavaScript (2 weeks ago)
-- [BVE-Reborn/rend3](https://github.com/BVE-Reborn/rend3) - Easy to use, customizable, efficient 3D renderer library built on wgpu. (2 weeks ago)
-- [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based &#34;The Matrix&#34; like implementation (3 weeks ago)
+- [BVE-Reborn/rend3](https://github.com/BVE-Reborn/rend3) - Easy to use, customizable, efficient 3D renderer library built on wgpu. (3 weeks ago)
+- [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based &#34;The Matrix&#34; like implementation (4 weeks ago)
 - [glium/glium](https://github.com/glium/glium) - Safe OpenGL wrapper for the Rust language. (1 month ago)
 - [tom-tan/brainfuck-mode](https://github.com/tom-tan/brainfuck-mode) - Brainfuck mode for Emacs (1 month ago)
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (1 month ago)
