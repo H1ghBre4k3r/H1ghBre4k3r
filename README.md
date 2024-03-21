@@ -52,6 +52,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (today)
 - [dtolnay/syn](https://github.com/dtolnay/syn) - Parser for Rust source code (today)
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (3 weeks ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 month ago)
@@ -61,7 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based &#34;The Matrix&#34; like implementation (1 month ago)
 - [glium/glium](https://github.com/glium/glium) - Safe OpenGL wrapper for the Rust language. (1 month ago)
 - [tom-tan/brainfuck-mode](https://github.com/tom-tan/brainfuck-mode) - Brainfuck mode for Emacs (2 months ago)
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (2 months ago)
 
 #### 📫 How to reach me
 
