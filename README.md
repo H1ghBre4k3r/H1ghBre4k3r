@@ -7,12 +7,12 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (3 days ago)
-- [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (3 days ago)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (4 days ago)
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (4 days ago)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (4 days ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (4 days ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (4 days ago)
+- [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (4 days ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (5 days ago)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (5 days ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (5 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (5 days ago)
 - [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) - The (TypeScript) backend for MoneyBoy. (1 week ago)
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (1 week ago)
 - [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) - A new fancy and not at all useful programming language. (2 weeks ago)
@@ -34,12 +34,12 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 #### 🔭 Latest releases I've contributed to
 
 - [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) ([v0.1.0](https://github.com/H1ghBre4k3r/pesca-lang/releases/tag/v0.1.0), 2 months ago) - A new fancy and not at all useful programming language.
-- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) ([v0.1.3](https://github.com/H1ghBre4k3r/y-lang/releases/tag/v0.1.3), 10 months ago) - Compiler for the (rather new and very experimental) Y programming language. 
+- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) ([v0.1.3](https://github.com/H1ghBre4k3r/y-lang/releases/tag/v0.1.3), 11 months ago) - Compiler for the (rather new and very experimental) Y programming language. 
 - [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) ([v0.2.0](https://github.com/H1ghBre4k3r/decoratory/releases/tag/v0.2.0), 2 years ago) - Utility decorators for TypeScript.
 
 #### 🔨 My recent Pull Requests
 
-- [Feature: add first TypeChecker](https://github.com/H1ghBre4k3r/pesca-lang/pull/35) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 week ago)
+- [Feature: add first TypeChecker](https://github.com/H1ghBre4k3r/pesca-lang/pull/35) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 weeks ago)
 - [Refactor: Add generic to all language constructs](https://github.com/H1ghBre4k3r/pesca-lang/pull/34) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 weeks ago)
 - [Documentation](https://github.com/H1ghBre4k3r/pesca-lang/pull/33) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 month ago)
 - [Parser: Operator Precedence](https://github.com/H1ghBre4k3r/pesca-lang/pull/31) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 months ago)
@@ -52,15 +52,15 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (4 days ago)
-- [dtolnay/syn](https://github.com/dtolnay/syn) - Parser for Rust source code (4 days ago)
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (4 weeks ago)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (5 days ago)
+- [dtolnay/syn](https://github.com/dtolnay/syn) - Parser for Rust source code (5 days ago)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (1 month ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 month ago)
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (1 month ago)
 - [tsoding/zozlib.js](https://github.com/tsoding/zozlib.js) - Unofficial Implementation of Subset of Raylib API in JavaScript (1 month ago)
 - [BVE-Reborn/rend3](https://github.com/BVE-Reborn/rend3) - Easy to use, customizable, efficient 3D renderer library built on wgpu. (1 month ago)
 - [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based &#34;The Matrix&#34; like implementation (1 month ago)
-- [glium/glium](https://github.com/glium/glium) - Safe OpenGL wrapper for the Rust language. (1 month ago)
+- [glium/glium](https://github.com/glium/glium) - Safe OpenGL wrapper for the Rust language. (2 months ago)
 - [tom-tan/brainfuck-mode](https://github.com/tom-tan/brainfuck-mode) - Brainfuck mode for Emacs (2 months ago)
 
 #### 📫 How to reach me
