@@ -52,6 +52,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (today)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (2 weeks ago)
 - [dtolnay/syn](https://github.com/dtolnay/syn) - Parser for Rust source code (2 weeks ago)
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (1 month ago)
@@ -61,7 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [BVE-Reborn/rend3](https://github.com/BVE-Reborn/rend3) - Easy to use, customizable, efficient 3D renderer library built on wgpu. (2 months ago)
 - [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based &#34;The Matrix&#34; like implementation (2 months ago)
 - [glium/glium](https://github.com/glium/glium) - Safe OpenGL wrapper for the Rust language. (2 months ago)
-- [tom-tan/brainfuck-mode](https://github.com/tom-tan/brainfuck-mode) - Brainfuck mode for Emacs (2 months ago)
 
 #### 📫 How to reach me
 
