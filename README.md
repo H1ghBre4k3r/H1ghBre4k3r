@@ -7,15 +7,15 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [campus-experts/preview-template](https://github.com/campus-experts/preview-template) -  (today)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (1 day ago)
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (1 day ago)
-- [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (1 day ago)
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 day ago)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (1 day ago)
-- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (1 day ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (1 day ago)
-- [H1ghBre4k3r/rust-map-reduce](https://github.com/H1ghBre4k3r/rust-map-reduce) - A small hobby implementation of MapReduce that I hacked together at 2am. (1 day ago)
+- [campus-experts/preview-template](https://github.com/campus-experts/preview-template) -  (1 day ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (2 days ago)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (2 days ago)
+- [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (2 days ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (2 days ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (2 days ago)
+- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (2 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (2 days ago)
+- [H1ghBre4k3r/rust-map-reduce](https://github.com/H1ghBre4k3r/rust-map-reduce) - A small hobby implementation of MapReduce that I hacked together at 2am. (2 days ago)
 - [H1ghBre4k3r/k8s-deploy](https://github.com/H1ghBre4k3r/k8s-deploy) - Example repository for deploying a NodeJS app on own k8s instance. (1 week ago)
 
 #### 🌱 My latest projects
@@ -47,13 +47,13 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Lexer: Use RegEx for Tokenization](https://github.com/H1ghBre4k3r/pesca-lang/pull/29) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (3 months ago)
 - [Parser: Prefix Negation and Minus](https://github.com/H1ghBre4k3r/pesca-lang/pull/25) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (3 months ago)
 - [Parser: Struct Support](https://github.com/H1ghBre4k3r/pesca-lang/pull/24) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (3 months ago)
-- [Update SurrealDB to v1.0.0](https://github.com/pesca-dev/aoc-website/pull/66) on [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) (4 months ago)
+- [Update SurrealDB to v1.0.0](https://github.com/pesca-dev/aoc-website/pull/66) on [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) (5 months ago)
 - [Parse Constants](https://github.com/H1ghBre4k3r/pesca-lang/pull/22) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (5 months ago)
 
 #### ⭐ Recent Stars
 
-- [fwcd/arthouse](https://github.com/fwcd/arthouse) - Art-Net (DMX over UDP/IP) adapter for Project Lighthouse (1 day ago)
-- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (3 days ago)
+- [fwcd/arthouse](https://github.com/fwcd/arthouse) - Art-Net (DMX over UDP/IP) adapter for Project Lighthouse (2 days ago)
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (4 days ago)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (2 weeks ago)
 - [dtolnay/syn](https://github.com/dtolnay/syn) - Parser for Rust source code (2 weeks ago)
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (1 month ago)
