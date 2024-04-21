@@ -52,6 +52,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility. (today)
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager (1 week ago)
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator. (1 week ago)
 - [fwcd/arthouse](https://github.com/fwcd/arthouse) - Art-Net (DMX over UDP/IP) adapter for Project Lighthouse (1 week ago)
@@ -61,7 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (1 month ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (2 months ago)
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (2 months ago)
-- [tsoding/zozlib.js](https://github.com/tsoding/zozlib.js) - Unofficial Implementation of Subset of Raylib API in JavaScript (2 months ago)
 
 #### 📫 How to reach me
 
