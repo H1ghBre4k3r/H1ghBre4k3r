@@ -7,7 +7,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/y-lang.nvim](https://github.com/H1ghBre4k3r/y-lang.nvim) - Y support for Neovim (4 days ago)
+- [H1ghBre4k3r/y-lang.nvim](https://github.com/H1ghBre4k3r/y-lang.nvim) - Y support for Neovim (today)
 - [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (4 days ago)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (5 days ago)
 - [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) - A new fancy and not at all useful programming language. (5 days ago)
