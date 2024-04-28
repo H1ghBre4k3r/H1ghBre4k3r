@@ -7,11 +7,11 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (3 days ago)
-- [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (3 days ago)
-- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (4 days ago)
-- [H1ghBre4k3r/y-lang.nvim](https://github.com/H1ghBre4k3r/y-lang.nvim) - Y support for Neovim (4 days ago)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (4 days ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (4 days ago)
+- [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (4 days ago)
+- [H1ghBre4k3r/decoratory](https://github.com/H1ghBre4k3r/decoratory) - Utility decorators for TypeScript. (5 days ago)
+- [H1ghBre4k3r/y-lang.nvim](https://github.com/H1ghBre4k3r/y-lang.nvim) - Y support for Neovim (5 days ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (5 days ago)
 - [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) - A new fancy and not at all useful programming language. (1 week ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 week ago)
 - [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (2 weeks ago)
@@ -47,14 +47,14 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Parser: Support for Decimal Number](https://github.com/H1ghBre4k3r/pesca-lang/pull/30) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (3 months ago)
 - [Lexer: Use RegEx for Tokenization](https://github.com/H1ghBre4k3r/pesca-lang/pull/29) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (3 months ago)
 - [Parser: Prefix Negation and Minus](https://github.com/H1ghBre4k3r/pesca-lang/pull/25) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (3 months ago)
-- [Parser: Struct Support](https://github.com/H1ghBre4k3r/pesca-lang/pull/24) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (3 months ago)
+- [Parser: Struct Support](https://github.com/H1ghBre4k3r/pesca-lang/pull/24) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (4 months ago)
 - [Update SurrealDB to v1.0.0](https://github.com/pesca-dev/aoc-website/pull/66) on [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) (5 months ago)
 
 #### ⭐ Recent Stars
 
-- [tiny-pilot/tinypilot](https://github.com/tiny-pilot/tinypilot) - Use your Raspberry Pi as a browser-based KVM. (1 day ago)
-- [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes (2 days ago)
-- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility. (6 days ago)
+- [tiny-pilot/tinypilot](https://github.com/tiny-pilot/tinypilot) - Use your Raspberry Pi as a browser-based KVM. (2 days ago)
+- [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes (3 days ago)
+- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility. (1 week ago)
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager (2 weeks ago)
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator. (2 weeks ago)
 - [fwcd/arthouse](https://github.com/fwcd/arthouse) - Art-Net (DMX over UDP/IP) adapter for Project Lighthouse (2 weeks ago)
