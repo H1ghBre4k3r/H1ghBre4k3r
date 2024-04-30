@@ -52,6 +52,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [IWANABETHATGUY/tower-lsp-boilerplate](https://github.com/IWANABETHATGUY/tower-lsp-boilerplate) -  (today)
 - [7erra/MANVSim](https://github.com/7erra/MANVSim) -  (2 days ago)
 - [tiny-pilot/tinypilot](https://github.com/tiny-pilot/tinypilot) - Use your Raspberry Pi as a browser-based KVM. (4 days ago)
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes (5 days ago)
@@ -61,7 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [fwcd/arthouse](https://github.com/fwcd/arthouse) - Art-Net (DMX over UDP/IP) adapter for Project Lighthouse (3 weeks ago)
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (3 weeks ago)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (1 month ago)
-- [dtolnay/syn](https://github.com/dtolnay/syn) - Parser for Rust source code (1 month ago)
 
 #### 📫 How to reach me
 
