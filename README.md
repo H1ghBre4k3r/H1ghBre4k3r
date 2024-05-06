@@ -52,6 +52,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [schacon/gitbutler](https://github.com/schacon/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (today)
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (5 days ago)
 - [IWANABETHATGUY/tower-lsp-boilerplate](https://github.com/IWANABETHATGUY/tower-lsp-boilerplate) -  (6 days ago)
 - [7erra/MANVSim](https://github.com/7erra/MANVSim) -  (1 week ago)
@@ -61,7 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager (3 weeks ago)
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator. (3 weeks ago)
 - [fwcd/arthouse](https://github.com/fwcd/arthouse) - Art-Net (DMX over UDP/IP) adapter for Project Lighthouse (4 weeks ago)
-- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (1 month ago)
 
 #### 📫 How to reach me
 
