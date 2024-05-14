@@ -52,6 +52,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [Mr-Wiseguy/N64Recomp](https://github.com/Mr-Wiseguy/N64Recomp) - Tool to statically recompile N64 games into native executables (today)
 - [schacon/gitbutler](https://github.com/schacon/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (1 week ago)
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (1 week ago)
 - [IWANABETHATGUY/tower-lsp-boilerplate](https://github.com/IWANABETHATGUY/tower-lsp-boilerplate) -  (2 weeks ago)
@@ -61,7 +62,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility. (3 weeks ago)
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager (1 month ago)
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator. (1 month ago)
-- [fwcd/arthouse](https://github.com/fwcd/arthouse) - Art-Net (DMX over UDP/IP) adapter for Project Lighthouse (1 month ago)
 
 #### 📫 How to reach me
 
