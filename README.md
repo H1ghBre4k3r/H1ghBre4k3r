@@ -7,11 +7,11 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (5 days ago)
-- [H1ghBre4k3r/typescript-decorators](https://github.com/H1ghBre4k3r/typescript-decorators) - Utility decorators for TypeScript. (5 days ago)
-- [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) - A new fancy and not at all useful programming language. (5 days ago)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (5 days ago)
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (5 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (6 days ago)
+- [H1ghBre4k3r/typescript-decorators](https://github.com/H1ghBre4k3r/typescript-decorators) - Utility decorators for TypeScript. (6 days ago)
+- [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) - A new fancy and not at all useful programming language. (6 days ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (6 days ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (6 days ago)
 - [H1ghBre4k3r/y-lang.nvim](https://github.com/H1ghBre4k3r/y-lang.nvim) - Y support for Neovim (1 week ago)
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (1 week ago)
 - [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) - The (TypeScript) backend for MoneyBoy. (1 week ago)
@@ -39,7 +39,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [Update dependabot.yml](https://github.com/H1ghBre4k3r/pesca-lang/pull/39) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (6 days ago)
+- [Update dependabot.yml](https://github.com/H1ghBre4k3r/pesca-lang/pull/39) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 week ago)
 - [Support for Instances](https://github.com/H1ghBre4k3r/pesca-lang/pull/38) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 week ago)
 - [First LSP Setup](https://github.com/H1ghBre4k3r/pesca-lang/pull/36) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (3 weeks ago)
 - [Feature: add first TypeChecker](https://github.com/H1ghBre4k3r/pesca-lang/pull/35) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 months ago)
@@ -52,12 +52,12 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [Mr-Wiseguy/N64Recomp](https://github.com/Mr-Wiseguy/N64Recomp) - Tool to statically recompile N64 games into native executables (2 days ago)
+- [Mr-Wiseguy/N64Recomp](https://github.com/Mr-Wiseguy/N64Recomp) - Tool to statically recompile N64 games into native executables (3 days ago)
 - [schacon/gitbutler](https://github.com/schacon/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (1 week ago)
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (2 weeks ago)
 - [IWANABETHATGUY/tower-lsp-boilerplate](https://github.com/IWANABETHATGUY/tower-lsp-boilerplate) -  (2 weeks ago)
 - [7erra/MANVSim](https://github.com/7erra/MANVSim) -  (2 weeks ago)
-- [tiny-pilot/tinypilot](https://github.com/tiny-pilot/tinypilot) - Use your Raspberry Pi as a browser-based KVM. (2 weeks ago)
+- [tiny-pilot/tinypilot](https://github.com/tiny-pilot/tinypilot) - Use your Raspberry Pi as a browser-based KVM. (3 weeks ago)
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes (3 weeks ago)
 - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility. (3 weeks ago)
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager (1 month ago)
