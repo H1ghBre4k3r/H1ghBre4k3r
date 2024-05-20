@@ -7,16 +7,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/rust-starter](https://github.com/H1ghBre4k3r/rust-starter) - Starter template for Rust repositories. (today)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (2 days ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (2 days ago)
-- [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (2 days ago)
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (2 days ago)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (2 days ago)
+- [H1ghBre4k3r/rust-starter](https://github.com/H1ghBre4k3r/rust-starter) - Starter template for Rust repositories. (1 day ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (3 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (3 days ago)
+- [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (3 days ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (3 days ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (3 days ago)
 - [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) - A new fancy and not at all useful programming language. (1 week ago)
 - [H1ghBre4k3r/typescript-decorators](https://github.com/H1ghBre4k3r/typescript-decorators) - Utility decorators for TypeScript. (1 week ago)
 - [H1ghBre4k3r/y-lang.nvim](https://github.com/H1ghBre4k3r/y-lang.nvim) - Y support for Neovim (1 week ago)
-- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (1 week ago)
+- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -41,7 +41,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 - [Update dependabot.yml](https://github.com/H1ghBre4k3r/pesca-lang/pull/39) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 week ago)
 - [Support for Instances](https://github.com/H1ghBre4k3r/pesca-lang/pull/38) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 weeks ago)
-- [First LSP Setup](https://github.com/H1ghBre4k3r/pesca-lang/pull/36) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (4 weeks ago)
+- [First LSP Setup](https://github.com/H1ghBre4k3r/pesca-lang/pull/36) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 month ago)
 - [Feature: add first TypeChecker](https://github.com/H1ghBre4k3r/pesca-lang/pull/35) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 months ago)
 - [Refactor: Add generic to all language constructs](https://github.com/H1ghBre4k3r/pesca-lang/pull/34) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 months ago)
 - [Documentation](https://github.com/H1ghBre4k3r/pesca-lang/pull/33) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (3 months ago)
@@ -52,8 +52,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [Mr-Wiseguy/N64Recomp](https://github.com/Mr-Wiseguy/N64Recomp) - Tool to statically recompile N64 games into native executables (5 days ago)
-- [schacon/gitbutler](https://github.com/schacon/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (1 week ago)
+- [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables (6 days ago)
+- [schacon/gitbutler](https://github.com/schacon/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (2 weeks ago)
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (2 weeks ago)
 - [IWANABETHATGUY/tower-lsp-boilerplate](https://github.com/IWANABETHATGUY/tower-lsp-boilerplate) -  (2 weeks ago)
 - [7erra/MANVSim](https://github.com/7erra/MANVSim) -  (3 weeks ago)
