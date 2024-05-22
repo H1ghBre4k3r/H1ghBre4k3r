@@ -53,6 +53,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [fwcd/kola](https://github.com/fwcd/kola) - Experimental language server for Kotlin, written from scratch using Tree-sitter (today)
 - [pesca-dev/decentnoobbot](https://github.com/pesca-dev/decentnoobbot) - A small Discord bot written in Rust. (1 day ago)
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) - Lightweight library for creating fast WebComponents. (1 day ago)
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language (1 day ago)
@@ -62,7 +63,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [IWANABETHATGUY/tower-lsp-boilerplate](https://github.com/IWANABETHATGUY/tower-lsp-boilerplate) -  (3 weeks ago)
 - [7erra/MANVSim](https://github.com/7erra/MANVSim) -  (3 weeks ago)
 - [tiny-pilot/tinypilot](https://github.com/tiny-pilot/tinypilot) - Use your Raspberry Pi as a browser-based KVM. (3 weeks ago)
-- [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes (3 weeks ago)
 
 #### 📫 How to reach me
 
