@@ -53,6 +53,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left! (today)
 - [dashersw/cote](https://github.com/dashersw/cote) - A Node.js library for building zero-configuration microservices. (today)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (1 day ago)
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (1 day ago)
@@ -62,7 +63,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (3 weeks ago)
 - [fwcd/kola](https://github.com/fwcd/kola) - Experimental language server for Kotlin, written from scratch using Tree-sitter (3 weeks ago)
 - [pesca-dev/decentnoobbot](https://github.com/pesca-dev/decentnoobbot) - A small Discord bot written in Rust. (3 weeks ago)
-- [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) - Lightweight library for creating fast WebComponents. (3 weeks ago)
 
 #### 📫 How to reach me
 
