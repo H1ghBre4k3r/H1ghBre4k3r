@@ -7,16 +7,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (today)
-- [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) - The (TypeScript) backend for MoneyBoy. (today)
-- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (today)
-- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (today)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (today)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (today)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (today)
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (1 day ago)
-- [7erra/MANVSim](https://github.com/7erra/MANVSim) -  (1 day ago)
-- [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) - A new fancy and not at all useful programming language. (6 days ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 day ago)
+- [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) - The (TypeScript) backend for MoneyBoy. (1 day ago)
+- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (1 day ago)
+- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (1 day ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (1 day ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (1 day ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (1 day ago)
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (2 days ago)
+- [7erra/MANVSim](https://github.com/7erra/MANVSim) -  (2 days ago)
+- [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) - A new fancy and not at all useful programming language. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -40,10 +40,10 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor: Use Mapped Columns](https://github.com/7erra/MANVSim/pull/101) on [7erra/MANVSim](https://github.com/7erra/MANVSim) (1 day ago)
-- [Feature: Allow selection of always visible scrollbar](https://github.com/gitbutlerapp/gitbutler/pull/4083) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (4 days ago)
-- [Feature: Allow selection of always visible scrollbar](https://github.com/H1ghBre4k3r/gitbutler/pull/1) on [H1ghBre4k3r/gitbutler](https://github.com/H1ghBre4k3r/gitbutler) (4 days ago)
-- [Bugfix: Only analyze .why files in check_diagnostics()](https://github.com/H1ghBre4k3r/pesca-lang/pull/50) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (6 days ago)
+- [Refactor: Use Mapped Columns](https://github.com/7erra/MANVSim/pull/101) on [7erra/MANVSim](https://github.com/7erra/MANVSim) (2 days ago)
+- [Feature: Allow selection of always visible scrollbar](https://github.com/gitbutlerapp/gitbutler/pull/4083) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (5 days ago)
+- [Feature: Allow selection of always visible scrollbar](https://github.com/H1ghBre4k3r/gitbutler/pull/1) on [H1ghBre4k3r/gitbutler](https://github.com/H1ghBre4k3r/gitbutler) (5 days ago)
+- [Bugfix: Only analyze .why files in check_diagnostics()](https://github.com/H1ghBre4k3r/pesca-lang/pull/50) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 week ago)
 - [chore: remove Cargo.lock from .gitignore](https://github.com/H1ghBre4k3r/pesca-lang/pull/41) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 weeks ago)
 - [chore: explicitly name crates for dependabot](https://github.com/H1ghBre4k3r/pesca-lang/pull/40) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 weeks ago)
 - [Draft: CI Setup For Linting](https://github.com/7erra/MANVSim/pull/49) on [7erra/MANVSim](https://github.com/7erra/MANVSim) (1 month ago)
@@ -53,15 +53,15 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left! (5 days ago)
-- [dashersw/cote](https://github.com/dashersw/cote) - A Node.js library for building zero-configuration microservices. (5 days ago)
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (6 days ago)
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (6 days ago)
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/ (6 days ago)
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Web OS! Free, Open-Source, and Self-Hostable. (6 days ago)
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left! (6 days ago)
+- [dashersw/cote](https://github.com/dashersw/cote) - A Node.js library for building zero-configuration microservices. (6 days ago)
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (1 week ago)
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (1 week ago)
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/ (1 week ago)
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Web OS! Free, Open-Source, and Self-Hostable. (1 week ago)
 - [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash (3 weeks ago)
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (3 weeks ago)
-- [fwcd/kola](https://github.com/fwcd/kola) - Experimental language server for Kotlin, written from scratch using Tree-sitter (3 weeks ago)
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (4 weeks ago)
+- [fwcd/kola](https://github.com/fwcd/kola) - Experimental language server for Kotlin, written from scratch using Tree-sitter (4 weeks ago)
 - [pesca-dev/decentnoobbot](https://github.com/pesca-dev/decentnoobbot) - A small Discord bot written in Rust. (4 weeks ago)
 
 #### 📫 How to reach me
