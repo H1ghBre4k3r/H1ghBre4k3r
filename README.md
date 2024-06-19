@@ -40,6 +40,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [Fix: Wrong throttling in Select components](https://github.com/gitbutlerapp/gitbutler/pull/4119) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (today)
 - [Refactor: Use Mapped Columns](https://github.com/7erra/MANVSim/pull/101) on [7erra/MANVSim](https://github.com/7erra/MANVSim) (2 days ago)
 - [Feature: Allow selection of always visible scrollbar](https://github.com/gitbutlerapp/gitbutler/pull/4083) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (5 days ago)
 - [Feature: Allow selection of always visible scrollbar](https://github.com/H1ghBre4k3r/gitbutler/pull/1) on [H1ghBre4k3r/gitbutler](https://github.com/H1ghBre4k3r/gitbutler) (5 days ago)
@@ -49,7 +50,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Draft: CI Setup For Linting](https://github.com/7erra/MANVSim/pull/49) on [7erra/MANVSim](https://github.com/7erra/MANVSim) (1 month ago)
 - [Server: Switch from Django to Flask](https://github.com/7erra/MANVSim/pull/48) on [7erra/MANVSim](https://github.com/7erra/MANVSim) (1 month ago)
 - [Update Database Scheme](https://github.com/7erra/MANVSim/pull/47) on [7erra/MANVSim](https://github.com/7erra/MANVSim) (1 month ago)
-- [chore: Update server setup and dependencies script](https://github.com/7erra/MANVSim/pull/46) on [7erra/MANVSim](https://github.com/7erra/MANVSim) (1 month ago)
 
 #### ⭐ Recent Stars
 
