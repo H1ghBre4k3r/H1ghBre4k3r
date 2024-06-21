@@ -7,16 +7,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (1 day ago)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (1 day ago)
-- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (1 day ago)
-- [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (1 day ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (1 day ago)
-- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (2 days ago)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (2 days ago)
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (2 days ago)
-- [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) - The (TypeScript) backend for MoneyBoy. (2 days ago)
-- [7erra/MANVSim](https://github.com/7erra/MANVSim) -  (3 days ago)
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (2 days ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (2 days ago)
+- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (2 days ago)
+- [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (2 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (2 days ago)
+- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (3 days ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (3 days ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (3 days ago)
+- [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) - The (TypeScript) backend for MoneyBoy. (3 days ago)
+- [7erra/MANVSim](https://github.com/7erra/MANVSim) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -40,11 +40,11 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [fix: adjust permissions of labeller workflow](https://github.com/gitbutlerapp/gitbutler/pull/4122) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (1 day ago)
-- [Fix: Wrong throttling in Select components](https://github.com/gitbutlerapp/gitbutler/pull/4119) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (1 day ago)
-- [Refactor: Use Mapped Columns](https://github.com/7erra/MANVSim/pull/101) on [7erra/MANVSim](https://github.com/7erra/MANVSim) (3 days ago)
-- [Feature: Allow selection of always visible scrollbar](https://github.com/gitbutlerapp/gitbutler/pull/4083) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (6 days ago)
-- [Feature: Allow selection of always visible scrollbar](https://github.com/H1ghBre4k3r/gitbutler/pull/1) on [H1ghBre4k3r/gitbutler](https://github.com/H1ghBre4k3r/gitbutler) (6 days ago)
+- [fix: adjust permissions of labeller workflow](https://github.com/gitbutlerapp/gitbutler/pull/4122) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (2 days ago)
+- [Fix: Wrong throttling in Select components](https://github.com/gitbutlerapp/gitbutler/pull/4119) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (2 days ago)
+- [Refactor: Use Mapped Columns](https://github.com/7erra/MANVSim/pull/101) on [7erra/MANVSim](https://github.com/7erra/MANVSim) (4 days ago)
+- [Feature: Allow selection of always visible scrollbar](https://github.com/gitbutlerapp/gitbutler/pull/4083) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (1 week ago)
+- [Feature: Allow selection of always visible scrollbar](https://github.com/H1ghBre4k3r/gitbutler/pull/1) on [H1ghBre4k3r/gitbutler](https://github.com/H1ghBre4k3r/gitbutler) (1 week ago)
 - [Bugfix: Only analyze .why files in check_diagnostics()](https://github.com/H1ghBre4k3r/pesca-lang/pull/50) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 week ago)
 - [chore: remove Cargo.lock from .gitignore](https://github.com/H1ghBre4k3r/pesca-lang/pull/41) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 weeks ago)
 - [chore: explicitly name crates for dependabot](https://github.com/H1ghBre4k3r/pesca-lang/pull/40) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 weeks ago)
@@ -60,8 +60,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/ (1 week ago)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Web OS! Free, Open-Source, and Self-Hostable. (1 week ago)
 - [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash (4 weeks ago)
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (4 weeks ago)
-- [fwcd/kola](https://github.com/fwcd/kola) - Experimental language server for Kotlin, written from scratch using Tree-sitter (4 weeks ago)
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (1 month ago)
+- [fwcd/kola](https://github.com/fwcd/kola) - Experimental language server for Kotlin, written from scratch using Tree-sitter (1 month ago)
 - [pesca-dev/decentnoobbot](https://github.com/pesca-dev/decentnoobbot) - A small Discord bot written in Rust. (1 month ago)
 
 #### 📫 How to reach me
