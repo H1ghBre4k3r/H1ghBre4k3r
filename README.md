@@ -13,7 +13,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (today)
 - [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (today)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (today)
-- [7erra/MANVSim](https://github.com/7erra/MANVSim) - MANVSim: Simulation eines Massenanfalls von Verletzten (3 days ago)
+- [7erra/MANVSim](https://github.com/7erra/MANVSim) - MANVSim: Simulation eines Massenanfalls von Verletzten (today)
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (6 days ago)
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (1 week ago)
 - [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) - The (TypeScript) backend for MoneyBoy. (1 week ago)
@@ -40,6 +40,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [fix: Change proxy target to 127.0.0.1 instead of localhost](https://github.com/7erra/MANVSim/pull/136) on [7erra/MANVSim](https://github.com/7erra/MANVSim) (today)
 - [fix: adjust permissions of labeller workflow](https://github.com/gitbutlerapp/gitbutler/pull/4122) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (6 days ago)
 - [Fix: Wrong throttling in Select components](https://github.com/gitbutlerapp/gitbutler/pull/4119) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (6 days ago)
 - [Refactor: Use Mapped Columns](https://github.com/7erra/MANVSim/pull/101) on [7erra/MANVSim](https://github.com/7erra/MANVSim) (1 week ago)
@@ -49,7 +50,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [chore: remove Cargo.lock from .gitignore](https://github.com/H1ghBre4k3r/pesca-lang/pull/41) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (3 weeks ago)
 - [chore: explicitly name crates for dependabot](https://github.com/H1ghBre4k3r/pesca-lang/pull/40) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (3 weeks ago)
 - [Draft: CI Setup For Linting](https://github.com/7erra/MANVSim/pull/49) on [7erra/MANVSim](https://github.com/7erra/MANVSim) (1 month ago)
-- [Server: Switch from Django to Flask](https://github.com/7erra/MANVSim/pull/48) on [7erra/MANVSim](https://github.com/7erra/MANVSim) (1 month ago)
 
 #### ⭐ Recent Stars
 
