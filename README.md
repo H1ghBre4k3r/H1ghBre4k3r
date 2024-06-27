@@ -40,6 +40,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [Chore: Add pyright to CI](https://github.com/7erra/MANVSim/pull/139) on [7erra/MANVSim](https://github.com/7erra/MANVSim) (today)
 - [fix: Change proxy target to 127.0.0.1 instead of localhost](https://github.com/7erra/MANVSim/pull/136) on [7erra/MANVSim](https://github.com/7erra/MANVSim) (2 days ago)
 - [fix: adjust permissions of labeller workflow](https://github.com/gitbutlerapp/gitbutler/pull/4122) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (1 week ago)
 - [Fix: Wrong throttling in Select components](https://github.com/gitbutlerapp/gitbutler/pull/4119) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (1 week ago)
@@ -49,7 +50,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Bugfix: Only analyze .why files in check_diagnostics()](https://github.com/H1ghBre4k3r/pesca-lang/pull/50) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 weeks ago)
 - [chore: remove Cargo.lock from .gitignore](https://github.com/H1ghBre4k3r/pesca-lang/pull/41) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (3 weeks ago)
 - [chore: explicitly name crates for dependabot](https://github.com/H1ghBre4k3r/pesca-lang/pull/40) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (3 weeks ago)
-- [Draft: CI Setup For Linting](https://github.com/7erra/MANVSim/pull/49) on [7erra/MANVSim](https://github.com/7erra/MANVSim) (1 month ago)
 
 #### ⭐ Recent Stars
 
