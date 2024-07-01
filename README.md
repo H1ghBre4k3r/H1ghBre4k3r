@@ -40,6 +40,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [Web: Display execution name](https://github.com/MANVSim/MANVSim/pull/151) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (today)
+- [build: Use pipenv to manage dependencies for server scripts.](https://github.com/MANVSim/MANVSim/pull/150) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (today)
 - [Chore: Add pyright to CI](https://github.com/MANVSim/MANVSim/pull/139) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (4 days ago)
 - [fix: Change proxy target to 127.0.0.1 instead of localhost](https://github.com/MANVSim/MANVSim/pull/136) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (6 days ago)
 - [fix: adjust permissions of labeller workflow](https://github.com/gitbutlerapp/gitbutler/pull/4122) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (1 week ago)
@@ -48,8 +50,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Feature: Allow selection of always visible scrollbar](https://github.com/gitbutlerapp/gitbutler/pull/4083) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (2 weeks ago)
 - [Feature: Allow selection of always visible scrollbar](https://github.com/H1ghBre4k3r/gitbutler/pull/1) on [H1ghBre4k3r/gitbutler](https://github.com/H1ghBre4k3r/gitbutler) (2 weeks ago)
 - [Bugfix: Only analyze .why files in check_diagnostics()](https://github.com/H1ghBre4k3r/pesca-lang/pull/50) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 weeks ago)
-- [chore: remove Cargo.lock from .gitignore](https://github.com/H1ghBre4k3r/pesca-lang/pull/41) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (3 weeks ago)
-- [chore: explicitly name crates for dependabot](https://github.com/H1ghBre4k3r/pesca-lang/pull/40) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
