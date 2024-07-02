@@ -7,7 +7,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) - MANVSim: Simulation eines Massenanfalls von Verletzten (1 day ago)
+- [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) - MANVSim: Simulation eines Massenanfalls von Verletzten (today)
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (4 days ago)
 - [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (4 days ago)
 - [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (5 days ago)
