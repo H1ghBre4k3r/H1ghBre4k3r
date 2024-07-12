@@ -7,9 +7,9 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) - MANVSim: Simulation eines Massenanfalls von Verletzten (1 day ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (5 days ago)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (5 days ago)
+- [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) - MANVSim: Simulation eines Massenanfalls von Verletzten (2 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (6 days ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (6 days ago)
 - [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (1 week ago)
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (1 week ago)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (1 week ago)
@@ -33,7 +33,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.12.9](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.12.9), 1 day ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.12.9](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.12.9), 2 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) ([v0.1.0](https://github.com/pesca-dev/atomicity/releases/tag/v0.1.0), 1 month ago) - Lightweight library for creating fast WebComponents.
 - [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) ([v0.1.0](https://github.com/H1ghBre4k3r/pesca-lang/releases/tag/v0.1.0), 6 months ago) - A new fancy and not at all useful programming language.
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) ([v0.1.3](https://github.com/H1ghBre4k3r/y-lang/releases/tag/v0.1.3), 1 year ago) - Compiler for the (rather new and very experimental) Y programming language. 
@@ -49,18 +49,18 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [fix: adjust permissions of labeller workflow](https://github.com/gitbutlerapp/gitbutler/pull/4122) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (3 weeks ago)
 - [Fix: Wrong throttling in Select components](https://github.com/gitbutlerapp/gitbutler/pull/4119) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (3 weeks ago)
 - [Refactor: Use Mapped Columns](https://github.com/MANVSim/MANVSim/pull/101) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (3 weeks ago)
-- [Feature: Allow selection of always visible scrollbar](https://github.com/gitbutlerapp/gitbutler/pull/4083) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (3 weeks ago)
-- [Feature: Allow selection of always visible scrollbar](https://github.com/H1ghBre4k3r/gitbutler/pull/1) on [H1ghBre4k3r/gitbutler](https://github.com/H1ghBre4k3r/gitbutler) (3 weeks ago)
+- [Feature: Allow selection of always visible scrollbar](https://github.com/gitbutlerapp/gitbutler/pull/4083) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (4 weeks ago)
+- [Feature: Allow selection of always visible scrollbar](https://github.com/H1ghBre4k3r/gitbutler/pull/1) on [H1ghBre4k3r/gitbutler](https://github.com/H1ghBre4k3r/gitbutler) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3 (2 weeks ago)
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left! (4 weeks ago)
 - [dashersw/cote](https://github.com/dashersw/cote) - A Node.js library for building zero-configuration microservices. (4 weeks ago)
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (4 weeks ago)
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (4 weeks ago)
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/ (4 weeks ago)
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. (4 weeks ago)
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (1 month ago)
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (1 month ago)
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/ (1 month ago)
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. (1 month ago)
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to bash (1 month ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (1 month ago)
 - [fwcd/kola](https://github.com/fwcd/kola) - Experimental language server for Kotlin, written from scratch using Tree-sitter (1 month ago)
