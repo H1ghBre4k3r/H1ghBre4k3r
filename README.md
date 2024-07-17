@@ -7,15 +7,15 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (today)
-- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (today)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (today)
-- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (1 day ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (1 day ago)
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 day ago)
-- [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) - MANVSim: Simulation eines Massenanfalls von Verletzten (6 days ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (1 day ago)
+- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (1 day ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (1 day ago)
+- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (2 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (2 days ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (2 days ago)
+- [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) - MANVSim: Simulation eines Massenanfalls von Verletzten (1 week ago)
 - [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (2 weeks ago)
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (3 weeks ago)
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (4 weeks ago)
 - [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) - The (TypeScript) backend for MoneyBoy. (4 weeks ago)
 
 #### 🌱 My latest projects
@@ -33,7 +33,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.12.12](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.12.12), today) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.12.12](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.12.12), 1 day ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) ([v0.1.0](https://github.com/pesca-dev/atomicity/releases/tag/v0.1.0), 1 month ago) - Lightweight library for creating fast WebComponents.
 - [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) ([v0.1.0](https://github.com/H1ghBre4k3r/pesca-lang/releases/tag/v0.1.0), 6 months ago) - A new fancy and not at all useful programming language.
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) ([v0.1.3](https://github.com/H1ghBre4k3r/y-lang/releases/tag/v0.1.3), 1 year ago) - Compiler for the (rather new and very experimental) Y programming language. 
@@ -46,9 +46,9 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [build: Use pipenv to manage dependencies for server scripts.](https://github.com/MANVSim/MANVSim/pull/150) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (2 weeks ago)
 - [Chore: Add pyright to CI](https://github.com/MANVSim/MANVSim/pull/139) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (2 weeks ago)
 - [fix: Change proxy target to 127.0.0.1 instead of localhost](https://github.com/MANVSim/MANVSim/pull/136) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (3 weeks ago)
-- [fix: adjust permissions of labeller workflow](https://github.com/gitbutlerapp/gitbutler/pull/4122) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (3 weeks ago)
-- [Fix: Wrong throttling in Select components](https://github.com/gitbutlerapp/gitbutler/pull/4119) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (3 weeks ago)
-- [Refactor: Use Mapped Columns](https://github.com/MANVSim/MANVSim/pull/101) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (4 weeks ago)
+- [fix: adjust permissions of labeller workflow](https://github.com/gitbutlerapp/gitbutler/pull/4122) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (4 weeks ago)
+- [Fix: Wrong throttling in Select components](https://github.com/gitbutlerapp/gitbutler/pull/4119) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (4 weeks ago)
+- [Refactor: Use Mapped Columns](https://github.com/MANVSim/MANVSim/pull/101) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (1 month ago)
 - [Feature: Allow selection of always visible scrollbar](https://github.com/gitbutlerapp/gitbutler/pull/4083) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (1 month ago)
 - [Feature: Allow selection of always visible scrollbar](https://github.com/H1ghBre4k3r/gitbutler/pull/1) on [H1ghBre4k3r/gitbutler](https://github.com/H1ghBre4k3r/gitbutler) (1 month ago)
 
