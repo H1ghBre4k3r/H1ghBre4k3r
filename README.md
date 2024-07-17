@@ -41,6 +41,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [Feature: Scenario Management](https://github.com/MANVSim/MANVSim/pull/188) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (today)
 - [feat(server): basic event logging](https://github.com/MANVSim/MANVSim/pull/158) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (2 weeks ago)
 - [Web: Display execution name](https://github.com/MANVSim/MANVSim/pull/151) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (2 weeks ago)
 - [build: Use pipenv to manage dependencies for server scripts.](https://github.com/MANVSim/MANVSim/pull/150) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (2 weeks ago)
@@ -50,7 +51,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Fix: Wrong throttling in Select components](https://github.com/gitbutlerapp/gitbutler/pull/4119) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (4 weeks ago)
 - [Refactor: Use Mapped Columns](https://github.com/MANVSim/MANVSim/pull/101) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (1 month ago)
 - [Feature: Allow selection of always visible scrollbar](https://github.com/gitbutlerapp/gitbutler/pull/4083) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (1 month ago)
-- [Feature: Allow selection of always visible scrollbar](https://github.com/H1ghBre4k3r/gitbutler/pull/1) on [H1ghBre4k3r/gitbutler](https://github.com/H1ghBre4k3r/gitbutler) (1 month ago)
 
 #### ⭐ Recent Stars
 
