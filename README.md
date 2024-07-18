@@ -41,6 +41,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor(web): Component Structure](https://github.com/MANVSim/MANVSim/pull/189) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (today)
 - [Feature: Scenario Management](https://github.com/MANVSim/MANVSim/pull/188) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (1 day ago)
 - [feat(server): basic event logging](https://github.com/MANVSim/MANVSim/pull/158) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (2 weeks ago)
 - [Web: Display execution name](https://github.com/MANVSim/MANVSim/pull/151) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (2 weeks ago)
@@ -50,7 +51,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [fix: adjust permissions of labeller workflow](https://github.com/gitbutlerapp/gitbutler/pull/4122) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (4 weeks ago)
 - [Fix: Wrong throttling in Select components](https://github.com/gitbutlerapp/gitbutler/pull/4119) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (4 weeks ago)
 - [Refactor: Use Mapped Columns](https://github.com/MANVSim/MANVSim/pull/101) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (1 month ago)
-- [Feature: Allow selection of always visible scrollbar](https://github.com/gitbutlerapp/gitbutler/pull/4083) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (1 month ago)
 
 #### ⭐ Recent Stars
 
