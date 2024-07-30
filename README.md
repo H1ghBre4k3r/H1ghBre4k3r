@@ -54,6 +54,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [rust-lang/rust-project-goals](https://github.com/rust-lang/rust-project-goals) - Rust Project Goals tracker (today)
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C&#43;&#43; api of PyTorch. (1 week ago)
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3 (1 month ago)
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left! (1 month ago)
@@ -63,7 +64,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/ (1 month ago)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. (1 month ago)
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to bash (2 months ago)
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (2 months ago)
 
 #### 📫 How to reach me
 
