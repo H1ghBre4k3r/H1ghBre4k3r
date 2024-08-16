@@ -41,6 +41,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [feat(web): improve error handling](https://github.com/MANVSim/MANVSim/pull/234) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (today)
 - [Refactor(web): Component Structure](https://github.com/MANVSim/MANVSim/pull/189) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (4 weeks ago)
 - [Feature: Scenario Management](https://github.com/MANVSim/MANVSim/pull/188) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (1 month ago)
 - [feat(server): basic event logging](https://github.com/MANVSim/MANVSim/pull/158) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (1 month ago)
@@ -50,7 +51,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [fix: Change proxy target to 127.0.0.1 instead of localhost](https://github.com/MANVSim/MANVSim/pull/136) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (1 month ago)
 - [fix: adjust permissions of labeller workflow](https://github.com/gitbutlerapp/gitbutler/pull/4122) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (1 month ago)
 - [Fix: Wrong throttling in Select components](https://github.com/gitbutlerapp/gitbutler/pull/4119) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (1 month ago)
-- [Refactor: Use Mapped Columns](https://github.com/MANVSim/MANVSim/pull/101) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (2 months ago)
 
 #### ⭐ Recent Stars
 
