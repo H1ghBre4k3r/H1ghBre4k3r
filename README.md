@@ -7,16 +7,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (today)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (today)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (today)
 - [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (today)
-- [H1ghBre4k3r/rust-map-reduce](https://github.com/H1ghBre4k3r/rust-map-reduce) - A small hobby implementation of MapReduce that I hacked together at 2am. (2 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (today)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (today)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (2 days ago)
+- [H1ghBre4k3r/rust-map-reduce](https://github.com/H1ghBre4k3r/rust-map-reduce) - A small hobby implementation of MapReduce that I hacked together at 2am. (2 days ago)
 - [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) - MANVSim: Simulation eines Massenanfalls von Verletzten (4 days ago)
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (5 days ago)
+- [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) - A tool to plan events and host shared calendars. (1 week ago)
 - [H1ghBre4k3r/orca-rs](https://github.com/H1ghBre4k3r/orca-rs) - Library for using ORCA written in Rust. Originally part of my bachelors thesis. (2 weeks ago)
-- [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -41,19 +41,20 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [Feature: use `proc_macro_attribute` for repositories](https://github.com/pesca-dev/syn-ack/pull/17) on [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) (4 days ago)
 - [feat(web): improve error handling](https://github.com/MANVSim/MANVSim/pull/234) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (6 days ago)
+- [Feature: E2E tests](https://github.com/pesca-dev/syn-ack/pull/11) on [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) (2 weeks ago)
+- [CI: Add image workflow](https://github.com/pesca-dev/syn-ack/pull/10) on [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) (2 weeks ago)
 - [Refactor(web): Component Structure](https://github.com/MANVSim/MANVSim/pull/189) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (1 month ago)
 - [Feature: Scenario Management](https://github.com/MANVSim/MANVSim/pull/188) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (1 month ago)
-- [feat(server): basic event logging](https://github.com/MANVSim/MANVSim/pull/158) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (1 month ago)
-- [Web: Display execution name](https://github.com/MANVSim/MANVSim/pull/151) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (1 month ago)
-- [build: Use pipenv to manage dependencies for server scripts.](https://github.com/MANVSim/MANVSim/pull/150) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (1 month ago)
-- [Chore: Add pyright to CI](https://github.com/MANVSim/MANVSim/pull/139) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (1 month ago)
-- [fix: Change proxy target to 127.0.0.1 instead of localhost](https://github.com/MANVSim/MANVSim/pull/136) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (1 month ago)
-- [fix: adjust permissions of labeller workflow](https://github.com/gitbutlerapp/gitbutler/pull/4122) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (2 months ago)
-- [Fix: Wrong throttling in Select components](https://github.com/gitbutlerapp/gitbutler/pull/4119) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (2 months ago)
+- [Feature: Repository Derive](https://github.com/pesca-dev/syn-ack/pull/8) on [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) (1 month ago)
+- [CI: Add rust-cache to workflows](https://github.com/pesca-dev/syn-ack/pull/7) on [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) (1 month ago)
+- [Feature: Basic Authentication](https://github.com/pesca-dev/syn-ack/pull/6) on [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) (1 month ago)
+- [Feature: ICS integration](https://github.com/pesca-dev/syn-ack/pull/2) on [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) (1 month ago)
 
 #### ⭐ Recent Stars
 
+- [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) - A tool to plan events and host shared calendars. (today)
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that&#39;s 2-3 times faster and up to 97% smaller—a major upgrade to lodash. (today)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (today)
 - [rust-lang/rust-project-goals](https://github.com/rust-lang/rust-project-goals) - Rust Project Goals tracker (3 weeks ago)
@@ -63,7 +64,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [dashersw/cote](https://github.com/dashersw/cote) - A Node.js library for building zero-configuration microservices. (2 months ago)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (2 months ago)
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (2 months ago)
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/ (2 months ago)
 
 #### 📫 How to reach me
 
