@@ -7,14 +7,14 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (today)
-- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (today)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (today)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (today)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (2 days ago)
-- [H1ghBre4k3r/rust-map-reduce](https://github.com/H1ghBre4k3r/rust-map-reduce) - A small hobby implementation of MapReduce that I hacked together at 2am. (2 days ago)
-- [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) - MANVSim: Simulation eines Massenanfalls von Verletzten (4 days ago)
-- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (5 days ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 day ago)
+- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (1 day ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (1 day ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (1 day ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (3 days ago)
+- [H1ghBre4k3r/rust-map-reduce](https://github.com/H1ghBre4k3r/rust-map-reduce) - A small hobby implementation of MapReduce that I hacked together at 2am. (3 days ago)
+- [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) - MANVSim: Simulation eines Massenanfalls von Verletzten (5 days ago)
+- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (6 days ago)
 - [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) - A tool to plan events and host shared calendars. (1 week ago)
 - [H1ghBre4k3r/orca-rs](https://github.com/H1ghBre4k3r/orca-rs) - Library for using ORCA written in Rust. Originally part of my bachelors thesis. (2 weeks ago)
 
@@ -41,8 +41,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [Feature: use `proc_macro_attribute` for repositories](https://github.com/pesca-dev/syn-ack/pull/17) on [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) (4 days ago)
-- [feat(web): improve error handling](https://github.com/MANVSim/MANVSim/pull/234) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (6 days ago)
+- [Feature: use `proc_macro_attribute` for repositories](https://github.com/pesca-dev/syn-ack/pull/17) on [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) (5 days ago)
+- [feat(web): improve error handling](https://github.com/MANVSim/MANVSim/pull/234) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (1 week ago)
 - [Feature: E2E tests](https://github.com/pesca-dev/syn-ack/pull/11) on [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) (2 weeks ago)
 - [CI: Add image workflow](https://github.com/pesca-dev/syn-ack/pull/10) on [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) (2 weeks ago)
 - [Refactor(web): Component Structure](https://github.com/MANVSim/MANVSim/pull/189) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (1 month ago)
@@ -54,9 +54,9 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) - A tool to plan events and host shared calendars. (today)
-- [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that&#39;s 2-3 times faster and up to 97% smaller—a major upgrade to lodash. (today)
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (today)
+- [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) - A tool to plan events and host shared calendars. (1 day ago)
+- [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that&#39;s 2-3 times faster and up to 97% smaller—a major upgrade to lodash. (1 day ago)
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 day ago)
 - [rust-lang/rust-project-goals](https://github.com/rust-lang/rust-project-goals) - Rust Project Goals tracker (3 weeks ago)
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C&#43;&#43; api of PyTorch. (1 month ago)
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3 (1 month ago)
