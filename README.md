@@ -54,6 +54,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [fwcd/nuit](https://github.com/fwcd/nuit) - Highly experimental declarative cross-platform UI library for Rust that uses native controls (today)
 - [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) - A tool to plan events and host shared calendars. (3 days ago)
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that&#39;s 2-3 times faster and up to 97% smaller—a major upgrade to lodash. (3 days ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (3 days ago)
@@ -63,7 +64,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left! (2 months ago)
 - [dashersw/cote](https://github.com/dashersw/cote) - A Node.js library for building zero-configuration microservices. (2 months ago)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (2 months ago)
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (2 months ago)
 
 #### 📫 How to reach me
 
