@@ -55,7 +55,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 #### ⭐ Recent Stars
 
 - [marudor/bahn.expert](https://github.com/marudor/bahn.expert) - https://bahn.expert (6 days ago)
-- [fwcd/nuit](https://github.com/fwcd/nuit) - Highly experimental declarative cross-platform UI library for Rust that uses native controls (1 week ago)
+- [fwcd/nuit](https://github.com/fwcd/nuit) - Declarative cross-platform UI library for Rust that uses native controls (1 week ago)
 - [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) - A tool to plan events and host shared calendars. (1 week ago)
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that&#39;s 2-3 times faster and up to 97% smaller—a major upgrade to lodash. (1 week ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 week ago)
