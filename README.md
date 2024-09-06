@@ -33,7 +33,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.12.24](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.12.24), today) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.12.24](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.12.24), 1 day ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) ([v0.1.0](https://github.com/pesca-dev/atomicity/releases/tag/v0.1.0), 3 months ago) - Lightweight library for creating fast WebComponents.
 - [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) ([v0.1.0](https://github.com/H1ghBre4k3r/pesca-lang/releases/tag/v0.1.0), 8 months ago) - A new fancy and not at all useful programming language.
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) ([v0.1.3](https://github.com/H1ghBre4k3r/y-lang/releases/tag/v0.1.3), 1 year ago) - Compiler for the (rather new and very experimental) Y programming language. 
@@ -43,9 +43,9 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 - [Test](https://github.com/H1ghBre4k3r/pesca-lang/pull/89) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 week ago)
 - [Feature: use `proc_macro_attribute` for repositories](https://github.com/pesca-dev/syn-ack/pull/17) on [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) (2 weeks ago)
-- [feat(web): improve error handling](https://github.com/MANVSim/MANVSim/pull/234) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (2 weeks ago)
-- [Feature: E2E tests](https://github.com/pesca-dev/syn-ack/pull/11) on [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) (4 weeks ago)
-- [CI: Add image workflow](https://github.com/pesca-dev/syn-ack/pull/10) on [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) (4 weeks ago)
+- [feat(web): improve error handling](https://github.com/MANVSim/MANVSim/pull/234) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (3 weeks ago)
+- [Feature: E2E tests](https://github.com/pesca-dev/syn-ack/pull/11) on [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) (1 month ago)
+- [CI: Add image workflow](https://github.com/pesca-dev/syn-ack/pull/10) on [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) (1 month ago)
 - [Refactor(web): Component Structure](https://github.com/MANVSim/MANVSim/pull/189) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (1 month ago)
 - [Feature: Scenario Management](https://github.com/MANVSim/MANVSim/pull/188) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (1 month ago)
 - [Feature: Repository Derive](https://github.com/pesca-dev/syn-ack/pull/8) on [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) (1 month ago)
