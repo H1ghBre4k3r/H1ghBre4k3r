@@ -7,7 +7,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/pacman-bevy](https://github.com/H1ghBre4k3r/pacman-bevy) - A Pac-Man implementation written in bevy.  (1 day ago)
+- [H1ghBre4k3r/pacman-bevy](https://github.com/H1ghBre4k3r/pacman-bevy) - A WIP PacMan implementation written in bevy. 🦀 (1 day ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (5 days ago)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (5 days ago)
 - [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (5 days ago)
@@ -54,6 +54,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (today)
 - [Caleb-T-Owens/Sherman](https://github.com/Caleb-T-Owens/Sherman) - My bad idea for syncing app configuration (1 day ago)
 - [YorikHansen/better-moodle](https://github.com/YorikHansen/better-moodle) - Improves the new Moodle 4 UI on Moodle of the Kiel Universities computer science department (6 days ago)
 - [marudor/bahn.expert](https://github.com/marudor/bahn.expert) - https://bahn.expert (1 month ago)
@@ -63,7 +64,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 month ago)
 - [rust-lang/rust-project-goals](https://github.com/rust-lang/rust-project-goals) - Rust Project Goals tracker (2 months ago)
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C&#43;&#43; api of PyTorch. (2 months ago)
-- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3 (3 months ago)
 
 #### 📫 How to reach me
 
