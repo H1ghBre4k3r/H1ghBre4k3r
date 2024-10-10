@@ -7,13 +7,13 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (2 days ago)
-- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (2 days ago)
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (2 days ago)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (2 days ago)
-- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (3 days ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (today)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (today)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (today)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (today)
+- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (today)
+- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (today)
 - [H1ghBre4k3r/pacman-bevy](https://github.com/H1ghBre4k3r/pacman-bevy) - A WIP PacMan implementation written in bevy. 🦀 (5 days ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (1 week ago)
 - [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) - A tool to plan events and host shared calendars. (2 weeks ago)
 - [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (3 weeks ago)
 - [H1ghBre4k3r/k8s-deploy](https://github.com/H1ghBre4k3r/k8s-deploy) - Example repository for deploying a NodeJS app on own k8s instance. (3 weeks ago)
