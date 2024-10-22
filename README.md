@@ -7,14 +7,14 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (6 days ago)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (6 days ago)
-- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (6 days ago)
-- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (6 days ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (1 week ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (1 week ago)
+- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (1 week ago)
+- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (1 week ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 week ago)
 - [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (1 week ago)
 - [H1ghBre4k3r/pacman-bevy](https://github.com/H1ghBre4k3r/pacman-bevy) - A WIP PacMan implementation written in bevy. 🦀 (2 weeks ago)
-- [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) - A tool to plan events and host shared calendars. (4 weeks ago)
+- [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) - A tool to plan events and host shared calendars. (1 month ago)
 - [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (1 month ago)
 - [H1ghBre4k3r/k8s-deploy](https://github.com/H1ghBre4k3r/k8s-deploy) - Example repository for deploying a NodeJS app on own k8s instance. (1 month ago)
 
@@ -33,10 +33,10 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.13.4](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.13.4), today) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.13.4](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.13.4), 1 day ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) ([v0.1.0](https://github.com/pesca-dev/atomicity/releases/tag/v0.1.0), 5 months ago) - Lightweight library for creating fast WebComponents.
 - [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) ([v0.1.0](https://github.com/H1ghBre4k3r/pesca-lang/releases/tag/v0.1.0), 9 months ago) - A new fancy and not at all useful programming language.
-- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) ([v0.1.3](https://github.com/H1ghBre4k3r/y-lang/releases/tag/v0.1.3), 1 year ago) - Compiler for the (rather new and very experimental) Y programming language. 
+- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) ([v0.1.3](https://github.com/H1ghBre4k3r/y-lang/releases/tag/v0.1.3), 2 years ago) - Compiler for the (rather new and very experimental) Y programming language. 
 - [H1ghBre4k3r/typescript-decorators](https://github.com/H1ghBre4k3r/typescript-decorators) ([v0.2.0](https://github.com/H1ghBre4k3r/typescript-decorators/releases/tag/v0.2.0), 2 years ago) - Utility decorators for TypeScript.
 
 #### 🔨 My recent Pull Requests
