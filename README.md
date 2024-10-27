@@ -7,7 +7,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/html-parser](https://github.com/H1ghBre4k3r/html-parser) - A simple (and hopefully at some point spec compliant) HTML parser. (today)
+- [H1ghBre4k3r/html-parser](https://github.com/H1ghBre4k3r/html-parser) - A simple (and hopefully at some point spec compliant) HTML parser. (1 day ago)
 - [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (1 week ago)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (1 week ago)
 - [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (1 week ago)
@@ -33,7 +33,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.13.7](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.13.7), 1 day ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.13.7](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.13.7), 2 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) ([v0.1.0](https://github.com/pesca-dev/atomicity/releases/tag/v0.1.0), 5 months ago) - Lightweight library for creating fast WebComponents.
 - [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) ([v0.1.0](https://github.com/H1ghBre4k3r/pesca-lang/releases/tag/v0.1.0), 9 months ago) - A new fancy and not at all useful programming language.
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) ([v0.1.3](https://github.com/H1ghBre4k3r/y-lang/releases/tag/v0.1.3), 2 years ago) - Compiler for the (rather new and very experimental) Y programming language. 
@@ -42,7 +42,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 #### 🔨 My recent Pull Requests
 
 - [Feature: Add CI](https://github.com/H1ghBre4k3r/pacman-bevy/pull/12) on [H1ghBre4k3r/pacman-bevy](https://github.com/H1ghBre4k3r/pacman-bevy) (3 weeks ago)
-- [Test](https://github.com/H1ghBre4k3r/pesca-lang/pull/89) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 month ago)
+- [Test](https://github.com/H1ghBre4k3r/pesca-lang/pull/89) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 months ago)
 - [Feature: use `proc_macro_attribute` for repositories](https://github.com/pesca-dev/syn-ack/pull/17) on [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) (2 months ago)
 - [feat(web): improve error handling](https://github.com/MANVSim/MANVSim/pull/234) on [MANVSim/MANVSim](https://github.com/MANVSim/MANVSim) (2 months ago)
 - [Feature: E2E tests](https://github.com/pesca-dev/syn-ack/pull/11) on [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) (2 months ago)
@@ -54,8 +54,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (today)
-- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (2 weeks ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 day ago)
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (3 weeks ago)
 - [Caleb-T-Owens/Sherman](https://github.com/Caleb-T-Owens/Sherman) - My bad idea for syncing app configuration (3 weeks ago)
 - [YorikHansen/better-moodle](https://github.com/YorikHansen/better-moodle) - Improves the new Moodle 4 UI on Moodle of the Kiel Universities computer science department (3 weeks ago)
 - [marudor/bahn.expert](https://github.com/marudor/bahn.expert) - https://bahn.expert (1 month ago)
