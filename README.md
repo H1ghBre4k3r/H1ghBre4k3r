@@ -7,7 +7,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/html-parser](https://github.com/H1ghBre4k3r/html-parser) - A simple (and hopefully at some point spec compliant) HTML parser. (1 day ago)
+- [H1ghBre4k3r/html-parser](https://github.com/H1ghBre4k3r/html-parser) - A simple (and hopefully at some point spec compliant) HTML parser. (today)
 - [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (1 week ago)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (1 week ago)
 - [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (1 week ago)
@@ -41,7 +41,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [Switch Lex-Generator to Lachs](https://github.com/H1ghBre4k3r/html-parser/pull/1) on [H1ghBre4k3r/html-parser](https://github.com/H1ghBre4k3r/html-parser) (today)
+- [Rename Lex-Generator to Lachs](https://github.com/H1ghBre4k3r/html-parser/pull/1) on [H1ghBre4k3r/html-parser](https://github.com/H1ghBre4k3r/html-parser) (today)
 - [Feature: Add CI](https://github.com/H1ghBre4k3r/pacman-bevy/pull/12) on [H1ghBre4k3r/pacman-bevy](https://github.com/H1ghBre4k3r/pacman-bevy) (3 weeks ago)
 - [Test](https://github.com/H1ghBre4k3r/pesca-lang/pull/89) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 months ago)
 - [Feature: use `proc_macro_attribute` for repositories](https://github.com/pesca-dev/syn-ack/pull/17) on [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) (2 months ago)
