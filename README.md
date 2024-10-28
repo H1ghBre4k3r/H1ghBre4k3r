@@ -55,6 +55,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [bcbarbara/crazyflie_nmpc](https://github.com/bcbarbara/crazyflie_nmpc) - ROS stack with an efficient real-time NMPC for the Crazyflie 2.1 (today)
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (today)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (2 days ago)
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (3 weeks ago)
@@ -64,7 +65,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [fwcd/nuit](https://github.com/fwcd/nuit) - Declarative cross-platform UI framework for Rust that uses native controls (2 months ago)
 - [pesca-dev/syn-ack](https://github.com/pesca-dev/syn-ack) - A tool to plan events and host shared calendars. (2 months ago)
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that&#39;s 2-3 times faster and up to 97% smaller—a major upgrade to lodash. (2 months ago)
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (2 months ago)
 
 #### 📫 How to reach me
 
