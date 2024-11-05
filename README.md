@@ -42,6 +42,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [Auth: add user verification and improve session handling](https://github.com/pesca-dev/kneipolympics/pull/5) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (today)
 - [Setup Appwrite](https://github.com/pesca-dev/kneipolympics/pull/2) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (3 days ago)
 - [feat: add deployment workflow for main branch](https://github.com/pesca-dev/kneipolympics/pull/1) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (3 days ago)
 - [Tests: add basic tests to check features](https://github.com/H1ghBre4k3r/lachs/pull/3) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (1 week ago)
@@ -51,7 +52,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [chore: add repo to crates url](https://github.com/H1ghBre4k3r/html-parser/pull/4) on [H1ghBre4k3r/html-parser](https://github.com/H1ghBre4k3r/html-parser) (1 week ago)
 - [chore: fix lachs derive version](https://github.com/H1ghBre4k3r/html-parser/pull/3) on [H1ghBre4k3r/html-parser](https://github.com/H1ghBre4k3r/html-parser) (1 week ago)
 - [doc: add first bunch of documentation](https://github.com/H1ghBre4k3r/html-parser/pull/2) on [H1ghBre4k3r/html-parser](https://github.com/H1ghBre4k3r/html-parser) (1 week ago)
-- [Rename Lex-Generator to Lachs](https://github.com/H1ghBre4k3r/html-parser/pull/1) on [H1ghBre4k3r/html-parser](https://github.com/H1ghBre4k3r/html-parser) (1 week ago)
 
 #### ⭐ Recent Stars
 
