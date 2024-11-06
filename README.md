@@ -7,10 +7,10 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) - The website for the first Kneipolympics in Kiel! (today)
-- [pesca-dev/kneipolympics-deploy](https://github.com/pesca-dev/kneipolympics-deploy) -  (3 days ago)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (5 days ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (5 days ago)
+- [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) - The website for the first Kneipolympics in Kiel! (1 day ago)
+- [pesca-dev/kneipolympics-deploy](https://github.com/pesca-dev/kneipolympics-deploy) -  (4 days ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (6 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (6 days ago)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (1 week ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 week ago)
 - [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (1 week ago)
@@ -33,7 +33,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.13.9](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.13.9), today) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.13.10](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.13.10), today) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) ([v0.1.1](https://github.com/H1ghBre4k3r/lachs/releases/tag/v0.1.1), 1 week ago) - Lightweight lexer generator for Rust written in Rust 🦀
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) ([v0.1.0](https://github.com/pesca-dev/atomicity/releases/tag/v0.1.0), 5 months ago) - Lightweight library for creating fast WebComponents.
 - [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) ([v0.1.0](https://github.com/H1ghBre4k3r/pesca-lang/releases/tag/v0.1.0), 10 months ago) - A new fancy and not at all useful programming language.
@@ -42,9 +42,9 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [Auth: add user verification and improve session handling](https://github.com/pesca-dev/kneipolympics/pull/5) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (today)
-- [Setup Appwrite](https://github.com/pesca-dev/kneipolympics/pull/2) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (3 days ago)
-- [feat: add deployment workflow for main branch](https://github.com/pesca-dev/kneipolympics/pull/1) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (3 days ago)
+- [Auth: add user verification and improve session handling](https://github.com/pesca-dev/kneipolympics/pull/5) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (1 day ago)
+- [Setup Appwrite](https://github.com/pesca-dev/kneipolympics/pull/2) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (4 days ago)
+- [feat: add deployment workflow for main branch](https://github.com/pesca-dev/kneipolympics/pull/1) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (4 days ago)
 - [Tests: add basic tests to check features](https://github.com/H1ghBre4k3r/lachs/pull/3) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (1 week ago)
 - [chore: move lachs to own repo and reference](https://github.com/H1ghBre4k3r/html-parser/pull/5) on [H1ghBre4k3r/html-parser](https://github.com/H1ghBre4k3r/html-parser) (1 week ago)
 - [fix: Correct path for README.md in doc include string](https://github.com/H1ghBre4k3r/lachs/pull/2) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (1 week ago)
