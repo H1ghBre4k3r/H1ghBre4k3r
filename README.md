@@ -7,16 +7,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
+- [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) - Lightweight lexer generator for Rust written in Rust 🦀 (today)
 - [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) - The website for the first Kneipolympics in Kiel! (3 days ago)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (3 days ago)
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (3 days ago)
 - [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (3 days ago)
 - [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (3 days ago)
 - [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (3 days ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (3 days ago)
 - [pesca-dev/kneipolympics-deploy](https://github.com/pesca-dev/kneipolympics-deploy) -  (1 week ago)
 - [H1ghBre4k3r/rust-map-reduce](https://github.com/H1ghBre4k3r/rust-map-reduce) - A small hobby implementation of MapReduce that I hacked together at 2am. (1 week ago)
 - [H1ghBre4k3r/k8s-deploy](https://github.com/H1ghBre4k3r/k8s-deploy) - Example repository for deploying a NodeJS app on own k8s instance. (1 week ago)
-- [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) - Lightweight lexer generator for Rust written in Rust 🦀 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -33,8 +33,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
+- [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) ([v0.1.3](https://github.com/H1ghBre4k3r/lachs/releases/tag/v0.1.3), today) - Lightweight lexer generator for Rust written in Rust 🦀
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.13.13](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.13.13), 2 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-- [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) ([v0.1.1](https://github.com/H1ghBre4k3r/lachs/releases/tag/v0.1.1), 1 week ago) - Lightweight lexer generator for Rust written in Rust 🦀
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) ([v0.1.0](https://github.com/pesca-dev/atomicity/releases/tag/v0.1.0), 5 months ago) - Lightweight library for creating fast WebComponents.
 - [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) ([v0.1.0](https://github.com/H1ghBre4k3r/pesca-lang/releases/tag/v0.1.0), 10 months ago) - A new fancy and not at all useful programming language.
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) ([v0.1.3](https://github.com/H1ghBre4k3r/y-lang/releases/tag/v0.1.3), 2 years ago) - Compiler for the (rather new and very experimental) Y programming language. 
@@ -42,6 +42,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [bump: update version to 0.1.3 for packages](https://github.com/H1ghBre4k3r/lachs/pull/5) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (today)
+- [feat: make fields public in token macro implementation](https://github.com/H1ghBre4k3r/lachs/pull/4) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (today)
 - [Restructure project](https://github.com/pesca-dev/kneipolympics/pull/6) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (4 days ago)
 - [Auth: add user verification and improve session handling](https://github.com/pesca-dev/kneipolympics/pull/5) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (5 days ago)
 - [Setup Appwrite](https://github.com/pesca-dev/kneipolympics/pull/2) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (1 week ago)
@@ -50,8 +52,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [chore: move lachs to own repo and reference](https://github.com/H1ghBre4k3r/html-parser/pull/5) on [H1ghBre4k3r/html-parser](https://github.com/H1ghBre4k3r/html-parser) (1 week ago)
 - [fix: Correct path for README.md in doc include string](https://github.com/H1ghBre4k3r/lachs/pull/2) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (1 week ago)
 - [chore: bump version to v0.1.1](https://github.com/H1ghBre4k3r/lachs/pull/1) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (1 week ago)
-- [chore: add repo to crates url](https://github.com/H1ghBre4k3r/html-parser/pull/4) on [H1ghBre4k3r/html-parser](https://github.com/H1ghBre4k3r/html-parser) (2 weeks ago)
-- [chore: fix lachs derive version](https://github.com/H1ghBre4k3r/html-parser/pull/3) on [H1ghBre4k3r/html-parser](https://github.com/H1ghBre4k3r/html-parser) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
