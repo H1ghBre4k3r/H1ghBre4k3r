@@ -13,7 +13,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (1 week ago)
 - [H1ghBre4k3r/higher-order-locks](https://github.com/H1ghBre4k3r/higher-order-locks) - Implementation of the paper &#34;Higher-OrderLeak and DeadlockFree Locks&#34; in Rust 🦀 (1 week ago)
 - [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (1 week ago)
-- [H1ghBre4k3r/rust-map-reduce](https://github.com/H1ghBre4k3r/rust-map-reduce) - A small hobby implementation of MapReduce that I hacked together at 2am. (1 week ago)
+- [H1ghBre4k3r/rust-map-reduce](https://github.com/H1ghBre4k3r/rust-map-reduce) - A small hobby implementation of MapReduce that I hacked together at 2am. (2 weeks ago)
 - [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) - Lightweight lexer generator for Rust written in Rust 🦀 (2 weeks ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (2 weeks ago)
 - [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (2 weeks ago)
@@ -33,7 +33,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.13.17](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.13.17), 3 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.13.17](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.13.17), 4 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) ([v0.1.3](https://github.com/H1ghBre4k3r/lachs/releases/tag/v0.1.3), 2 weeks ago) - Lightweight lexer generator for Rust written in Rust 🦀
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) ([v0.1.0](https://github.com/pesca-dev/atomicity/releases/tag/v0.1.0), 6 months ago) - Lightweight library for creating fast WebComponents.
 - [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) ([v0.1.0](https://github.com/H1ghBre4k3r/pesca-lang/releases/tag/v0.1.0), 10 months ago) - A new fancy and not at all useful programming language.
@@ -45,10 +45,10 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [bump: update version to 0.1.3 for packages](https://github.com/H1ghBre4k3r/lachs/pull/5) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (2 weeks ago)
 - [feat: make fields public in token macro implementation](https://github.com/H1ghBre4k3r/lachs/pull/4) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (2 weeks ago)
 - [Restructure project](https://github.com/pesca-dev/kneipolympics/pull/6) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (2 weeks ago)
-- [Auth: add user verification and improve session handling](https://github.com/pesca-dev/kneipolympics/pull/5) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (2 weeks ago)
+- [Auth: add user verification and improve session handling](https://github.com/pesca-dev/kneipolympics/pull/5) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (3 weeks ago)
 - [Setup Appwrite](https://github.com/pesca-dev/kneipolympics/pull/2) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (3 weeks ago)
 - [feat: add deployment workflow for main branch](https://github.com/pesca-dev/kneipolympics/pull/1) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (3 weeks ago)
-- [Tests: add basic tests to check features](https://github.com/H1ghBre4k3r/lachs/pull/3) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (3 weeks ago)
+- [Tests: add basic tests to check features](https://github.com/H1ghBre4k3r/lachs/pull/3) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (4 weeks ago)
 - [chore: move lachs to own repo and reference](https://github.com/H1ghBre4k3r/html-parser/pull/5) on [H1ghBre4k3r/html-parser](https://github.com/H1ghBre4k3r/html-parser) (4 weeks ago)
 - [fix: Correct path for README.md in doc include string](https://github.com/H1ghBre4k3r/lachs/pull/2) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (4 weeks ago)
 - [chore: bump version to v0.1.1](https://github.com/H1ghBre4k3r/lachs/pull/1) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (4 weeks ago)
