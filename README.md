@@ -7,16 +7,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [melfkammholz/aoc-submissions](https://github.com/melfkammholz/aoc-submissions) - Advent of Code Submission Board showcasing solutions of CAU CS students/alumni  (today)
 - [H1ghBre4k3r/aoc-2024](https://github.com/H1ghBre4k3r/aoc-2024) - My submissions for Advent of Code 20024. (today)
-- [H1ghBre4k3r/rust-starter](https://github.com/H1ghBre4k3r/rust-starter) - Starter template for Rust repositories. (4 days ago)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (5 days ago)
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (5 days ago)
-- [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) - The website for the first Kneipolympics in Kiel! (5 days ago)
-- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (5 days ago)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (5 days ago)
-- [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (6 days ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (6 days ago)
+- [melfkammholz/aoc-submissions](https://github.com/melfkammholz/aoc-submissions) - Advent of Code Submission Board showcasing solutions of CAU CS students/alumni  (today)
+- [H1ghBre4k3r/rust-starter](https://github.com/H1ghBre4k3r/rust-starter) - Starter template for Rust repositories. (5 days ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (6 days ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (6 days ago)
+- [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) - The website for the first Kneipolympics in Kiel! (6 days ago)
+- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (6 days ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (6 days ago)
+- [H1ghBre4k3r/eventer](https://github.com/H1ghBre4k3r/eventer) - A tool to plan events for an arbitrary amount of participants. (1 week ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -33,7 +33,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.14.1](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.14.1), 2 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.14.1](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.14.1), 3 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) ([v0.1.3](https://github.com/H1ghBre4k3r/lachs/releases/tag/v0.1.3), 3 weeks ago) - Lightweight lexer generator for Rust written in Rust 🦀
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) ([v0.1.0](https://github.com/pesca-dev/atomicity/releases/tag/v0.1.0), 6 months ago) - Lightweight library for creating fast WebComponents.
 - [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) ([v0.1.0](https://github.com/H1ghBre4k3r/pesca-lang/releases/tag/v0.1.0), 11 months ago) - A new fancy and not at all useful programming language.
@@ -45,7 +45,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [bump: update version to 0.1.3 for packages](https://github.com/H1ghBre4k3r/lachs/pull/5) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (3 weeks ago)
 - [feat: make fields public in token macro implementation](https://github.com/H1ghBre4k3r/lachs/pull/4) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (3 weeks ago)
 - [Restructure project](https://github.com/pesca-dev/kneipolympics/pull/6) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (3 weeks ago)
-- [Auth: add user verification and improve session handling](https://github.com/pesca-dev/kneipolympics/pull/5) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (3 weeks ago)
+- [Auth: add user verification and improve session handling](https://github.com/pesca-dev/kneipolympics/pull/5) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (4 weeks ago)
 - [Setup Appwrite](https://github.com/pesca-dev/kneipolympics/pull/2) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (1 month ago)
 - [feat: add deployment workflow for main branch](https://github.com/pesca-dev/kneipolympics/pull/1) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (1 month ago)
 - [Tests: add basic tests to check features](https://github.com/H1ghBre4k3r/lachs/pull/3) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (1 month ago)
@@ -55,8 +55,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [PavelLaptev/Fliege-mono](https://github.com/PavelLaptev/Fliege-mono) - A free monospace font (1 day ago)
-- [schacon/aoc](https://github.com/schacon/aoc) -  (1 day ago)
+- [PavelLaptev/Fliege-mono](https://github.com/PavelLaptev/Fliege-mono) - A free monospace font (2 days ago)
+- [schacon/aoc](https://github.com/schacon/aoc) -  (2 days ago)
 - [bcbarbara/crazyflie_nmpc](https://github.com/bcbarbara/crazyflie_nmpc) - ROS stack with an efficient real-time NMPC for the Crazyflie 2.1 (1 month ago)
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (1 month ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 month ago)
