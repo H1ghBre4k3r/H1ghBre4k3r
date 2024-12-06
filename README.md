@@ -7,7 +7,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/aoc-2024](https://github.com/H1ghBre4k3r/aoc-2024) - My submissions for Advent of Code 20024. (3 days ago)
+- [H1ghBre4k3r/aoc-2024](https://github.com/H1ghBre4k3r/aoc-2024) - My submissions for Advent of Code 20024. (today)
 - [melfkammholz/aoc-submissions](https://github.com/melfkammholz/aoc-submissions) - Advent of Code Submission Board showcasing solutions of CAU CS students/alumni  (3 days ago)
 - [H1ghBre4k3r/rust-starter](https://github.com/H1ghBre4k3r/rust-starter) - Starter template for Rust repositories. (1 week ago)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (1 week ago)
