@@ -8,7 +8,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 #### 👷 Check out what I'm currently working on
 
 - [H1ghBre4k3r/aoc-2024](https://github.com/H1ghBre4k3r/aoc-2024) - My submissions for Advent of Code 20024. (today)
-- [melfkammholz/aoc-submissions](https://github.com/melfkammholz/aoc-submissions) - Advent of Code Submission Board showcasing solutions of CAU CS students/alumni  (5 days ago)
+- [melfkammholz/aoc-submissions](https://github.com/melfkammholz/aoc-submissions) - Advent of Code Submission Board showcasing solutions of CAU CS students/alumni  (6 days ago)
 - [H1ghBre4k3r/rust-starter](https://github.com/H1ghBre4k3r/rust-starter) - Starter template for Rust repositories. (1 week ago)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (1 week ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 week ago)
@@ -33,7 +33,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.14.3](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.14.3), today) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.14.3](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.14.3), 1 day ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) ([v0.1.3](https://github.com/H1ghBre4k3r/lachs/releases/tag/v0.1.3), 4 weeks ago) - Lightweight lexer generator for Rust written in Rust 🦀
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) ([v0.1.0](https://github.com/pesca-dev/atomicity/releases/tag/v0.1.0), 6 months ago) - Lightweight library for creating fast WebComponents.
 - [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) ([v0.1.0](https://github.com/H1ghBre4k3r/pesca-lang/releases/tag/v0.1.0), 11 months ago) - A new fancy and not at all useful programming language.
