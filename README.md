@@ -55,6 +55,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [hendrick404/colmap_underwater](https://github.com/hendrick404/colmap_underwater) -  (today)
 - [PavelLaptev/Fliege-mono](https://github.com/PavelLaptev/Fliege-mono) - A free monospace font (1 week ago)
 - [schacon/aoc](https://github.com/schacon/aoc) -  (1 week ago)
 - [bcbarbara/crazyflie_nmpc](https://github.com/bcbarbara/crazyflie_nmpc) - ROS stack with an efficient real-time NMPC for the Crazyflie 2.1 (1 month ago)
@@ -64,7 +65,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Caleb-T-Owens/Sherman](https://github.com/Caleb-T-Owens/Sherman) - My bad idea for syncing app configuration (2 months ago)
 - [YorikHansen/better-moodle](https://github.com/YorikHansen/better-moodle) - Improves the new Moodle 4 UI on Moodle of the Kiel Universities computer science department (2 months ago)
 - [marudor/bahn.expert](https://github.com/marudor/bahn.expert) - https://bahn.expert (3 months ago)
-- [fwcd/nuit](https://github.com/fwcd/nuit) - Declarative cross-platform UI framework for Rust that uses native controls (3 months ago)
 
 #### 📫 How to reach me
 
