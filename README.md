@@ -55,6 +55,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust. (today)
 - [hendrick404/colmap_underwater](https://github.com/hendrick404/colmap_underwater) -  (6 days ago)
 - [PavelLaptev/Fliege-mono](https://github.com/PavelLaptev/Fliege-mono) - A free monospace font (2 weeks ago)
 - [schacon/aoc](https://github.com/schacon/aoc) -  (2 weeks ago)
@@ -64,7 +65,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (2 months ago)
 - [Caleb-T-Owens/Sherman](https://github.com/Caleb-T-Owens/Sherman) - My bad idea for syncing app configuration (2 months ago)
 - [YorikHansen/better-moodle](https://github.com/YorikHansen/better-moodle) - Improves the new Moodle 4 UI on Moodle of the Kiel Universities computer science department (2 months ago)
-- [marudor/bahn.expert](https://github.com/marudor/bahn.expert) - https://bahn.expert (3 months ago)
 
 #### 📫 How to reach me
 
