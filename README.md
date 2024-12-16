@@ -9,12 +9,12 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 - [H1ghBre4k3r/aoc-2024](https://github.com/H1ghBre4k3r/aoc-2024) - My submissions for Advent of Code 20024. (today)
 - [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) - The website for the first Kneipolympics in Kiel! (4 days ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (4 days ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (4 days ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (4 days ago)
 - [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (4 days ago)
 - [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (4 days ago)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (4 days ago)
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (4 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (4 days ago)
 - [H1ghBre4k3r/pacman-bevy](https://github.com/H1ghBre4k3r/pacman-bevy) - A WIP PacMan implementation written in bevy. 🦀 (6 days ago)
 - [H1ghBre4k3r/rust-map-reduce](https://github.com/H1ghBre4k3r/rust-map-reduce) - A small hobby implementation of MapReduce that I hacked together at 2am. (6 days ago)
 
