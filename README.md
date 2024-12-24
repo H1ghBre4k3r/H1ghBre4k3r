@@ -8,10 +8,10 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 #### 👷 Check out what I'm currently working on
 
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (today)
-- [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (1 day ago)
-- [H1ghBre4k3r/lome.dev-deploy](https://github.com/H1ghBre4k3r/lome.dev-deploy) - Automatic deployment for my personal website (1 day ago)
+- [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) - Lightweight library for creating fast WebComponents. (today)
+- [H1ghBre4k3r/lome.dev-deploy](https://github.com/H1ghBre4k3r/lome.dev-deploy) - Automatic deployment for my personal website (2 days ago)
+- [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (2 days ago)
 - [H1ghBre4k3r/aoc-2024](https://github.com/H1ghBre4k3r/aoc-2024) - My submissions for Advent of Code 20024. (1 week ago)
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 week ago)
 - [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (1 week ago)
 - [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (1 week ago)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (1 week ago)
@@ -58,7 +58,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI (1 week ago)
 - [MythicApp/Mythic](https://github.com/MythicApp/Mythic) - An open-source macOS game launcher with the ability to play Windows games through a custom implementation of Apple&#39;s Game Porting Toolkit — supporting multiple platforms. (1 week ago)
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust. (1 week ago)
-- [hendrick404/colmap_underwater](https://github.com/hendrick404/colmap_underwater) -  (1 week ago)
+- [hendrick404/colmap_underwater](https://github.com/hendrick404/colmap_underwater) -  (2 weeks ago)
 - [PavelLaptev/Fliege-mono](https://github.com/PavelLaptev/Fliege-mono) - A free monospace font (3 weeks ago)
 - [schacon/aoc](https://github.com/schacon/aoc) -  (3 weeks ago)
 - [bcbarbara/crazyflie_nmpc](https://github.com/bcbarbara/crazyflie_nmpc) - ROS stack with an efficient real-time NMPC for the Crazyflie 2.1 (1 month ago)
