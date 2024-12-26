@@ -12,11 +12,11 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (4 days ago)
 - [H1ghBre4k3r/lome.dev-deploy](https://github.com/H1ghBre4k3r/lome.dev-deploy) - Automatic deployment for my personal website (4 days ago)
 - [H1ghBre4k3r/aoc-2024](https://github.com/H1ghBre4k3r/aoc-2024) - My submissions for Advent of Code 20024. (1 week ago)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (2 weeks ago)
 - [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (2 weeks ago)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (2 weeks ago)
+- [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) - The website for the first Kneipolympics in Kiel! (2 weeks ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (2 weeks ago)
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (2 weeks ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -33,9 +33,9 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
+- [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) ([v0.1.5](https://github.com/pesca-dev/atomicity/releases/tag/v0.1.5), today) - Lightweight library for creating fast WebComponents.
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.14.4](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.14.4), 1 week ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) ([v0.1.3](https://github.com/H1ghBre4k3r/lachs/releases/tag/v0.1.3), 1 month ago) - Lightweight lexer generator for Rust written in Rust 🦀
-- [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) ([v0.1.0](https://github.com/pesca-dev/atomicity/releases/tag/v0.1.0), 7 months ago) - Lightweight library for creating fast WebComponents.
 - [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) ([v0.1.0](https://github.com/H1ghBre4k3r/pesca-lang/releases/tag/v0.1.0), 11 months ago) - A new fancy and not at all useful programming language.
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) ([v0.1.3](https://github.com/H1ghBre4k3r/y-lang/releases/tag/v0.1.3), 2 years ago) - Compiler for the (rather new and very experimental) Y programming language. 
 - [H1ghBre4k3r/typescript-decorators](https://github.com/H1ghBre4k3r/typescript-decorators) ([v0.2.0](https://github.com/H1ghBre4k3r/typescript-decorators/releases/tag/v0.2.0), 3 years ago) - Utility decorators for TypeScript.
