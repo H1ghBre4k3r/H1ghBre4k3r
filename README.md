@@ -7,14 +7,14 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) - The website for the first Kneipolympics in Kiel! (today)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (today)
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (today)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (today)
-- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (today)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (today)
-- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (today)
-- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (6 days ago)
+- [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) - The website for the first Kneipolympics in Kiel! (1 day ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (1 day ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 day ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (1 day ago)
+- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (1 day ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (1 day ago)
+- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (1 day ago)
+- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (1 week ago)
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) - Lightweight library for creating fast WebComponents. (1 week ago)
 - [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (1 week ago)
 
@@ -42,12 +42,12 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [fix(deploy): add manifests](https://github.com/H1ghBre4k3r/lome.dev/pull/7) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (1 day ago)
-- [feat(deploy): use own branch for deployment](https://github.com/H1ghBre4k3r/lome.dev/pull/6) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (1 day ago)
+- [fix(deploy): add manifests](https://github.com/H1ghBre4k3r/lome.dev/pull/7) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (2 days ago)
+- [feat(deploy): use own branch for deployment](https://github.com/H1ghBre4k3r/lome.dev/pull/6) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (2 days ago)
 - [bump: update version to 0.1.3 for packages](https://github.com/H1ghBre4k3r/lachs/pull/5) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (1 month ago)
 - [feat: make fields public in token macro implementation](https://github.com/H1ghBre4k3r/lachs/pull/4) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (1 month ago)
 - [Restructure project](https://github.com/pesca-dev/kneipolympics/pull/6) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (1 month ago)
-- [Auth: add user verification and improve session handling](https://github.com/pesca-dev/kneipolympics/pull/5) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (1 month ago)
+- [Auth: add user verification and improve session handling](https://github.com/pesca-dev/kneipolympics/pull/5) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (2 months ago)
 - [Setup Appwrite](https://github.com/pesca-dev/kneipolympics/pull/2) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (2 months ago)
 - [feat: add deployment workflow for main branch](https://github.com/pesca-dev/kneipolympics/pull/1) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (2 months ago)
 - [Tests: add basic tests to check features](https://github.com/H1ghBre4k3r/lachs/pull/3) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (2 months ago)
@@ -64,7 +64,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [bcbarbara/crazyflie_nmpc](https://github.com/bcbarbara/crazyflie_nmpc) - ROS stack with an efficient real-time NMPC for the Crazyflie 2.1 (2 months ago)
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (2 months ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (2 months ago)
-- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (2 months ago)
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (3 months ago)
 
 #### 📫 How to reach me
 
