@@ -7,16 +7,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) - The website for the first Kneipolympics in Kiel! (today)
+- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (today)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (today)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (today)
 - [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (today)
 - [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (today)
+- [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) - Lightweight lexer generator for Rust written in Rust 🦀 (today)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (today)
 - [pesca-dev/decentnoobbot](https://github.com/pesca-dev/decentnoobbot) - A small Discord bot written in Rust. (today)
-- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (today)
+- [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) - The website for the first Kneipolympics in Kiel! (today)
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) - Lightweight library for creating fast WebComponents. (1 day ago)
-- [H1ghBre4k3r/rust-map-reduce](https://github.com/H1ghBre4k3r/rust-map-reduce) - A small hobby implementation of MapReduce that I hacked together at 2am. (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -42,16 +42,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [Rudimentary parser](https://github.com/H1ghBre4k3r/html-parser/pull/7) on [H1ghBre4k3r/html-parser](https://github.com/H1ghBre4k3r/html-parser) (today)
+- [Fix(bump): actually bump all versions to 0.1.4](https://github.com/H1ghBre4k3r/lachs/pull/9) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (today)
+- [bump: update version to 0.1.4 for packages](https://github.com/H1ghBre4k3r/lachs/pull/8) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (today)
+- [Parser: include a get_name function for variants](https://github.com/H1ghBre4k3r/lachs/pull/7) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (today)
 - [fix(ci): adjust rust version in docker](https://github.com/H1ghBre4k3r/y-lang/pull/187) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (today)
 - [feat(ci): run CI on self-hosted as well](https://github.com/pesca-dev/decentnoobbot/pull/42) on [pesca-dev/decentnoobbot](https://github.com/pesca-dev/decentnoobbot) (1 day ago)
 - [Fix parsing of long header bodies](https://github.com/gitgitgadget/gitgitgadget/pull/1798) on [gitgitgadget/gitgitgadget](https://github.com/gitgitgadget/gitgitgadget) (1 day ago)
 - [fix(deploy): add manifests](https://github.com/H1ghBre4k3r/lome.dev/pull/7) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (1 week ago)
 - [feat(deploy): use own branch for deployment](https://github.com/H1ghBre4k3r/lome.dev/pull/6) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (1 week ago)
 - [bump: update version to 0.1.3 for packages](https://github.com/H1ghBre4k3r/lachs/pull/5) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (2 months ago)
-- [feat: make fields public in token macro implementation](https://github.com/H1ghBre4k3r/lachs/pull/4) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (2 months ago)
-- [Restructure project](https://github.com/pesca-dev/kneipolympics/pull/6) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (2 months ago)
-- [Auth: add user verification and improve session handling](https://github.com/pesca-dev/kneipolympics/pull/5) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (2 months ago)
-- [Setup Appwrite](https://github.com/pesca-dev/kneipolympics/pull/2) on [pesca-dev/kneipolympics](https://github.com/pesca-dev/kneipolympics) (2 months ago)
 
 #### ⭐ Recent Stars
 
