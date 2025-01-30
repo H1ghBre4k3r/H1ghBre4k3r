@@ -7,9 +7,9 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) - The mobile app for MoneyBoy - a tool to track spendings between different people. (5 days ago)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (1 week ago)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (1 week ago)
+- [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) - The mobile app for MoneyBoy - a tool to track spendings between different people. (6 days ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (2 weeks ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (2 weeks ago)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (2 weeks ago)
 - [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (2 weeks ago)
 - [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (2 weeks ago)
@@ -50,8 +50,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [fix(ci): adjust rust version in docker](https://github.com/H1ghBre4k3r/y-lang/pull/187) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 weeks ago)
 - [feat(ci): run CI on self-hosted as well](https://github.com/pesca-dev/decentnoobbot/pull/42) on [pesca-dev/decentnoobbot](https://github.com/pesca-dev/decentnoobbot) (2 weeks ago)
 - [Fix parsing of long header bodies](https://github.com/gitgitgadget/gitgitgadget/pull/1798) on [gitgitgadget/gitgitgadget](https://github.com/gitgitgadget/gitgitgadget) (2 weeks ago)
-- [fix(deploy): add manifests](https://github.com/H1ghBre4k3r/lome.dev/pull/7) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (3 weeks ago)
-- [feat(deploy): use own branch for deployment](https://github.com/H1ghBre4k3r/lome.dev/pull/6) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (3 weeks ago)
+- [fix(deploy): add manifests](https://github.com/H1ghBre4k3r/lome.dev/pull/7) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (4 weeks ago)
+- [feat(deploy): use own branch for deployment](https://github.com/H1ghBre4k3r/lome.dev/pull/6) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (4 weeks ago)
 - [bump: update version to 0.1.3 for packages](https://github.com/H1ghBre4k3r/lachs/pull/5) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (2 months ago)
 
 #### ⭐ Recent Stars
@@ -64,8 +64,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [MythicApp/Mythic](https://github.com/MythicApp/Mythic) - An open-source macOS game launcher with the ability to play Windows games through a custom implementation of Apple&#39;s Game Porting Toolkit — supporting multiple platforms. (1 month ago)
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust. (1 month ago)
 - [hendrick404/colmap_underwater](https://github.com/hendrick404/colmap_underwater) -  (1 month ago)
-- [PavelLaptev/Fliege-mono](https://github.com/PavelLaptev/Fliege-mono) - A free monospace font (1 month ago)
-- [schacon/aoc](https://github.com/schacon/aoc) -  (1 month ago)
+- [PavelLaptev/Fliege-mono](https://github.com/PavelLaptev/Fliege-mono) - A free monospace font (2 months ago)
+- [schacon/aoc](https://github.com/schacon/aoc) -  (2 months ago)
 
 #### 📫 How to reach me
 
