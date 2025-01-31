@@ -7,7 +7,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) - The mobile app for MoneyBoy - a tool to track spendings between different people. (6 days ago)
+- [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) - The mobile app for MoneyBoy - a tool to track spendings between different people. (1 week ago)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (2 weeks ago)
 - [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (2 weeks ago)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (2 weeks ago)
@@ -48,8 +48,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [bump: update version to 0.1.4 for packages](https://github.com/H1ghBre4k3r/lachs/pull/8) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (2 weeks ago)
 - [Parser: include a get_name function for variants](https://github.com/H1ghBre4k3r/lachs/pull/7) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (2 weeks ago)
 - [fix(ci): adjust rust version in docker](https://github.com/H1ghBre4k3r/y-lang/pull/187) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 weeks ago)
-- [feat(ci): run CI on self-hosted as well](https://github.com/pesca-dev/decentnoobbot/pull/42) on [pesca-dev/decentnoobbot](https://github.com/pesca-dev/decentnoobbot) (2 weeks ago)
-- [Fix parsing of long header bodies](https://github.com/gitgitgadget/gitgitgadget/pull/1798) on [gitgitgadget/gitgitgadget](https://github.com/gitgitgadget/gitgitgadget) (2 weeks ago)
+- [feat(ci): run CI on self-hosted as well](https://github.com/pesca-dev/decentnoobbot/pull/42) on [pesca-dev/decentnoobbot](https://github.com/pesca-dev/decentnoobbot) (3 weeks ago)
+- [Fix parsing of long header bodies](https://github.com/gitgitgadget/gitgitgadget/pull/1798) on [gitgitgadget/gitgitgadget](https://github.com/gitgitgadget/gitgitgadget) (3 weeks ago)
 - [fix(deploy): add manifests](https://github.com/H1ghBre4k3r/lome.dev/pull/7) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (4 weeks ago)
 - [feat(deploy): use own branch for deployment](https://github.com/H1ghBre4k3r/lome.dev/pull/6) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (4 weeks ago)
 - [bump: update version to 0.1.3 for packages](https://github.com/H1ghBre4k3r/lachs/pull/5) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (2 months ago)
