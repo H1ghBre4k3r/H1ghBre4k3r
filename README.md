@@ -15,7 +15,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (1 week ago)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (1 week ago)
 - [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) - A website for viewing advent of code submissions of (Halb-)Offizieller-CAU-Informatik-Server™. (2 weeks ago)
-- [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (2 weeks ago)
+- [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (3 weeks ago)
 - [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) - The mobile app for MoneyBoy - a tool to track spendings between different people. (1 month ago)
 
 #### 🌱 My latest projects
@@ -50,8 +50,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [fix(ci): adjust rust version in docker](https://github.com/H1ghBre4k3r/y-lang/pull/187) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 month ago)
 - [feat(ci): run CI on self-hosted as well](https://github.com/pesca-dev/decentnoobbot/pull/42) on [pesca-dev/decentnoobbot](https://github.com/pesca-dev/decentnoobbot) (1 month ago)
 - [Fix parsing of long header bodies](https://github.com/gitgitgadget/gitgitgadget/pull/1798) on [gitgitgadget/gitgitgadget](https://github.com/gitgitgadget/gitgitgadget) (1 month ago)
-- [fix(deploy): add manifests](https://github.com/H1ghBre4k3r/lome.dev/pull/7) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (1 month ago)
-- [feat(deploy): use own branch for deployment](https://github.com/H1ghBre4k3r/lome.dev/pull/6) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (1 month ago)
+- [fix(deploy): add manifests](https://github.com/H1ghBre4k3r/lome.dev/pull/7) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (2 months ago)
+- [feat(deploy): use own branch for deployment](https://github.com/H1ghBre4k3r/lome.dev/pull/6) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (2 months ago)
 - [bump: update version to 0.1.3 for packages](https://github.com/H1ghBre4k3r/lachs/pull/5) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (3 months ago)
 
 #### ⭐ Recent Stars
