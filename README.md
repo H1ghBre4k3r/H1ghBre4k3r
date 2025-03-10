@@ -7,8 +7,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (1 day ago)
-- [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) - Lightweight library for creating fast WebComponents. (4 days ago)
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (2 days ago)
+- [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) - Lightweight library for creating fast WebComponents. (5 days ago)
 - [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (2 weeks ago)
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (2 weeks ago)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (2 weeks ago)
@@ -43,7 +43,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [feat(clipboard): move the toast-handling into writeClipboard function](https://github.com/gitbutlerapp/gitbutler/pull/7551) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (1 day ago)
+- [feat(clipboard): move the toast-handling into writeClipboard function](https://github.com/gitbutlerapp/gitbutler/pull/7551) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (2 days ago)
 - [Rudimentary parser](https://github.com/H1ghBre4k3r/html-parser/pull/7) on [H1ghBre4k3r/html-parser](https://github.com/H1ghBre4k3r/html-parser) (1 month ago)
 - [Fix(bump): actually bump all versions to 0.1.4](https://github.com/H1ghBre4k3r/lachs/pull/9) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (1 month ago)
 - [bump: update version to 0.1.4 for packages](https://github.com/H1ghBre4k3r/lachs/pull/8) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (1 month ago)
