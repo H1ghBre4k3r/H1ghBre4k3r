@@ -7,8 +7,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (3 days ago)
-- [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) - Lightweight library for creating fast WebComponents. (6 days ago)
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (4 days ago)
+- [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) - Lightweight library for creating fast WebComponents. (1 week ago)
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (2 weeks ago)
 - [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (2 weeks ago)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (2 weeks ago)
@@ -33,7 +33,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.14.10](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.14.10), 1 day ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.14.10](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.14.10), 2 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) ([v0.1.4](https://github.com/H1ghBre4k3r/lachs/releases/tag/v0.1.4), 1 month ago) - Lightweight lexer generator for Rust written in Rust 🦀
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) ([v0.1.5](https://github.com/pesca-dev/atomicity/releases/tag/v0.1.5), 2 months ago) - Lightweight library for creating fast WebComponents.
 - [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) ([v0.1.0](https://github.com/H1ghBre4k3r/pesca-lang/releases/tag/v0.1.0), 1 year ago) - A new fancy and not at all useful programming language.
@@ -43,12 +43,12 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [feat(clipboard): move the toast-handling into writeClipboard function](https://github.com/gitbutlerapp/gitbutler/pull/7551) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (3 days ago)
-- [Rudimentary parser](https://github.com/H1ghBre4k3r/html-parser/pull/7) on [H1ghBre4k3r/html-parser](https://github.com/H1ghBre4k3r/html-parser) (1 month ago)
-- [Fix(bump): actually bump all versions to 0.1.4](https://github.com/H1ghBre4k3r/lachs/pull/9) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (1 month ago)
-- [bump: update version to 0.1.4 for packages](https://github.com/H1ghBre4k3r/lachs/pull/8) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (1 month ago)
-- [Parser: include a get_name function for variants](https://github.com/H1ghBre4k3r/lachs/pull/7) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (1 month ago)
-- [fix(ci): adjust rust version in docker](https://github.com/H1ghBre4k3r/y-lang/pull/187) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 month ago)
+- [feat(clipboard): move the toast-handling into writeClipboard function](https://github.com/gitbutlerapp/gitbutler/pull/7551) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (4 days ago)
+- [Rudimentary parser](https://github.com/H1ghBre4k3r/html-parser/pull/7) on [H1ghBre4k3r/html-parser](https://github.com/H1ghBre4k3r/html-parser) (2 months ago)
+- [Fix(bump): actually bump all versions to 0.1.4](https://github.com/H1ghBre4k3r/lachs/pull/9) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (2 months ago)
+- [bump: update version to 0.1.4 for packages](https://github.com/H1ghBre4k3r/lachs/pull/8) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (2 months ago)
+- [Parser: include a get_name function for variants](https://github.com/H1ghBre4k3r/lachs/pull/7) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (2 months ago)
+- [fix(ci): adjust rust version in docker](https://github.com/H1ghBre4k3r/y-lang/pull/187) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 months ago)
 - [feat(ci): run CI on self-hosted as well](https://github.com/pesca-dev/decentnoobbot/pull/42) on [pesca-dev/decentnoobbot](https://github.com/pesca-dev/decentnoobbot) (2 months ago)
 - [Fix parsing of long header bodies](https://github.com/gitgitgadget/gitgitgadget/pull/1798) on [gitgitgadget/gitgitgadget](https://github.com/gitgitgadget/gitgitgadget) (2 months ago)
 - [fix(deploy): add manifests](https://github.com/H1ghBre4k3r/lome.dev/pull/7) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (2 months ago)
