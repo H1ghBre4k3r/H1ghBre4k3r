@@ -7,12 +7,12 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (5 days ago)
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (6 days ago)
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) - Lightweight library for creating fast WebComponents. (1 week ago)
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (2 weeks ago)
 - [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (2 weeks ago)
-- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (2 weeks ago)
-- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (2 weeks ago)
+- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (3 weeks ago)
+- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (3 weeks ago)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (3 weeks ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (3 weeks ago)
 - [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (3 weeks ago)
@@ -33,8 +33,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.14.10](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.14.10), 3 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-- [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) ([v0.1.4](https://github.com/H1ghBre4k3r/lachs/releases/tag/v0.1.4), 1 month ago) - Lightweight lexer generator for Rust written in Rust 🦀
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.14.10](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.14.10), 4 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) ([v0.1.4](https://github.com/H1ghBre4k3r/lachs/releases/tag/v0.1.4), 2 months ago) - Lightweight lexer generator for Rust written in Rust 🦀
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) ([v0.1.5](https://github.com/pesca-dev/atomicity/releases/tag/v0.1.5), 2 months ago) - Lightweight library for creating fast WebComponents.
 - [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) ([v0.1.0](https://github.com/H1ghBre4k3r/pesca-lang/releases/tag/v0.1.0), 1 year ago) - A new fancy and not at all useful programming language.
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) ([v0.1.3](https://github.com/H1ghBre4k3r/y-lang/releases/tag/v0.1.3), 2 years ago) - Compiler for the (rather new and very experimental) Y programming language. 
@@ -43,7 +43,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [feat(clipboard): move the toast-handling into writeClipboard function](https://github.com/gitbutlerapp/gitbutler/pull/7551) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (5 days ago)
+- [feat(clipboard): move the toast-handling into writeClipboard function](https://github.com/gitbutlerapp/gitbutler/pull/7551) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (6 days ago)
 - [Rudimentary parser](https://github.com/H1ghBre4k3r/html-parser/pull/7) on [H1ghBre4k3r/html-parser](https://github.com/H1ghBre4k3r/html-parser) (2 months ago)
 - [Fix(bump): actually bump all versions to 0.1.4](https://github.com/H1ghBre4k3r/lachs/pull/9) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (2 months ago)
 - [bump: update version to 0.1.4 for packages](https://github.com/H1ghBre4k3r/lachs/pull/8) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (2 months ago)
@@ -60,7 +60,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust (3 weeks ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (4 weeks ago)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference (4 weeks ago)
-- [gitgitgadget/gitgitgadget](https://github.com/gitgitgadget/gitgitgadget) - Sending GitHub PRs to the Git mailing list (1 month ago)
+- [gitgitgadget/gitgitgadget](https://github.com/gitgitgadget/gitgitgadget) - Sending GitHub PRs to the Git mailing list (2 months ago)
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (2 months ago)
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (2 months ago)
 - [kyegomez/swarms](https://github.com/kyegomez/swarms) - The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai (2 months ago)
