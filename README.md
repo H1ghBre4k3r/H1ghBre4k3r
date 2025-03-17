@@ -33,7 +33,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.14.11](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.14.11), 2 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.14.11](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.14.11), 3 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) ([v0.1.4](https://github.com/H1ghBre4k3r/lachs/releases/tag/v0.1.4), 2 months ago) - Lightweight lexer generator for Rust written in Rust 🦀
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) ([v0.1.5](https://github.com/pesca-dev/atomicity/releases/tag/v0.1.5), 2 months ago) - Lightweight library for creating fast WebComponents.
 - [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) ([v0.1.0](https://github.com/H1ghBre4k3r/pesca-lang/releases/tag/v0.1.0), 1 year ago) - A new fancy and not at all useful programming language.
@@ -57,7 +57,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 #### ⭐ Recent Stars
 
 - [jiegec/usbip](https://github.com/jiegec/usbip) - A Rust library to run a USB/IP server (3 weeks ago)
-- [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust (4 weeks ago)
+- [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust (1 month ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (1 month ago)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference (1 month ago)
 - [gitgitgadget/gitgitgadget](https://github.com/gitgitgadget/gitgitgadget) - Sending GitHub PRs to the Git mailing list (2 months ago)
