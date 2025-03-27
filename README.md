@@ -13,14 +13,15 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (today)
 - [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (today)
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (today)
+- [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) - Repository containing all information about the technical part for the Kneipolympics. (today)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (today)
 - [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (today)
 - [H1ghBre4k3r/rust-mem-leak](https://github.com/H1ghBre4k3r/rust-mem-leak) -  (today)
-- [H1ghBre4k3r/rust-map-reduce](https://github.com/H1ghBre4k3r/rust-map-reduce) - A small hobby implementation of MapReduce that I hacked together at 2am. (1 week ago)
 
 #### 🌱 My latest projects
 
 - [H1ghBre4k3r/rust-mem-leak](https://github.com/H1ghBre4k3r/rust-mem-leak) - 
+- [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) - Repository containing all information about the technical part for the Kneipolympics.
 - [H1ghBre4k3r/lome.dev-deploy](https://github.com/H1ghBre4k3r/lome.dev-deploy) - Automatic deployment for my personal website
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time.
 - [H1ghBre4k3r/aoc-2024](https://github.com/H1ghBre4k3r/aoc-2024) - My submissions for Advent of Code 20024.
@@ -29,7 +30,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/html-parser](https://github.com/H1ghBre4k3r/html-parser) - A simple (and hopefully at some point spec compliant) HTML parser.
 - [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects.
 - [H1ghBre4k3r/rust-starter](https://github.com/H1ghBre4k3r/rust-starter) - Starter template for Rust repositories.
-- [H1ghBre4k3r/rust-map-reduce](https://github.com/H1ghBre4k3r/rust-map-reduce) - A small hobby implementation of MapReduce that I hacked together at 2am.
 
 #### 🔭 Latest releases I've contributed to
 
@@ -47,12 +47,12 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [fix: rename newBranchName to newName](https://github.com/H1ghBre4k3r/gitbutler/pull/3) on [H1ghBre4k3r/gitbutler](https://github.com/H1ghBre4k3r/gitbutler) (today)
 - [fix: update copyright year in tauri configuration](https://github.com/gitbutlerapp/gitbutler/pull/7820) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (2 days ago)
 - [fix: update copyright year in tauri configuration](https://github.com/H1ghBre4k3r/gitbutler/pull/2) on [H1ghBre4k3r/gitbutler](https://github.com/H1ghBre4k3r/gitbutler) (2 days ago)
-- [feat(clipboard): move the toast-handling into writeClipboard function](https://github.com/gitbutlerapp/gitbutler/pull/7551) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (2 weeks ago)
-- [Rudimentary parser](https://github.com/H1ghBre4k3r/html-parser/pull/7) on [H1ghBre4k3r/html-parser](https://github.com/H1ghBre4k3r/html-parser) (2 months ago)
-- [Fix(bump): actually bump all versions to 0.1.4](https://github.com/H1ghBre4k3r/lachs/pull/9) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (2 months ago)
-- [bump: update version to 0.1.4 for packages](https://github.com/H1ghBre4k3r/lachs/pull/8) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (2 months ago)
-- [Parser: include a get_name function for variants](https://github.com/H1ghBre4k3r/lachs/pull/7) on [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) (2 months ago)
-- [fix(ci): adjust rust version in docker](https://github.com/H1ghBre4k3r/y-lang/pull/187) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 months ago)
+- [feat: add Ubuntu font and update typography styles](https://github.com/H1ghBre4k3r/kneipolympics/pull/42) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (3 days ago)
+- [i18n](https://github.com/H1ghBre4k3r/kneipolympics/pull/41) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (3 days ago)
+- [feat(nav): enhance navigation with responsive design](https://github.com/H1ghBre4k3r/kneipolympics/pull/40) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (3 days ago)
+- [feat: add smoker preference to registration form](https://github.com/H1ghBre4k3r/kneipolympics/pull/39) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (4 days ago)
+- [admin-functionality](https://github.com/H1ghBre4k3r/kneipolympics/pull/38) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (5 days ago)
+- [feat: enhance registration form with additional fields](https://github.com/H1ghBre4k3r/kneipolympics/pull/37) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (5 days ago)
 
 #### ⭐ Recent Stars
 
