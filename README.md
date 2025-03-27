@@ -43,6 +43,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [update-navigation-and-registration](https://github.com/H1ghBre4k3r/kneipolympics/pull/45) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (today)
 - [fix: rename newBranchName to newName](https://github.com/gitbutlerapp/gitbutler/pull/7849) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (today)
 - [fix: rename newBranchName to newName](https://github.com/H1ghBre4k3r/gitbutler/pull/3) on [H1ghBre4k3r/gitbutler](https://github.com/H1ghBre4k3r/gitbutler) (today)
 - [fix: update copyright year in tauri configuration](https://github.com/gitbutlerapp/gitbutler/pull/7820) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (2 days ago)
@@ -52,7 +53,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [feat(nav): enhance navigation with responsive design](https://github.com/H1ghBre4k3r/kneipolympics/pull/40) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (3 days ago)
 - [feat: add smoker preference to registration form](https://github.com/H1ghBre4k3r/kneipolympics/pull/39) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (4 days ago)
 - [admin-functionality](https://github.com/H1ghBre4k3r/kneipolympics/pull/38) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (5 days ago)
-- [feat: enhance registration form with additional fields](https://github.com/H1ghBre4k3r/kneipolympics/pull/37) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (5 days ago)
 
 #### ⭐ Recent Stars
 
