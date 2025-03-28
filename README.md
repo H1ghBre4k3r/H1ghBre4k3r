@@ -7,11 +7,11 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
+- [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) - Repository containing all information about the technical part for the Kneipolympics. (today)
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (1 day ago)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (1 day ago)
 - [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (1 day ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 day ago)
-- [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) - Repository containing all information about the technical part for the Kneipolympics. (1 day ago)
 - [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (1 day ago)
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (1 day ago)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (1 day ago)
@@ -43,6 +43,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [fix: adjust starting point](https://github.com/H1ghBre4k3r/kneipolympics/pull/46) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (today)
 - [update-navigation-and-registration](https://github.com/H1ghBre4k3r/kneipolympics/pull/45) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 day ago)
 - [fix: rename newBranchName to newName](https://github.com/gitbutlerapp/gitbutler/pull/7849) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (1 day ago)
 - [fix: rename newBranchName to newName](https://github.com/H1ghBre4k3r/gitbutler/pull/3) on [H1ghBre4k3r/gitbutler](https://github.com/H1ghBre4k3r/gitbutler) (1 day ago)
@@ -52,7 +53,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [i18n](https://github.com/H1ghBre4k3r/kneipolympics/pull/41) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (4 days ago)
 - [feat(nav): enhance navigation with responsive design](https://github.com/H1ghBre4k3r/kneipolympics/pull/40) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (4 days ago)
 - [feat: add smoker preference to registration form](https://github.com/H1ghBre4k3r/kneipolympics/pull/39) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (5 days ago)
-- [admin-functionality](https://github.com/H1ghBre4k3r/kneipolympics/pull/38) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (6 days ago)
 
 #### ⭐ Recent Stars
 
