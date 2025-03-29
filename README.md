@@ -43,6 +43,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [admin-infrastructure](https://github.com/H1ghBre4k3r/kneipolympics/pull/52) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (today)
 - [fix: adjust starting point](https://github.com/H1ghBre4k3r/kneipolympics/pull/46) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 day ago)
 - [update-navigation-and-registration](https://github.com/H1ghBre4k3r/kneipolympics/pull/45) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (2 days ago)
 - [fix: rename newBranchName to newName](https://github.com/gitbutlerapp/gitbutler/pull/7849) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (2 days ago)
@@ -52,7 +53,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [feat: add Ubuntu font and update typography styles](https://github.com/H1ghBre4k3r/kneipolympics/pull/42) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (5 days ago)
 - [i18n](https://github.com/H1ghBre4k3r/kneipolympics/pull/41) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (5 days ago)
 - [feat(nav): enhance navigation with responsive design](https://github.com/H1ghBre4k3r/kneipolympics/pull/40) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (5 days ago)
-- [feat: add smoker preference to registration form](https://github.com/H1ghBre4k3r/kneipolympics/pull/39) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (6 days ago)
 
 #### ⭐ Recent Stars
 
