@@ -7,8 +7,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (today)
 - [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) - Repository containing all information about the technical part for the Kneipolympics. (today)
+- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (today)
 - [H1ghBre4k3r/pacman-bevy](https://github.com/H1ghBre4k3r/pacman-bevy) - A WIP PacMan implementation written in bevy. 🦀 (2 days ago)
 - [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (3 days ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (3 days ago)
@@ -43,6 +43,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [feat: refactor admin UI and improve type safety](https://github.com/H1ghBre4k3r/kneipolympics/pull/65) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (today)
 - [adjust-admin-interface](https://github.com/H1ghBre4k3r/kneipolympics/pull/64) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (today)
 - [chore(structure): move everything from the frontend to root](https://github.com/H1ghBre4k3r/kneipolympics/pull/63) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (today)
 - [Feature/ghosts](https://github.com/H1ghBre4k3r/pacman-bevy/pull/18) on [H1ghBre4k3r/pacman-bevy](https://github.com/H1ghBre4k3r/pacman-bevy) (2 days ago)
@@ -52,7 +53,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [fix: rename newBranchName to newName](https://github.com/gitbutlerapp/gitbutler/pull/7849) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (1 week ago)
 - [fix: rename newBranchName to newName](https://github.com/H1ghBre4k3r/gitbutler/pull/3) on [H1ghBre4k3r/gitbutler](https://github.com/H1ghBre4k3r/gitbutler) (1 week ago)
 - [fix: update copyright year in tauri configuration](https://github.com/gitbutlerapp/gitbutler/pull/7820) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (1 week ago)
-- [fix: update copyright year in tauri configuration](https://github.com/H1ghBre4k3r/gitbutler/pull/2) on [H1ghBre4k3r/gitbutler](https://github.com/H1ghBre4k3r/gitbutler) (1 week ago)
 
 #### ⭐ Recent Stars
 
