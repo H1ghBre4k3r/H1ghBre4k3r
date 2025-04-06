@@ -7,15 +7,15 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) - Repository containing all information about the technical part for the Kneipolympics. (today)
-- [H1ghBre4k3r/pacman-bevy](https://github.com/H1ghBre4k3r/pacman-bevy) - A WIP PacMan implementation written in bevy. 🦀 (1 day ago)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (2 days ago)
-- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (2 days ago)
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (2 days ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (2 days ago)
-- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (2 days ago)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (2 days ago)
-- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (4 days ago)
+- [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) - Repository containing all information about the technical part for the Kneipolympics. (1 day ago)
+- [H1ghBre4k3r/pacman-bevy](https://github.com/H1ghBre4k3r/pacman-bevy) - A WIP PacMan implementation written in bevy. 🦀 (2 days ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (3 days ago)
+- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (3 days ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (3 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (3 days ago)
+- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (3 days ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (3 days ago)
+- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (5 days ago)
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (1 week ago)
 
 #### 🌱 My latest projects
@@ -43,7 +43,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [Feature/ghosts](https://github.com/H1ghBre4k3r/pacman-bevy/pull/18) on [H1ghBre4k3r/pacman-bevy](https://github.com/H1ghBre4k3r/pacman-bevy) (1 day ago)
+- [Feature/ghosts](https://github.com/H1ghBre4k3r/pacman-bevy/pull/18) on [H1ghBre4k3r/pacman-bevy](https://github.com/H1ghBre4k3r/pacman-bevy) (2 days ago)
 - [admin-infrastructure](https://github.com/H1ghBre4k3r/kneipolympics/pull/52) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
 - [fix: adjust starting point](https://github.com/H1ghBre4k3r/kneipolympics/pull/46) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
 - [update-navigation-and-registration](https://github.com/H1ghBre4k3r/kneipolympics/pull/45) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
@@ -56,16 +56,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web. (2 days ago)
-- [reactjs/react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React (6 days ago)
+- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web. (3 days ago)
+- [reactjs/react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React (1 week ago)
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features (2 weeks ago)
 - [jiegec/usbip](https://github.com/jiegec/usbip) - A Rust library to run a USB/IP server (1 month ago)
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust (1 month ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (1 month ago)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference (1 month ago)
 - [gitgitgadget/gitgitgadget](https://github.com/gitgitgadget/gitgitgadget) - Sending GitHub PRs to the Git mailing list (2 months ago)
-- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (2 months ago)
-- [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (2 months ago)
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (3 months ago)
+- [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (3 months ago)
 
 #### 📫 How to reach me
 
