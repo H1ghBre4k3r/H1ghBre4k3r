@@ -43,6 +43,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [chore(structure): move everything from the frontend to root](https://github.com/H1ghBre4k3r/kneipolympics/pull/63) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (today)
 - [Feature/ghosts](https://github.com/H1ghBre4k3r/pacman-bevy/pull/18) on [H1ghBre4k3r/pacman-bevy](https://github.com/H1ghBre4k3r/pacman-bevy) (2 days ago)
 - [admin-infrastructure](https://github.com/H1ghBre4k3r/kneipolympics/pull/52) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
 - [fix: adjust starting point](https://github.com/H1ghBre4k3r/kneipolympics/pull/46) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
@@ -52,7 +53,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [fix: update copyright year in tauri configuration](https://github.com/gitbutlerapp/gitbutler/pull/7820) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (1 week ago)
 - [fix: update copyright year in tauri configuration](https://github.com/H1ghBre4k3r/gitbutler/pull/2) on [H1ghBre4k3r/gitbutler](https://github.com/H1ghBre4k3r/gitbutler) (1 week ago)
 - [feat: add Ubuntu font and update typography styles](https://github.com/H1ghBre4k3r/kneipolympics/pull/42) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
-- [i18n](https://github.com/H1ghBre4k3r/kneipolympics/pull/41) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
 
 #### ⭐ Recent Stars
 
