@@ -7,6 +7,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (today)
 - [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) - Repository containing all information about the technical part for the Kneipolympics. (1 day ago)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (2 days ago)
 - [H1ghBre4k3r/pacman-bevy](https://github.com/H1ghBre4k3r/pacman-bevy) - A WIP PacMan implementation written in bevy. 🦀 (4 days ago)
@@ -16,7 +17,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (5 days ago)
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (5 days ago)
 - [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (5 days ago)
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -43,6 +43,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add new dad joke about billboards](https://github.com/gitbutlerapp/gitbutler/pull/8054) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (today)
+- [feat: add new dad joke about billboards](https://github.com/H1ghBre4k3r/gitbutler/pull/4) on [H1ghBre4k3r/gitbutler](https://github.com/H1ghBre4k3r/gitbutler) (today)
 - [feat: refactor admin UI and improve type safety](https://github.com/H1ghBre4k3r/kneipolympics/pull/65) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (2 days ago)
 - [adjust-admin-interface](https://github.com/H1ghBre4k3r/kneipolympics/pull/64) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (2 days ago)
 - [chore(structure): move everything from the frontend to root](https://github.com/H1ghBre4k3r/kneipolympics/pull/63) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (2 days ago)
@@ -51,8 +53,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [fix: adjust starting point](https://github.com/H1ghBre4k3r/kneipolympics/pull/46) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
 - [update-navigation-and-registration](https://github.com/H1ghBre4k3r/kneipolympics/pull/45) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
 - [fix: rename newBranchName to newName](https://github.com/gitbutlerapp/gitbutler/pull/7849) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (1 week ago)
-- [fix: rename newBranchName to newName](https://github.com/H1ghBre4k3r/gitbutler/pull/3) on [H1ghBre4k3r/gitbutler](https://github.com/H1ghBre4k3r/gitbutler) (1 week ago)
-- [fix: update copyright year in tauri configuration](https://github.com/gitbutlerapp/gitbutler/pull/7820) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
