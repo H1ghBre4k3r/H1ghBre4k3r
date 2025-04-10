@@ -7,16 +7,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [pesca-dev/decentnoobbot](https://github.com/pesca-dev/decentnoobbot) - A small Discord bot written in Rust. (today)
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (1 day ago)
-- [H1ghBre4k3r/higher-order-locks](https://github.com/H1ghBre4k3r/higher-order-locks) - Implementation of the paper &#34;Higher-OrderLeak and DeadlockFree Locks&#34; in Rust 🦀 (1 day ago)
-- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (1 day ago)
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 day ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (1 day ago)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (1 day ago)
-- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (1 day ago)
-- [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) - A website for viewing advent of code submissions of (Halb-)Offizieller-CAU-Informatik-Server™. (1 day ago)
-- [H1ghBre4k3r/rust-map-reduce](https://github.com/H1ghBre4k3r/rust-map-reduce) - A small hobby implementation of MapReduce that I hacked together at 2am. (1 day ago)
+- [pesca-dev/decentnoobbot](https://github.com/pesca-dev/decentnoobbot) - A small Discord bot written in Rust. (1 day ago)
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (2 days ago)
+- [H1ghBre4k3r/higher-order-locks](https://github.com/H1ghBre4k3r/higher-order-locks) - Implementation of the paper &#34;Higher-OrderLeak and DeadlockFree Locks&#34; in Rust 🦀 (2 days ago)
+- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (2 days ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (2 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (2 days ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (2 days ago)
+- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (2 days ago)
+- [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) - A website for viewing advent of code submissions of (Halb-)Offizieller-CAU-Informatik-Server™. (2 days ago)
+- [H1ghBre4k3r/rust-map-reduce](https://github.com/H1ghBre4k3r/rust-map-reduce) - A small hobby implementation of MapReduce that I hacked together at 2am. (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -33,7 +33,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.14.16](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.14.16), 1 day ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.14.16](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.14.16), 2 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) ([v0.1.4](https://github.com/H1ghBre4k3r/lachs/releases/tag/v0.1.4), 2 months ago) - Lightweight lexer generator for Rust written in Rust 🦀
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) ([v0.1.5](https://github.com/pesca-dev/atomicity/releases/tag/v0.1.5), 3 months ago) - Lightweight library for creating fast WebComponents.
 - [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) ([v0.1.0](https://github.com/H1ghBre4k3r/pesca-lang/releases/tag/v0.1.0), 1 year ago) - A new fancy and not at all useful programming language.
@@ -43,23 +43,23 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add new dad joke about billboards](https://github.com/gitbutlerapp/gitbutler/pull/8054) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (1 day ago)
-- [feat: add new dad joke about billboards](https://github.com/H1ghBre4k3r/gitbutler/pull/4) on [H1ghBre4k3r/gitbutler](https://github.com/H1ghBre4k3r/gitbutler) (1 day ago)
-- [feat: refactor admin UI and improve type safety](https://github.com/H1ghBre4k3r/kneipolympics/pull/65) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (3 days ago)
-- [adjust-admin-interface](https://github.com/H1ghBre4k3r/kneipolympics/pull/64) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (3 days ago)
-- [chore(structure): move everything from the frontend to root](https://github.com/H1ghBre4k3r/kneipolympics/pull/63) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (3 days ago)
-- [Feature/ghosts](https://github.com/H1ghBre4k3r/pacman-bevy/pull/18) on [H1ghBre4k3r/pacman-bevy](https://github.com/H1ghBre4k3r/pacman-bevy) (5 days ago)
+- [feat: add new dad joke about billboards](https://github.com/gitbutlerapp/gitbutler/pull/8054) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (2 days ago)
+- [feat: add new dad joke about billboards](https://github.com/H1ghBre4k3r/gitbutler/pull/4) on [H1ghBre4k3r/gitbutler](https://github.com/H1ghBre4k3r/gitbutler) (2 days ago)
+- [feat: refactor admin UI and improve type safety](https://github.com/H1ghBre4k3r/kneipolympics/pull/65) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (4 days ago)
+- [adjust-admin-interface](https://github.com/H1ghBre4k3r/kneipolympics/pull/64) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (4 days ago)
+- [chore(structure): move everything from the frontend to root](https://github.com/H1ghBre4k3r/kneipolympics/pull/63) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (4 days ago)
+- [Feature/ghosts](https://github.com/H1ghBre4k3r/pacman-bevy/pull/18) on [H1ghBre4k3r/pacman-bevy](https://github.com/H1ghBre4k3r/pacman-bevy) (6 days ago)
 - [admin-infrastructure](https://github.com/H1ghBre4k3r/kneipolympics/pull/52) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
 - [fix: adjust starting point](https://github.com/H1ghBre4k3r/kneipolympics/pull/46) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
-- [update-navigation-and-registration](https://github.com/H1ghBre4k3r/kneipolympics/pull/45) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
-- [fix: rename newBranchName to newName](https://github.com/gitbutlerapp/gitbutler/pull/7849) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (1 week ago)
+- [update-navigation-and-registration](https://github.com/H1ghBre4k3r/kneipolympics/pull/45) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (2 weeks ago)
+- [fix: rename newBranchName to newName](https://github.com/gitbutlerapp/gitbutler/pull/7849) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [arplaboratory/learning-to-fly](https://github.com/arplaboratory/learning-to-fly) - Training transferable end-to-end quadrotor control policies on a laptop in 18 seconds.  (2 days ago)
-- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web. (6 days ago)
+- [arplaboratory/learning-to-fly](https://github.com/arplaboratory/learning-to-fly) - Training transferable end-to-end quadrotor control policies on a laptop in 18 seconds.  (3 days ago)
+- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web. (1 week ago)
 - [reactjs/react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React (1 week ago)
-- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features (2 weeks ago)
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features (3 weeks ago)
 - [jiegec/usbip](https://github.com/jiegec/usbip) - A Rust library to run a USB/IP server (1 month ago)
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust (1 month ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (1 month ago)
