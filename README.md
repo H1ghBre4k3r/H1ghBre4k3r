@@ -13,10 +13,10 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (3 days ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (3 days ago)
 - [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (3 days ago)
-- [H1ghBre4k3r/higher-order-locks](https://github.com/H1ghBre4k3r/higher-order-locks) - Implementation of the paper &#34;Higher-OrderLeak and DeadlockFree Locks&#34; in Rust 🦀 (3 days ago)
 - [H1ghBre4k3r/rust-map-reduce](https://github.com/H1ghBre4k3r/rust-map-reduce) - A small hobby implementation of MapReduce that I hacked together at 2am. (3 days ago)
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (3 days ago)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (3 days ago)
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (3 days ago)
+- [H1ghBre4k3r/higher-order-locks](https://github.com/H1ghBre4k3r/higher-order-locks) - Implementation of the paper &#34;Higher-OrderLeak and DeadlockFree Locks&#34; in Rust 🦀 (3 days ago)
 
 #### 🌱 My latest projects
 
