@@ -43,6 +43,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [style: update media queries and content width for responsiveness](https://github.com/H1ghBre4k3r/kneipolympics/pull/72) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (today)
 - [allow-editing-of-routes](https://github.com/H1ghBre4k3r/kneipolympics/pull/71) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 day ago)
 - [feat: add new dad joke about billboards](https://github.com/gitbutlerapp/gitbutler/pull/8054) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (6 days ago)
 - [feat: add new dad joke about billboards](https://github.com/H1ghBre4k3r/gitbutler/pull/4) on [H1ghBre4k3r/gitbutler](https://github.com/H1ghBre4k3r/gitbutler) (6 days ago)
@@ -52,7 +53,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Feature/ghosts](https://github.com/H1ghBre4k3r/pacman-bevy/pull/18) on [H1ghBre4k3r/pacman-bevy](https://github.com/H1ghBre4k3r/pacman-bevy) (1 week ago)
 - [admin-infrastructure](https://github.com/H1ghBre4k3r/kneipolympics/pull/52) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (2 weeks ago)
 - [fix: adjust starting point](https://github.com/H1ghBre4k3r/kneipolympics/pull/46) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (2 weeks ago)
-- [update-navigation-and-registration](https://github.com/H1ghBre4k3r/kneipolympics/pull/45) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
