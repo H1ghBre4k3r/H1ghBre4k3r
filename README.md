@@ -12,11 +12,11 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (4 days ago)
 - [pesca-dev/decentnoobbot](https://github.com/pesca-dev/decentnoobbot) - A small Discord bot written in Rust. (5 days ago)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (6 days ago)
+- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (6 days ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (6 days ago)
-- [H1ghBre4k3r/higher-order-locks](https://github.com/H1ghBre4k3r/higher-order-locks) - Implementation of the paper &#34;Higher-OrderLeak and DeadlockFree Locks&#34; in Rust 🦀 (6 days ago)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (6 days ago)
 - [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) - A website for viewing advent of code submissions of (Halb-)Offizieller-CAU-Informatik-Server™. (6 days ago)
-- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (6 days ago)
+- [H1ghBre4k3r/higher-order-locks](https://github.com/H1ghBre4k3r/higher-order-locks) - Implementation of the paper &#34;Higher-OrderLeak and DeadlockFree Locks&#34; in Rust 🦀 (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -43,6 +43,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [feat: refactor route creation to use functions context](https://github.com/H1ghBre4k3r/kneipolympics/pull/74) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (today)
 - [feat: manage bar order and cleanup in ConcreteRoute](https://github.com/H1ghBre4k3r/kneipolympics/pull/73) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (today)
 - [style: update media queries and content width for responsiveness](https://github.com/H1ghBre4k3r/kneipolympics/pull/72) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (today)
 - [allow-editing-of-routes](https://github.com/H1ghBre4k3r/kneipolympics/pull/71) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 day ago)
@@ -52,7 +53,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [adjust-admin-interface](https://github.com/H1ghBre4k3r/kneipolympics/pull/64) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
 - [chore(structure): move everything from the frontend to root](https://github.com/H1ghBre4k3r/kneipolympics/pull/63) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
 - [Feature/ghosts](https://github.com/H1ghBre4k3r/pacman-bevy/pull/18) on [H1ghBre4k3r/pacman-bevy](https://github.com/H1ghBre4k3r/pacman-bevy) (1 week ago)
-- [admin-infrastructure](https://github.com/H1ghBre4k3r/kneipolympics/pull/52) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
