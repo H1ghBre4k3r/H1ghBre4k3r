@@ -8,7 +8,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 #### 👷 Check out what I'm currently working on
 
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) - Lightweight library for creating fast WebComponents. (today)
-- [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) - Repository containing all information about the technical part for the Kneipolympics. (2 days ago)
+- [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) - Repository containing all information about the technical part for the Kneipolympics. (today)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (3 days ago)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (3 days ago)
 - [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (6 days ago)
@@ -43,6 +43,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [display-current-route](https://github.com/H1ghBre4k3r/kneipolympics/pull/80) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (today)
 - [feat(contestantList): separate contestants into competitive groups](https://github.com/H1ghBre4k3r/kneipolympics/pull/79) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 day ago)
 - [feat(info): disable join/leave buttons after deadline](https://github.com/H1ghBre4k3r/kneipolympics/pull/78) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (2 days ago)
 - [feat: add needsSubmission functionality to bar management](https://github.com/H1ghBre4k3r/kneipolympics/pull/76) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
@@ -52,7 +53,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [style: update media queries and content width for responsiveness](https://github.com/H1ghBre4k3r/kneipolympics/pull/72) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
 - [allow-editing-of-routes](https://github.com/H1ghBre4k3r/kneipolympics/pull/71) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
 - [feat: add new dad joke about billboards](https://github.com/gitbutlerapp/gitbutler/pull/8054) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (1 week ago)
-- [feat: add new dad joke about billboards](https://github.com/H1ghBre4k3r/gitbutler/pull/4) on [H1ghBre4k3r/gitbutler](https://github.com/H1ghBre4k3r/gitbutler) (1 week ago)
 
 #### ⭐ Recent Stars
 
