@@ -43,6 +43,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [show-point-input-only-if-required](https://github.com/H1ghBre4k3r/kneipolympics/pull/82) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (today)
 - [submission-admin-interface](https://github.com/H1ghBre4k3r/kneipolympics/pull/81) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (today)
 - [display-current-route](https://github.com/H1ghBre4k3r/kneipolympics/pull/80) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 day ago)
 - [feat(contestantList): separate contestants into competitive groups](https://github.com/H1ghBre4k3r/kneipolympics/pull/79) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (2 days ago)
@@ -52,10 +53,10 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [feat: refactor route creation to use functions context](https://github.com/H1ghBre4k3r/kneipolympics/pull/74) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
 - [feat: manage bar order and cleanup in ConcreteRoute](https://github.com/H1ghBre4k3r/kneipolympics/pull/73) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
 - [style: update media queries and content width for responsiveness](https://github.com/H1ghBre4k3r/kneipolympics/pull/72) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
-- [allow-editing-of-routes](https://github.com/H1ghBre4k3r/kneipolympics/pull/71) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
 
 #### ⭐ Recent Stars
 
+- [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. (today)
 - [rl-tools/rl-tools](https://github.com/rl-tools/rl-tools) - The Fastest Deep Reinforcement Learning Library (1 week ago)
 - [arplaboratory/learning-to-fly](https://github.com/arplaboratory/learning-to-fly) - Training transferable end-to-end quadrotor control policies on a laptop in 18 seconds.  (2 weeks ago)
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web. (2 weeks ago)
@@ -65,7 +66,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust (2 months ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (2 months ago)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference (2 months ago)
-- [gitgitgadget/gitgitgadget](https://github.com/gitgitgadget/gitgitgadget) - Sending GitHub PRs to the Git mailing list (3 months ago)
 
 #### 📫 How to reach me
 
