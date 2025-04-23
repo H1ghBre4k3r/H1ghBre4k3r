@@ -7,7 +7,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) - Repository containing all information about the technical part for the Kneipolympics. (1 day ago)
+- [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) - Repository containing all information about the technical part for the Kneipolympics. (today)
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) - Lightweight library for creating fast WebComponents. (2 days ago)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (5 days ago)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (5 days ago)
@@ -43,6 +43,9 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [fix(contestantList): add dependency to useEffect hook](https://github.com/H1ghBre4k3r/kneipolympics/pull/85) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (today)
+- [Smoking preference indicator](https://github.com/H1ghBre4k3r/kneipolympics/pull/84) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (today)
+- [feat(routeList): sort bars according to route order](https://github.com/H1ghBre4k3r/kneipolympics/pull/83) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (today)
 - [show-point-input-only-if-required](https://github.com/H1ghBre4k3r/kneipolympics/pull/82) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 day ago)
 - [submission-admin-interface](https://github.com/H1ghBre4k3r/kneipolympics/pull/81) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 day ago)
 - [display-current-route](https://github.com/H1ghBre4k3r/kneipolympics/pull/80) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (2 days ago)
@@ -50,9 +53,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [feat(info): disable join/leave buttons after deadline](https://github.com/H1ghBre4k3r/kneipolympics/pull/78) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (4 days ago)
 - [feat: add needsSubmission functionality to bar management](https://github.com/H1ghBre4k3r/kneipolympics/pull/76) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
 - [add-contestants-to-team](https://github.com/H1ghBre4k3r/kneipolympics/pull/75) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
-- [feat: refactor route creation to use functions context](https://github.com/H1ghBre4k3r/kneipolympics/pull/74) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
-- [feat: manage bar order and cleanup in ConcreteRoute](https://github.com/H1ghBre4k3r/kneipolympics/pull/73) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
-- [style: update media queries and content width for responsiveness](https://github.com/H1ghBre4k3r/kneipolympics/pull/72) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
 
 #### ⭐ Recent Stars
 
