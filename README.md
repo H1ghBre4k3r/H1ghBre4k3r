@@ -7,9 +7,9 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) - A new fancy and not at all useful programming language. (4 days ago)
+- [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) - A new fancy and not at all useful programming language. (5 days ago)
 - [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) - Repository containing all information about the technical part for the Kneipolympics. (1 week ago)
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (1 week ago)
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (2 weeks ago)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (2 weeks ago)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (2 weeks ago)
 - [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (2 weeks ago)
@@ -43,13 +43,13 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [chore(deps): add daily updates for GitHub Actions](https://github.com/H1ghBre4k3r/pesca-lang/pull/176) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (5 days ago)
-- [chore: update tower-lsp dependency and fix imports](https://github.com/H1ghBre4k3r/pesca-lang/pull/175) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (5 days ago)
+- [chore(deps): add daily updates for GitHub Actions](https://github.com/H1ghBre4k3r/pesca-lang/pull/176) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (6 days ago)
+- [chore: update tower-lsp dependency and fix imports](https://github.com/H1ghBre4k3r/pesca-lang/pull/175) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (6 days ago)
 - [add-scoreboard-component-and-points-function](https://github.com/H1ghBre4k3r/kneipolympics/pull/91) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
 - [handle-optional-submission-create-update](https://github.com/H1ghBre4k3r/kneipolympics/pull/90) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
-- [submission-ui-improvements](https://github.com/H1ghBre4k3r/kneipolympics/pull/88) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (1 week ago)
-- [docs: add new dad joke about a sad cocktail](https://github.com/H1ghBre4k3r/gitbutler/pull/5) on [H1ghBre4k3r/gitbutler](https://github.com/H1ghBre4k3r/gitbutler) (1 week ago)
-- [docs: add new dad joke about a sad cocktail](https://github.com/gitbutlerapp/gitbutler/pull/8267) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (1 week ago)
+- [submission-ui-improvements](https://github.com/H1ghBre4k3r/kneipolympics/pull/88) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (2 weeks ago)
+- [docs: add new dad joke about a sad cocktail](https://github.com/H1ghBre4k3r/gitbutler/pull/5) on [H1ghBre4k3r/gitbutler](https://github.com/H1ghBre4k3r/gitbutler) (2 weeks ago)
+- [docs: add new dad joke about a sad cocktail](https://github.com/gitbutlerapp/gitbutler/pull/8267) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (2 weeks ago)
 - [fix(contestantList): add dependency to useEffect hook](https://github.com/H1ghBre4k3r/kneipolympics/pull/85) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (2 weeks ago)
 - [Smoking preference indicator](https://github.com/H1ghBre4k3r/kneipolympics/pull/84) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (2 weeks ago)
 - [feat(routeList): sort bars according to route order](https://github.com/H1ghBre4k3r/kneipolympics/pull/83) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (2 weeks ago)
