@@ -10,13 +10,13 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) - A new fancy and not at all useful programming language. (1 week ago)
 - [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) - Repository containing all information about the technical part for the Kneipolympics. (2 weeks ago)
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (2 weeks ago)
-- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (2 weeks ago)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (2 weeks ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (2 weeks ago)
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - Compiler for the (rather new and very experimental) Y programming language.  (2 weeks ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (2 weeks ago)
+- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (2 weeks ago)
 - [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (2 weeks ago)
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) - Lightweight library for creating fast WebComponents. (2 weeks ago)
-- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (3 weeks ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -39,7 +39,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) ([v0.1.0](https://github.com/H1ghBre4k3r/pesca-lang/releases/tag/v0.1.0), 1 year ago) - A new fancy and not at all useful programming language.
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) ([v0.1.3](https://github.com/H1ghBre4k3r/y-lang/releases/tag/v0.1.3), 2 years ago) - Compiler for the (rather new and very experimental) Y programming language. 
 - [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) ([v0.2.1](https://github.com/pesca-dev/moneyboy-app/releases/tag/v0.2.1), 3 years ago) - The mobile app for MoneyBoy - a tool to track spendings between different people.
-- [H1ghBre4k3r/typescript-decorators](https://github.com/H1ghBre4k3r/typescript-decorators) ([v0.2.0](https://github.com/H1ghBre4k3r/typescript-decorators/releases/tag/v0.2.0), 3 years ago) - Utility decorators for TypeScript.
 
 #### 🔨 My recent Pull Requests
 
