@@ -42,6 +42,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [fix: only specify permissions once](https://github.com/H1ghBre4k3r/pesca-lang/pull/185) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (today)
 - [Potential fix for code scanning alert no. 2: Workflow does not contain permissions](https://github.com/H1ghBre4k3r/pesca-lang/pull/184) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 day ago)
 - [Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/H1ghBre4k3r/pesca-lang/pull/183) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 day ago)
 - [Potential fix for code scanning alert no. 6: Workflow does not contain permissions](https://github.com/H1ghBre4k3r/pesca-lang/pull/182) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 day ago)
@@ -51,7 +52,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [chore: update tower-lsp dependency and fix imports](https://github.com/H1ghBre4k3r/pesca-lang/pull/175) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 weeks ago)
 - [add-scoreboard-component-and-points-function](https://github.com/H1ghBre4k3r/kneipolympics/pull/91) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (3 weeks ago)
 - [handle-optional-submission-create-update](https://github.com/H1ghBre4k3r/kneipolympics/pull/90) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (3 weeks ago)
-- [submission-ui-improvements](https://github.com/H1ghBre4k3r/kneipolympics/pull/88) on [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
