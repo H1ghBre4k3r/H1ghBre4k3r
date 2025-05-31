@@ -33,7 +33,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.14.27](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.14.27), today) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.14.27](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.14.27), 1 day ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) ([v0.1.4](https://github.com/H1ghBre4k3r/lachs/releases/tag/v0.1.4), 4 months ago) - Lightweight lexer generator for Rust written in Rust 🦀
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) ([v0.1.5](https://github.com/pesca-dev/atomicity/releases/tag/v0.1.5), 5 months ago) - Lightweight library for creating fast WebComponents.
 - [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) ([v0.1.0](https://github.com/H1ghBre4k3r/pesca-lang/releases/tag/v0.1.0), 1 year ago) - A new fancy and not at all useful programming language.
@@ -42,7 +42,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [Make AST Serializable](https://github.com/H1ghBre4k3r/pesca-lang/pull/188) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (6 days ago)
+- [Make AST Serializable](https://github.com/H1ghBre4k3r/pesca-lang/pull/188) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 week ago)
 - [Validate type checked AST](https://github.com/H1ghBre4k3r/pesca-lang/pull/187) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 week ago)
 - [String Support](https://github.com/H1ghBre4k3r/pesca-lang/pull/186) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 week ago)
 - [test-123](https://github.com/H1ghBre4k3r/gitbutler/pull/6) on [H1ghBre4k3r/gitbutler](https://github.com/H1ghBre4k3r/gitbutler) (1 week ago)
