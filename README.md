@@ -7,7 +7,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (4 days ago)
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (5 days ago)
 - [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) - A new fancy and not at all useful programming language. (1 week ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (3 weeks ago)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (3 weeks ago)
@@ -42,8 +42,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [Dad-Joke: Add a winy one](https://github.com/gitbutlerapp/gitbutler/pull/8870) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (5 days ago)
-- [Make AST Serializable](https://github.com/H1ghBre4k3r/pesca-lang/pull/188) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 week ago)
+- [Dad-Joke: Add a winy one](https://github.com/gitbutlerapp/gitbutler/pull/8870) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (6 days ago)
+- [Make AST Serializable](https://github.com/H1ghBre4k3r/pesca-lang/pull/188) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 weeks ago)
 - [Validate type checked AST](https://github.com/H1ghBre4k3r/pesca-lang/pull/187) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 weeks ago)
 - [String Support](https://github.com/H1ghBre4k3r/pesca-lang/pull/186) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 weeks ago)
 - [test-123](https://github.com/H1ghBre4k3r/gitbutler/pull/6) on [H1ghBre4k3r/gitbutler](https://github.com/H1ghBre4k3r/gitbutler) (2 weeks ago)
