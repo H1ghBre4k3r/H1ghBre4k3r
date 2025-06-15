@@ -42,6 +42,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [feat(cli): add flags to print intermediate AST stages](https://github.com/H1ghBre4k3r/pesca-lang/pull/194) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (today)
 - [Dad-Joke: Add a winy one](https://github.com/gitbutlerapp/gitbutler/pull/8870) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (2 weeks ago)
 - [Make AST Serializable](https://github.com/H1ghBre4k3r/pesca-lang/pull/188) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (3 weeks ago)
 - [Validate type checked AST](https://github.com/H1ghBre4k3r/pesca-lang/pull/187) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (3 weeks ago)
@@ -51,7 +52,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Potential fix for code scanning alert no. 2: Workflow does not contain permissions](https://github.com/H1ghBre4k3r/pesca-lang/pull/184) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (3 weeks ago)
 - [Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/H1ghBre4k3r/pesca-lang/pull/183) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (3 weeks ago)
 - [Potential fix for code scanning alert no. 6: Workflow does not contain permissions](https://github.com/H1ghBre4k3r/pesca-lang/pull/182) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (3 weeks ago)
-- [feat: add support for character literals in AST](https://github.com/H1ghBre4k3r/pesca-lang/pull/181) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
