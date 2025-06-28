@@ -60,7 +60,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [rl-tools/rl-tools](https://github.com/rl-tools/rl-tools) - The Fastest Deep Reinforcement Learning Library (2 months ago)
 - [arplaboratory/learning-to-fly](https://github.com/arplaboratory/learning-to-fly) - Training transferable end-to-end quadrotor control policies on a laptop in 18 seconds.  (2 months ago)
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web. (2 months ago)
-- [reactjs/react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React (2 months ago)
+- [reactjs/react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React (3 months ago)
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features (3 months ago)
 - [jiegec/usbip](https://github.com/jiegec/usbip) - A Rust library to run a USB/IP server (4 months ago)
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust (4 months ago)
