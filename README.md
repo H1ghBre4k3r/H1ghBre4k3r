@@ -42,6 +42,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [feat(agent): add configurable address, port, and secret auth](https://github.com/H1ghBre4k3r/server-monitoring/pull/2) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (today)
 - [feat: add average CPU usage and component temperature metrics](https://github.com/H1ghBre4k3r/server-monitoring/pull/1) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (today)
 - [feat(typechecker): add UnsupportedBinaryOperation error for binary ops](https://github.com/H1ghBre4k3r/pesca-lang/pull/201) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 week ago)
 - [Support for Compiler Passes](https://github.com/H1ghBre4k3r/pesca-lang/pull/199) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 weeks ago)
@@ -51,7 +52,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Make AST Serializable](https://github.com/H1ghBre4k3r/pesca-lang/pull/188) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 month ago)
 - [Validate type checked AST](https://github.com/H1ghBre4k3r/pesca-lang/pull/187) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 month ago)
 - [String Support](https://github.com/H1ghBre4k3r/pesca-lang/pull/186) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 month ago)
-- [test-123](https://github.com/H1ghBre4k3r/gitbutler/pull/6) on [H1ghBre4k3r/gitbutler](https://github.com/H1ghBre4k3r/gitbutler) (1 month ago)
 
 #### ⭐ Recent Stars
 
