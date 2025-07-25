@@ -7,7 +7,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) - The server monitoring solution from outer space. (6 days ago)
+- [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) - The server monitoring solution from outer space. (1 week ago)
 - [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) - A new fancy and not at all useful programming language. (2 weeks ago)
 - [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (3 weeks ago)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (3 weeks ago)
@@ -33,7 +33,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.15.4](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.15.4), 2 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.15.4](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.15.4), 3 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) ([v0.1.4](https://github.com/H1ghBre4k3r/lachs/releases/tag/v0.1.4), 6 months ago) - Lightweight lexer generator for Rust written in Rust 🦀
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) ([v0.1.5](https://github.com/pesca-dev/atomicity/releases/tag/v0.1.5), 7 months ago) - Lightweight library for creating fast WebComponents.
 - [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) ([v0.1.0](https://github.com/H1ghBre4k3r/pesca-lang/releases/tag/v0.1.0), 2 years ago) - A new fancy and not at all useful programming language.
@@ -42,8 +42,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [feat(agent): add configurable address, port, and secret auth](https://github.com/H1ghBre4k3r/server-monitoring/pull/2) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (6 days ago)
-- [feat: add average CPU usage and component temperature metrics](https://github.com/H1ghBre4k3r/server-monitoring/pull/1) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (6 days ago)
+- [feat(agent): add configurable address, port, and secret auth](https://github.com/H1ghBre4k3r/server-monitoring/pull/2) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (1 week ago)
+- [feat: add average CPU usage and component temperature metrics](https://github.com/H1ghBre4k3r/server-monitoring/pull/1) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (1 week ago)
 - [feat(typechecker): add UnsupportedBinaryOperation error for binary ops](https://github.com/H1ghBre4k3r/pesca-lang/pull/201) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (2 weeks ago)
 - [Support for Compiler Passes](https://github.com/H1ghBre4k3r/pesca-lang/pull/199) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (3 weeks ago)
 - [feat: add LLVM codegen support with inkwell integration](https://github.com/H1ghBre4k3r/pesca-lang/pull/197) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (3 weeks ago)
