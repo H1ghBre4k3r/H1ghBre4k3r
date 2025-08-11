@@ -7,7 +7,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (3 days ago)
+- [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (today)
 - [H1ghBre4k3r/rust-map-reduce](https://github.com/H1ghBre4k3r/rust-map-reduce) - A small hobby implementation of MapReduce that I hacked together at 2am. (1 week ago)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (1 week ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 week ago)
@@ -42,6 +42,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [fix: regressions regarding tungstenite](https://github.com/H1ghBre4k3r/disruption/pull/327) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (today)
 - [fix: use correct symbol for referencing branches on forges](https://github.com/gitbutlerapp/gitbutler/pull/9596) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (2 weeks ago)
 - [feat(limit-monitor): add resource limit monitoring with grace periods](https://github.com/H1ghBre4k3r/server-monitoring/pull/5) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (2 weeks ago)
 - [feat: add server monitoring hub with config and async polling](https://github.com/H1ghBre4k3r/server-monitoring/pull/4) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (2 weeks ago)
@@ -51,7 +52,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Support for Compiler Passes](https://github.com/H1ghBre4k3r/pesca-lang/pull/199) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 month ago)
 - [feat: add LLVM codegen support with inkwell integration](https://github.com/H1ghBre4k3r/pesca-lang/pull/197) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 month ago)
 - [feat(cli): add flags to print intermediate AST stages](https://github.com/H1ghBre4k3r/pesca-lang/pull/194) on [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) (1 month ago)
-- [Dad-Joke: Add a winy one](https://github.com/gitbutlerapp/gitbutler/pull/8870) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (2 months ago)
 
 #### ⭐ Recent Stars
 
