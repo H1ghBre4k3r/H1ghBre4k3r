@@ -33,7 +33,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.15.10](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.15.10), 3 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.15.10](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.15.10), 4 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) ([v0.1.4](https://github.com/H1ghBre4k3r/lachs/releases/tag/v0.1.4), 7 months ago) - Lightweight lexer generator for Rust written in Rust 🦀
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) ([v0.1.5](https://github.com/pesca-dev/atomicity/releases/tag/v0.1.5), 7 months ago) - Lightweight library for creating fast WebComponents.
 - [H1ghBre4k3r/pesca-lang](https://github.com/H1ghBre4k3r/pesca-lang) ([v0.1.0](https://github.com/H1ghBre4k3r/pesca-lang/releases/tag/v0.1.0), 2 years ago) - A new fancy and not at all useful programming language.
@@ -42,7 +42,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [fix: regressions regarding tungstenite](https://github.com/H1ghBre4k3r/disruption/pull/327) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (today)
+- [fix: regressions regarding tungstenite](https://github.com/H1ghBre4k3r/disruption/pull/327) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (1 day ago)
 - [fix: use correct symbol for referencing branches on forges](https://github.com/gitbutlerapp/gitbutler/pull/9596) on [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) (2 weeks ago)
 - [feat(limit-monitor): add resource limit monitoring with grace periods](https://github.com/H1ghBre4k3r/server-monitoring/pull/5) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (2 weeks ago)
 - [feat: add server monitoring hub with config and async polling](https://github.com/H1ghBre4k3r/server-monitoring/pull/4) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (2 weeks ago)
@@ -64,7 +64,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features (4 months ago)
 - [jiegec/usbip](https://github.com/jiegec/usbip) - A Rust library to run a USB/IP server (5 months ago)
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust (5 months ago)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (5 months ago)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (6 months ago)
 
 #### 📫 How to reach me
 
