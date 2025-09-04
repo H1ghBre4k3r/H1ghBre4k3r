@@ -42,6 +42,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Add directory formatting support to yfmt](https://github.com/H1ghBre4k3r/y-lang/pull/226) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (today)
 - [feat(yfmt): Implement command-line interface for the formatter](https://github.com/H1ghBre4k3r/y-lang/pull/224) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 day ago)
 - [language-formatting](https://github.com/H1ghBre4k3r/y-lang/pull/223) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 days ago)
 - [feat(lang): rename Pesca to Y](https://github.com/H1ghBre4k3r/y-lang/pull/217) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 weeks ago)
@@ -51,7 +52,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [feat: add server monitoring hub with config and async polling](https://github.com/H1ghBre4k3r/server-monitoring/pull/4) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (1 month ago)
 - [feat(agent): add configurable address, port, and secret auth](https://github.com/H1ghBre4k3r/server-monitoring/pull/2) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (1 month ago)
 - [feat: add average CPU usage and component temperature metrics](https://github.com/H1ghBre4k3r/server-monitoring/pull/1) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (1 month ago)
-- [feat(typechecker): add UnsupportedBinaryOperation error for binary ops](https://github.com/H1ghBre4k3r/y-lang/pull/201) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 month ago)
 
 #### ⭐ Recent Stars
 
