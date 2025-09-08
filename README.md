@@ -42,6 +42,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [feat(alerts): Enhance Discord alerts with user mentions and progress bars](https://github.com/H1ghBre4k3r/server-monitoring/pull/20) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (today)
 - [feat: Add directory formatting support to yfmt](https://github.com/H1ghBre4k3r/y-lang/pull/226) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (4 days ago)
 - [feat(yfmt): Implement command-line interface for the formatter](https://github.com/H1ghBre4k3r/y-lang/pull/224) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (5 days ago)
 - [language-formatting](https://github.com/H1ghBre4k3r/y-lang/pull/223) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (6 days ago)
@@ -51,7 +52,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [feat(limit-monitor): add resource limit monitoring with grace periods](https://github.com/H1ghBre4k3r/server-monitoring/pull/5) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (1 month ago)
 - [feat: add server monitoring hub with config and async polling](https://github.com/H1ghBre4k3r/server-monitoring/pull/4) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (1 month ago)
 - [feat(agent): add configurable address, port, and secret auth](https://github.com/H1ghBre4k3r/server-monitoring/pull/2) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (1 month ago)
-- [feat: add average CPU usage and component temperature metrics](https://github.com/H1ghBre4k3r/server-monitoring/pull/1) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (1 month ago)
 
 #### ⭐ Recent Stars
 
