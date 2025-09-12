@@ -7,8 +7,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) - The server monitoring solution from outer space. (1 day ago)
-- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - A new fancy and not at all useful programming language. (2 days ago)
+- [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) - The server monitoring solution from outer space. (2 days ago)
+- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - A new fancy and not at all useful programming language. (3 days ago)
 - [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) - The (TypeScript) backend for MoneyBoy. (3 weeks ago)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (3 weeks ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (3 weeks ago)
@@ -33,7 +33,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.16.0](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.16.0), today) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.16.0](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.16.0), 1 day ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) ([v0.1.4](https://github.com/H1ghBre4k3r/lachs/releases/tag/v0.1.4), 8 months ago) - Lightweight lexer generator for Rust written in Rust 🦀
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) ([v0.1.5](https://github.com/pesca-dev/atomicity/releases/tag/v0.1.5), 8 months ago) - Lightweight library for creating fast WebComponents.
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) ([v0.1.0](https://github.com/H1ghBre4k3r/y-lang/releases/tag/v0.1.0), 2 years ago) - A new fancy and not at all useful programming language.
@@ -42,9 +42,9 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [feat(install): Update agent configuration options](https://github.com/H1ghBre4k3r/server-monitoring/pull/23) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (2 days ago)
-- [transfer-to-tree-sitter](https://github.com/H1ghBre4k3r/y-lang/pull/227) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 days ago)
-- [feat(alerts): Enhance Discord alerts with user mentions and progress bars](https://github.com/H1ghBre4k3r/server-monitoring/pull/20) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (3 days ago)
+- [feat(install): Update agent configuration options](https://github.com/H1ghBre4k3r/server-monitoring/pull/23) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (3 days ago)
+- [transfer-to-tree-sitter](https://github.com/H1ghBre4k3r/y-lang/pull/227) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (3 days ago)
+- [feat(alerts): Enhance Discord alerts with user mentions and progress bars](https://github.com/H1ghBre4k3r/server-monitoring/pull/20) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (4 days ago)
 - [feat: Add directory formatting support to yfmt](https://github.com/H1ghBre4k3r/y-lang/pull/226) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 week ago)
 - [feat(yfmt): Implement command-line interface for the formatter](https://github.com/H1ghBre4k3r/y-lang/pull/224) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 week ago)
 - [language-formatting](https://github.com/H1ghBre4k3r/y-lang/pull/223) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 week ago)
