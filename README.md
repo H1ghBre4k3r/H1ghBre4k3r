@@ -7,8 +7,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) - The server monitoring solution from outer space. (2 days ago)
-- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - A new fancy and not at all useful programming language. (3 days ago)
+- [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) - The server monitoring solution from outer space. (3 days ago)
+- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - A new fancy and not at all useful programming language. (4 days ago)
 - [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) - The (TypeScript) backend for MoneyBoy. (3 weeks ago)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (3 weeks ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (3 weeks ago)
@@ -33,7 +33,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.16.1](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.16.1), today) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.16.1](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.16.1), 1 day ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) ([v0.1.4](https://github.com/H1ghBre4k3r/lachs/releases/tag/v0.1.4), 8 months ago) - Lightweight lexer generator for Rust written in Rust 🦀
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) ([v0.1.5](https://github.com/pesca-dev/atomicity/releases/tag/v0.1.5), 8 months ago) - Lightweight library for creating fast WebComponents.
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) ([v0.1.0](https://github.com/H1ghBre4k3r/y-lang/releases/tag/v0.1.0), 2 years ago) - A new fancy and not at all useful programming language.
@@ -42,9 +42,9 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [feat(install): Update agent configuration options](https://github.com/H1ghBre4k3r/server-monitoring/pull/23) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (3 days ago)
-- [transfer-to-tree-sitter](https://github.com/H1ghBre4k3r/y-lang/pull/227) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (3 days ago)
-- [feat(alerts): Enhance Discord alerts with user mentions and progress bars](https://github.com/H1ghBre4k3r/server-monitoring/pull/20) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (4 days ago)
+- [feat(install): Update agent configuration options](https://github.com/H1ghBre4k3r/server-monitoring/pull/23) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (4 days ago)
+- [transfer-to-tree-sitter](https://github.com/H1ghBre4k3r/y-lang/pull/227) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (4 days ago)
+- [feat(alerts): Enhance Discord alerts with user mentions and progress bars](https://github.com/H1ghBre4k3r/server-monitoring/pull/20) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (5 days ago)
 - [feat: Add directory formatting support to yfmt](https://github.com/H1ghBre4k3r/y-lang/pull/226) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 week ago)
 - [feat(yfmt): Implement command-line interface for the formatter](https://github.com/H1ghBre4k3r/y-lang/pull/224) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 week ago)
 - [language-formatting](https://github.com/H1ghBre4k3r/y-lang/pull/223) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 week ago)
@@ -55,7 +55,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons (3 months ago)
+- [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons (4 months ago)
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don&#39;t be shy, join here: https://discord.com/invite/NAb6H3UTjK :) (4 months ago)
 - [rl-tools/rl-tools](https://github.com/rl-tools/rl-tools) - The Fastest Deep Reinforcement Learning Library (5 months ago)
 - [arplaboratory/learning-to-fly](https://github.com/arplaboratory/learning-to-fly) - Training transferable end-to-end quadrotor control policies on a laptop in 18 seconds.  (5 months ago)
@@ -63,7 +63,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [reactjs/react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React (5 months ago)
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features (5 months ago)
 - [jiegec/usbip](https://github.com/jiegec/usbip) - A Rust library to run a USB/IP server (6 months ago)
-- [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust (6 months ago)
+- [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust (7 months ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (7 months ago)
 
 #### 📫 How to reach me
