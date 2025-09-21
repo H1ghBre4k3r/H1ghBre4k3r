@@ -42,6 +42,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Add support for if expressions](https://github.com/H1ghBre4k3r/y-lang/pull/235) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (today)
+- [feature/if-expression-codegen](https://github.com/H1ghBre4k3r/y-lang/pull/234) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (today)
 - [feat: Remove unused `lex_derive` and `token` modules](https://github.com/H1ghBre4k3r/y-lang/pull/233) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (today)
 - [feat(contributing): add comprehensive contributing guide](https://github.com/H1ghBre4k3r/y-lang/pull/232) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (today)
 - [Basic codegen](https://github.com/H1ghBre4k3r/y-lang/pull/231) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (3 days ago)
@@ -50,8 +52,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [feat(alerts): Enhance Discord alerts with user mentions and progress bars](https://github.com/H1ghBre4k3r/server-monitoring/pull/20) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (1 week ago)
 - [feat: Add directory formatting support to yfmt](https://github.com/H1ghBre4k3r/y-lang/pull/226) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 weeks ago)
 - [feat(yfmt): Implement command-line interface for the formatter](https://github.com/H1ghBre4k3r/y-lang/pull/224) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 weeks ago)
-- [language-formatting](https://github.com/H1ghBre4k3r/y-lang/pull/223) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 weeks ago)
-- [feat(lang): rename Pesca to Y](https://github.com/H1ghBre4k3r/y-lang/pull/217) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 month ago)
 
 #### ⭐ Recent Stars
 
