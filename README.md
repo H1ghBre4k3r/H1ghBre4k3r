@@ -33,8 +33,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.16.6](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.16.6), today) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) ([v0.1.1](https://github.com/H1ghBre4k3r/y-lang/releases/tag/v0.1.1), 1 day ago) - A new fancy and not at all useful programming language.
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.16.5](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.16.5), 4 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) ([v0.1.4](https://github.com/H1ghBre4k3r/lachs/releases/tag/v0.1.4), 8 months ago) - Lightweight lexer generator for Rust written in Rust 🦀
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) ([v0.1.5](https://github.com/pesca-dev/atomicity/releases/tag/v0.1.5), 9 months ago) - Lightweight library for creating fast WebComponents.
 - [H1ghBre4k3r/y-lang-v0](https://github.com/H1ghBre4k3r/y-lang-v0) ([v0.1.3](https://github.com/H1ghBre4k3r/y-lang-v0/releases/tag/v0.1.3), 2 years ago) - Compiler for the (rather new and very experimental) Y programming language. 
