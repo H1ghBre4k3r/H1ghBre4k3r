@@ -7,8 +7,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (3 days ago)
-- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - A new fancy and not at all useful programming language. (6 days ago)
+- [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (4 days ago)
+- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) - A new fancy and not at all useful programming language. (1 week ago)
 - [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) - The server monitoring solution from outer space. (2 weeks ago)
 - [H1ghBre4k3r/y-lang-v0](https://github.com/H1ghBre4k3r/y-lang-v0) - Compiler for the (rather new and very experimental) Y programming language.  (1 month ago)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (1 month ago)
@@ -33,8 +33,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.16.7](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.16.7), 3 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) ([v0.1.1](https://github.com/H1ghBre4k3r/y-lang/releases/tag/v0.1.1), 6 days ago) - A new fancy and not at all useful programming language.
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.16.7](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.16.7), 4 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) ([v0.1.1](https://github.com/H1ghBre4k3r/y-lang/releases/tag/v0.1.1), 1 week ago) - A new fancy and not at all useful programming language.
 - [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) ([v0.1.4](https://github.com/H1ghBre4k3r/lachs/releases/tag/v0.1.4), 8 months ago) - Lightweight lexer generator for Rust written in Rust 🦀
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) ([v0.1.5](https://github.com/pesca-dev/atomicity/releases/tag/v0.1.5), 9 months ago) - Lightweight library for creating fast WebComponents.
 - [H1ghBre4k3r/y-lang-v0](https://github.com/H1ghBre4k3r/y-lang-v0) ([v0.1.3](https://github.com/H1ghBre4k3r/y-lang-v0/releases/tag/v0.1.3), 2 years ago) - Compiler for the (rather new and very experimental) Y programming language. 
@@ -42,8 +42,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [chore(deps): update to edition 2024](https://github.com/H1ghBre4k3r/y-lang/pull/239) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (6 days ago)
-- [feat(ci): add experimental release job](https://github.com/H1ghBre4k3r/y-lang/pull/236) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (6 days ago)
+- [chore(deps): update to edition 2024](https://github.com/H1ghBre4k3r/y-lang/pull/239) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 week ago)
+- [feat(ci): add experimental release job](https://github.com/H1ghBre4k3r/y-lang/pull/236) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 week ago)
 - [feat: Add support for if expressions](https://github.com/H1ghBre4k3r/y-lang/pull/235) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 week ago)
 - [feature/if-expression-codegen](https://github.com/H1ghBre4k3r/y-lang/pull/234) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 week ago)
 - [feat: Remove unused `lex_derive` and `token` modules](https://github.com/H1ghBre4k3r/y-lang/pull/233) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 week ago)
@@ -51,12 +51,12 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Basic codegen](https://github.com/H1ghBre4k3r/y-lang/pull/231) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (1 week ago)
 - [feat(install): Update agent configuration options](https://github.com/H1ghBre4k3r/server-monitoring/pull/23) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (2 weeks ago)
 - [transfer-to-tree-sitter](https://github.com/H1ghBre4k3r/y-lang/pull/227) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 weeks ago)
-- [feat(alerts): Enhance Discord alerts with user mentions and progress bars](https://github.com/H1ghBre4k3r/server-monitoring/pull/20) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (2 weeks ago)
+- [feat(alerts): Enhance Discord alerts with user mentions and progress bars](https://github.com/H1ghBre4k3r/server-monitoring/pull/20) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (4 days ago)
-- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (5 days ago)
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (5 days ago)
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (6 days ago)
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons (4 months ago)
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don&#39;t be shy, join here: https://discord.com/invite/NAb6H3UTjK :) (5 months ago)
 - [rl-tools/rl-tools](https://github.com/rl-tools/rl-tools) - The Fastest Deep Reinforcement Learning Library (5 months ago)
