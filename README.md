@@ -55,6 +55,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (today)
 - [schacon/slidetty](https://github.com/schacon/slidetty) - cli slideshows (today)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (5 days ago)
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (6 days ago)
@@ -64,7 +65,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [arplaboratory/learning-to-fly](https://github.com/arplaboratory/learning-to-fly) - Training transferable end-to-end quadrotor control policies on a laptop in 18 seconds.  (5 months ago)
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web. (5 months ago)
 - [reactjs/react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React (6 months ago)
-- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features (6 months ago)
 
 #### 📫 How to reach me
 
