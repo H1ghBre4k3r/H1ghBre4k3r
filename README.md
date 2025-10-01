@@ -55,6 +55,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [git/git.github.io](https://github.com/git/git.github.io) - Git Developer Pages (This is NOT the place to discuss Git issues. See: https://git-scm.com/community) (today)
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (2 days ago)
 - [schacon/slidetty](https://github.com/schacon/slidetty) - cli slideshows (2 days ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 week ago)
@@ -64,7 +65,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [rl-tools/rl-tools](https://github.com/rl-tools/rl-tools) - The Fastest Deep Reinforcement Learning Library (5 months ago)
 - [arplaboratory/learning-to-fly](https://github.com/arplaboratory/learning-to-fly) - Training transferable end-to-end quadrotor control policies on a laptop in 18 seconds.  (5 months ago)
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web. (6 months ago)
-- [reactjs/react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React (6 months ago)
 
 #### 📫 How to reach me
 
