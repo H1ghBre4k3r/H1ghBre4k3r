@@ -7,16 +7,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (today)
-- [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) - The server monitoring solution from outer space. (today)
-- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (today)
-- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (today)
-- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (today)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (today)
-- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (2 days ago)
-- [H1ghBre4k3r/aoc-2024](https://github.com/H1ghBre4k3r/aoc-2024) - My submissions for Advent of Code 20024. (6 days ago)
-- [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) - A website for viewing advent of code submissions of (Halb-)Offizieller-CAU-Informatik-Server™. (6 days ago)
-- [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) - The (TypeScript) backend for MoneyBoy. (6 days ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 day ago)
+- [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) - The server monitoring solution from outer space. (1 day ago)
+- [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (1 day ago)
+- [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (1 day ago)
+- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (1 day ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (1 day ago)
+- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (3 days ago)
+- [H1ghBre4k3r/aoc-2024](https://github.com/H1ghBre4k3r/aoc-2024) - My submissions for Advent of Code 20024. (1 week ago)
+- [pesca-dev/aoc-website](https://github.com/pesca-dev/aoc-website) - A website for viewing advent of code submissions of (Halb-)Offizieller-CAU-Informatik-Server™. (1 week ago)
+- [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) - The (TypeScript) backend for MoneyBoy. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -42,9 +42,9 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [tui-dashboard-with-websocket-streaming](https://github.com/H1ghBre4k3r/server-monitoring/pull/34) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (today)
-- [metrics-api](https://github.com/H1ghBre4k3r/server-monitoring/pull/33) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (1 day ago)
-- [Actor refactoring](https://github.com/H1ghBre4k3r/server-monitoring/pull/32) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (1 day ago)
+- [tui-dashboard-with-websocket-streaming](https://github.com/H1ghBre4k3r/server-monitoring/pull/34) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (1 day ago)
+- [metrics-api](https://github.com/H1ghBre4k3r/server-monitoring/pull/33) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (2 days ago)
+- [Actor refactoring](https://github.com/H1ghBre4k3r/server-monitoring/pull/32) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (2 days ago)
 - [chore(deps): update to edition 2024](https://github.com/H1ghBre4k3r/y-lang/pull/239) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 weeks ago)
 - [feat(ci): add experimental release job](https://github.com/H1ghBre4k3r/y-lang/pull/236) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 weeks ago)
 - [feat: Add support for if expressions](https://github.com/H1ghBre4k3r/y-lang/pull/235) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 weeks ago)
@@ -55,12 +55,12 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [ghuntley/cursed](https://github.com/ghuntley/cursed) - the 💀 cursed programming language: programming, but make it gen z (4 days ago)
-- [git/git.github.io](https://github.com/git/git.github.io) - Git Developer Pages (This is NOT the place to discuss Git issues. See: https://git-scm.com/community) (5 days ago)
+- [ghuntley/cursed](https://github.com/ghuntley/cursed) - the 💀 cursed programming language: programming, but make it gen z (5 days ago)
+- [git/git.github.io](https://github.com/git/git.github.io) - Git Developer Pages (This is NOT the place to discuss Git issues. See: https://git-scm.com/community) (6 days ago)
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (1 week ago)
 - [schacon/slidetty](https://github.com/schacon/slidetty) - cli slideshows (1 week ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 week ago)
-- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (1 week ago)
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (2 weeks ago)
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons (4 months ago)
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don&#39;t be shy, join here: https://discord.com/invite/NAb6H3UTjK :) (5 months ago)
 - [rl-tools/rl-tools](https://github.com/rl-tools/rl-tools) - The Fastest Deep Reinforcement Learning Library (5 months ago)
