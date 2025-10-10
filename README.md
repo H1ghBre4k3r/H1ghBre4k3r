@@ -42,6 +42,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [h-branch-2](https://github.com/H1ghBre4k3r/lome.dev/pull/173) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (today)
 - [refactor(components): Simplify GitHub stats and achievements rendering](https://github.com/H1ghBre4k3r/lome.dev/pull/172) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (today)
 - [hero-terminal-interactive-typing](https://github.com/H1ghBre4k3r/lome.dev/pull/170) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (1 day ago)
 - [header-mobile-responsive-styling](https://github.com/H1ghBre4k3r/lome.dev/pull/169) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (1 day ago)
@@ -51,7 +52,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [Actor refactoring](https://github.com/H1ghBre4k3r/server-monitoring/pull/32) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (5 days ago)
 - [chore(deps): update to edition 2024](https://github.com/H1ghBre4k3r/y-lang/pull/239) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 weeks ago)
 - [feat(ci): add experimental release job](https://github.com/H1ghBre4k3r/y-lang/pull/236) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 weeks ago)
-- [feat: Add support for if expressions](https://github.com/H1ghBre4k3r/y-lang/pull/235) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
