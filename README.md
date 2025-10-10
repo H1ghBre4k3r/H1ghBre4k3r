@@ -7,16 +7,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
+- [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) - Lightweight library for creating fast WebComponents. (today)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (today)
 - [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) - The server monitoring solution from outer space. (2 days ago)
-- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (4 days ago)
-- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (4 days ago)
+- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (4 days ago)
 - [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (4 days ago)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (4 days ago)
-- [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (4 days ago)
+- [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (4 days ago)
+- [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (4 days ago)
 - [H1ghBre4k3r/esp-homekit-rs](https://github.com/H1ghBre4k3r/esp-homekit-rs) -  (6 days ago)
-- [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) - Repository containing all information about the technical part for the Kneipolympics. (1 week ago)
-- [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) - The mobile app for MoneyBoy - a tool to track spendings between different people. (1 week ago)
+- [pesca-dev/moneyboy-backend](https://github.com/pesca-dev/moneyboy-backend) - The (TypeScript) backend for MoneyBoy. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -42,6 +42,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [refactor(components): Simplify GitHub stats and achievements rendering](https://github.com/H1ghBre4k3r/lome.dev/pull/172) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (today)
 - [hero-terminal-interactive-typing](https://github.com/H1ghBre4k3r/lome.dev/pull/170) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (1 day ago)
 - [header-mobile-responsive-styling](https://github.com/H1ghBre4k3r/lome.dev/pull/169) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (1 day ago)
 - [docker-support](https://github.com/H1ghBre4k3r/server-monitoring/pull/40) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (3 days ago)
@@ -51,7 +52,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [chore(deps): update to edition 2024](https://github.com/H1ghBre4k3r/y-lang/pull/239) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 weeks ago)
 - [feat(ci): add experimental release job](https://github.com/H1ghBre4k3r/y-lang/pull/236) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 weeks ago)
 - [feat: Add support for if expressions](https://github.com/H1ghBre4k3r/y-lang/pull/235) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 weeks ago)
-- [feature/if-expression-codegen](https://github.com/H1ghBre4k3r/y-lang/pull/234) on [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
