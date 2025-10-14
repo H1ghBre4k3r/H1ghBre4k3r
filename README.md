@@ -7,16 +7,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (today)
-- [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) - The server monitoring solution from outer space. (today)
-- [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) - Lightweight library for creating fast WebComponents. (2 days ago)
+- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (1 day ago)
+- [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) - The server monitoring solution from outer space. (1 day ago)
+- [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) - Lightweight library for creating fast WebComponents. (3 days ago)
 - [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (1 week ago)
 - [H1ghBre4k3r/lighthouse.js](https://github.com/H1ghBre4k3r/lighthouse.js) - A simple and easy to use JavaScript wrapper around the CAU Lighthouse API (1 week ago)
 - [H1ghBre4k3r/decorator-components](https://github.com/H1ghBre4k3r/decorator-components) - Lightweight TypeScript decorators to use with WebComponents. (1 week ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 week ago)
 - [H1ghBre4k3r/dependory](https://github.com/H1ghBre4k3r/dependory) - A featherweight yet powerful dependency injection framework. (1 week ago)
 - [H1ghBre4k3r/esp-homekit-rs](https://github.com/H1ghBre4k3r/esp-homekit-rs) -  (1 week ago)
-- [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) - The mobile app for MoneyBoy - a tool to track spendings between different people. (1 week ago)
+- [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) - The mobile app for MoneyBoy - a tool to track spendings between different people. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -42,11 +42,11 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [h-branch-2](https://github.com/H1ghBre4k3r/lome.dev/pull/173) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (3 days ago)
-- [refactor(components): Simplify GitHub stats and achievements rendering](https://github.com/H1ghBre4k3r/lome.dev/pull/172) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (3 days ago)
-- [hero-terminal-interactive-typing](https://github.com/H1ghBre4k3r/lome.dev/pull/170) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (4 days ago)
-- [header-mobile-responsive-styling](https://github.com/H1ghBre4k3r/lome.dev/pull/169) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (4 days ago)
-- [docker-support](https://github.com/H1ghBre4k3r/server-monitoring/pull/40) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (6 days ago)
+- [h-branch-2](https://github.com/H1ghBre4k3r/lome.dev/pull/173) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (4 days ago)
+- [refactor(components): Simplify GitHub stats and achievements rendering](https://github.com/H1ghBre4k3r/lome.dev/pull/172) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (4 days ago)
+- [hero-terminal-interactive-typing](https://github.com/H1ghBre4k3r/lome.dev/pull/170) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (5 days ago)
+- [header-mobile-responsive-styling](https://github.com/H1ghBre4k3r/lome.dev/pull/169) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (5 days ago)
+- [docker-support](https://github.com/H1ghBre4k3r/server-monitoring/pull/40) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (1 week ago)
 - [tui-dashboard-with-websocket-streaming](https://github.com/H1ghBre4k3r/server-monitoring/pull/34) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (1 week ago)
 - [metrics-api](https://github.com/H1ghBre4k3r/server-monitoring/pull/33) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (1 week ago)
 - [Actor refactoring](https://github.com/H1ghBre4k3r/server-monitoring/pull/32) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (1 week ago)
@@ -55,13 +55,13 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (today)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 day ago)
 - [ghuntley/cursed](https://github.com/ghuntley/cursed) - the 💀 cursed programming language: programming, but make it gen z (1 week ago)
 - [git/git.github.io](https://github.com/git/git.github.io) - Git Developer Pages (This is NOT the place to discuss Git issues. See: https://git-scm.com/community) (1 week ago)
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (2 weeks ago)
 - [schacon/slidetty](https://github.com/schacon/slidetty) - cli slideshows (2 weeks ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (2 weeks ago)
-- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (2 weeks ago)
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (3 weeks ago)
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons (5 months ago)
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don&#39;t be shy, join here: https://discord.com/invite/NAb6H3UTjK :) (5 months ago)
 - [rl-tools/rl-tools](https://github.com/rl-tools/rl-tools) - The Fastest Deep Reinforcement Learning Library (6 months ago)
