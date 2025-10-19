@@ -42,6 +42,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [config-resolution-refactor](https://github.com/H1ghBre4k3r/server-monitoring/pull/47) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (today)
 - [feat(docker): Add build cache mounts for Cargo dependencies](https://github.com/H1ghBre4k3r/server-monitoring/pull/46) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (1 day ago)
 - [dashboard-server-monitoring-components](https://github.com/H1ghBre4k3r/server-monitoring/pull/44) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (3 days ago)
 - [feat(testing): Add comprehensive test fixtures for Disruption](https://github.com/H1ghBre4k3r/disruption/pull/344) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (4 days ago)
@@ -51,7 +52,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [hero-terminal-interactive-typing](https://github.com/H1ghBre4k3r/lome.dev/pull/170) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (1 week ago)
 - [header-mobile-responsive-styling](https://github.com/H1ghBre4k3r/lome.dev/pull/169) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (1 week ago)
 - [docker-support](https://github.com/H1ghBre4k3r/server-monitoring/pull/40) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (1 week ago)
-- [tui-dashboard-with-websocket-streaming](https://github.com/H1ghBre4k3r/server-monitoring/pull/34) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (1 week ago)
 
 #### ⭐ Recent Stars
 
