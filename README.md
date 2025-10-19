@@ -7,8 +7,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (today)
 - [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) - The server monitoring solution from outer space. (today)
+- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (today)
 - [H1ghBre4k3r/git-presentation](https://github.com/H1ghBre4k3r/git-presentation) - Git Presentation OE 2025 (1 day ago)
 - [H1ghBre4k3r/foo-bar-2025](https://github.com/H1ghBre4k3r/foo-bar-2025) -  (2 days ago)
 - [H1ghBre4k3r/oe-workshop-git-2025](https://github.com/H1ghBre4k3r/oe-workshop-git-2025) -  (2 days ago)
@@ -33,6 +33,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
+- [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) ([v0.5.0](https://github.com/H1ghBre4k3r/server-monitoring/releases/tag/v0.5.0), today) - The server monitoring solution from outer space.
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.16.10](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.16.10), 5 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) ([v0.1.1](https://github.com/H1ghBre4k3r/y-lang/releases/tag/v0.1.1), 3 weeks ago) - A new fancy and not at all useful programming language.
 - [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) ([v0.1.4](https://github.com/H1ghBre4k3r/lachs/releases/tag/v0.1.4), 9 months ago) - Lightweight lexer generator for Rust written in Rust 🦀
@@ -42,6 +43,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [ci: Enable Docker builds for tagged releases](https://github.com/H1ghBre4k3r/server-monitoring/pull/49) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (today)
+- [feat(version): bump version to 0.5.0 and update documentation](https://github.com/H1ghBre4k3r/server-monitoring/pull/48) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (today)
 - [refactor-global-styles-and-imports](https://github.com/H1ghBre4k3r/lome.dev/pull/178) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (today)
 - [config-resolution-refactor](https://github.com/H1ghBre4k3r/server-monitoring/pull/47) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (today)
 - [feat(docker): Add build cache mounts for Cargo dependencies](https://github.com/H1ghBre4k3r/server-monitoring/pull/46) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (1 day ago)
@@ -50,8 +53,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [refactor-api-types](https://github.com/H1ghBre4k3r/disruption/pull/343) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (4 days ago)
 - [h-branch-2](https://github.com/H1ghBre4k3r/lome.dev/pull/173) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (1 week ago)
 - [refactor(components): Simplify GitHub stats and achievements rendering](https://github.com/H1ghBre4k3r/lome.dev/pull/172) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (1 week ago)
-- [hero-terminal-interactive-typing](https://github.com/H1ghBre4k3r/lome.dev/pull/170) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (1 week ago)
-- [header-mobile-responsive-styling](https://github.com/H1ghBre4k3r/lome.dev/pull/169) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (1 week ago)
 
 #### ⭐ Recent Stars
 
