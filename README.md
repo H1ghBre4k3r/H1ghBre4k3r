@@ -8,10 +8,10 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 #### 👷 Check out what I'm currently working on
 
 - [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) - The server monitoring solution from outer space. (today)
-- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (4 days ago)
-- [H1ghBre4k3r/git-presentation](https://github.com/H1ghBre4k3r/git-presentation) - Git Presentation OE 2025 (5 days ago)
-- [H1ghBre4k3r/foo-bar-2025](https://github.com/H1ghBre4k3r/foo-bar-2025) -  (6 days ago)
-- [H1ghBre4k3r/oe-workshop-git-2025](https://github.com/H1ghBre4k3r/oe-workshop-git-2025) -  (6 days ago)
+- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (5 days ago)
+- [H1ghBre4k3r/git-presentation](https://github.com/H1ghBre4k3r/git-presentation) - Git Presentation OE 2025 (6 days ago)
+- [H1ghBre4k3r/foo-bar-2025](https://github.com/H1ghBre4k3r/foo-bar-2025) -  (1 week ago)
+- [H1ghBre4k3r/oe-workshop-git-2025](https://github.com/H1ghBre4k3r/oe-workshop-git-2025) -  (1 week ago)
 - [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (1 week ago)
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) - Lightweight library for creating fast WebComponents. (1 week ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (2 weeks ago)
@@ -33,7 +33,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) ([v0.5.0](https://github.com/H1ghBre4k3r/server-monitoring/releases/tag/v0.5.0), 4 days ago) - The server monitoring solution from outer space.
+- [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) ([v0.5.0](https://github.com/H1ghBre4k3r/server-monitoring/releases/tag/v0.5.0), 5 days ago) - The server monitoring solution from outer space.
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.16.10](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.16.10), 1 week ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) ([v0.1.1](https://github.com/H1ghBre4k3r/y-lang/releases/tag/v0.1.1), 1 month ago) - A new fancy and not at all useful programming language.
 - [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) ([v0.1.4](https://github.com/H1ghBre4k3r/lachs/releases/tag/v0.1.4), 9 months ago) - Lightweight lexer generator for Rust written in Rust 🦀
@@ -43,16 +43,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [theme-switcher-refinements](https://github.com/H1ghBre4k3r/server-monitoring/pull/59) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (1 day ago)
-- [ci: Enable Docker builds for tagged releases](https://github.com/H1ghBre4k3r/server-monitoring/pull/49) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (4 days ago)
-- [feat(version): bump version to 0.5.0 and update documentation](https://github.com/H1ghBre4k3r/server-monitoring/pull/48) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (4 days ago)
-- [refactor-global-styles-and-imports](https://github.com/H1ghBre4k3r/lome.dev/pull/178) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (4 days ago)
-- [config-resolution-refactor](https://github.com/H1ghBre4k3r/server-monitoring/pull/47) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (4 days ago)
-- [feat(docker): Add build cache mounts for Cargo dependencies](https://github.com/H1ghBre4k3r/server-monitoring/pull/46) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (5 days ago)
+- [feat(websocket): Improve WebSocket connection handling and error reporting](https://github.com/H1ghBre4k3r/server-monitoring/pull/63) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (today)
+- [feat(favicon): Add multi-size favicons and PWA manifest](https://github.com/H1ghBre4k3r/server-monitoring/pull/62) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (1 day ago)
+- [theme-switcher-refinements](https://github.com/H1ghBre4k3r/server-monitoring/pull/59) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (2 days ago)
+- [ci: Enable Docker builds for tagged releases](https://github.com/H1ghBre4k3r/server-monitoring/pull/49) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (5 days ago)
+- [feat(version): bump version to 0.5.0 and update documentation](https://github.com/H1ghBre4k3r/server-monitoring/pull/48) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (5 days ago)
+- [refactor-global-styles-and-imports](https://github.com/H1ghBre4k3r/lome.dev/pull/178) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (5 days ago)
+- [config-resolution-refactor](https://github.com/H1ghBre4k3r/server-monitoring/pull/47) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (5 days ago)
+- [feat(docker): Add build cache mounts for Cargo dependencies](https://github.com/H1ghBre4k3r/server-monitoring/pull/46) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (6 days ago)
 - [dashboard-server-monitoring-components](https://github.com/H1ghBre4k3r/server-monitoring/pull/44) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (1 week ago)
 - [feat(testing): Add comprehensive test fixtures for Disruption](https://github.com/H1ghBre4k3r/disruption/pull/344) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (1 week ago)
-- [refactor-api-types](https://github.com/H1ghBre4k3r/disruption/pull/343) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (1 week ago)
-- [h-branch-2](https://github.com/H1ghBre4k3r/lome.dev/pull/173) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (1 week ago)
 
 #### ⭐ Recent Stars
 
@@ -61,7 +61,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [git/git.github.io](https://github.com/git/git.github.io) - Git Developer Pages (This is NOT the place to discuss Git issues. See: https://git-scm.com/community) (3 weeks ago)
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (3 weeks ago)
 - [schacon/slidetty](https://github.com/schacon/slidetty) - cli slideshows (3 weeks ago)
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (4 weeks ago)
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 month ago)
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (1 month ago)
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons (5 months ago)
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don&#39;t be shy, join here: https://discord.com/invite/NAb6H3UTjK :) (6 months ago)
