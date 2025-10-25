@@ -43,6 +43,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: Rename project from server-monitoring to guardia](https://github.com/H1ghBre4k3r/server-monitoring/pull/66) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (today)
 - [feat(websocket): Improve WebSocket connection handling and error reporting](https://github.com/H1ghBre4k3r/server-monitoring/pull/63) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (1 day ago)
 - [feat(favicon): Add multi-size favicons and PWA manifest](https://github.com/H1ghBre4k3r/server-monitoring/pull/62) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (2 days ago)
 - [theme-switcher-refinements](https://github.com/H1ghBre4k3r/server-monitoring/pull/59) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (3 days ago)
@@ -52,7 +53,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [config-resolution-refactor](https://github.com/H1ghBre4k3r/server-monitoring/pull/47) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (6 days ago)
 - [feat(docker): Add build cache mounts for Cargo dependencies](https://github.com/H1ghBre4k3r/server-monitoring/pull/46) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (1 week ago)
 - [dashboard-server-monitoring-components](https://github.com/H1ghBre4k3r/server-monitoring/pull/44) on [H1ghBre4k3r/server-monitoring](https://github.com/H1ghBre4k3r/server-monitoring) (1 week ago)
-- [feat(testing): Add comprehensive test fixtures for Disruption](https://github.com/H1ghBre4k3r/disruption/pull/344) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (1 week ago)
 
 #### ⭐ Recent Stars
 
