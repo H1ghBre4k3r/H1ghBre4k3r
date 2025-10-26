@@ -43,6 +43,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [docs: Add code formatting guidelines to documentation](https://github.com/H1ghBre4k3r/guardia/pull/67) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (today)
 - [refactor: Rename project from server-monitoring to guardia](https://github.com/H1ghBre4k3r/guardia/pull/66) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (1 day ago)
 - [feat(websocket): Improve WebSocket connection handling and error reporting](https://github.com/H1ghBre4k3r/guardia/pull/63) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (2 days ago)
 - [feat(favicon): Add multi-size favicons and PWA manifest](https://github.com/H1ghBre4k3r/guardia/pull/62) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (3 days ago)
@@ -52,7 +53,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [refactor-global-styles-and-imports](https://github.com/H1ghBre4k3r/lome.dev/pull/178) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (1 week ago)
 - [config-resolution-refactor](https://github.com/H1ghBre4k3r/guardia/pull/47) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (1 week ago)
 - [feat(docker): Add build cache mounts for Cargo dependencies](https://github.com/H1ghBre4k3r/guardia/pull/46) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (1 week ago)
-- [dashboard-server-monitoring-components](https://github.com/H1ghBre4k3r/guardia/pull/44) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (1 week ago)
 
 #### ⭐ Recent Stars
 
