@@ -8,11 +8,11 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 #### 👷 Check out what I'm currently working on
 
 - [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) - The server monitoring solution from outer space. (today)
+- [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (today)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (1 week ago)
 - [H1ghBre4k3r/git-presentation](https://github.com/H1ghBre4k3r/git-presentation) - Git Presentation OE 2025 (1 week ago)
 - [H1ghBre4k3r/foo-bar-2025](https://github.com/H1ghBre4k3r/foo-bar-2025) -  (1 week ago)
 - [H1ghBre4k3r/oe-workshop-git-2025](https://github.com/H1ghBre4k3r/oe-workshop-git-2025) -  (1 week ago)
-- [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (1 week ago)
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) - Lightweight library for creating fast WebComponents. (2 weeks ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (2 weeks ago)
 - [H1ghBre4k3r/typescript-starter](https://github.com/H1ghBre4k3r/typescript-starter) - Starter template for TypeScript library projects. (2 weeks ago)
@@ -43,6 +43,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [feat(error): Add comprehensive error handling for Disruption library](https://github.com/H1ghBre4k3r/disruption/pull/345) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (today)
 - [docs: Add code formatting guidelines to documentation](https://github.com/H1ghBre4k3r/guardia/pull/67) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (today)
 - [refactor: Rename project from server-monitoring to guardia](https://github.com/H1ghBre4k3r/guardia/pull/66) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (1 day ago)
 - [feat(websocket): Improve WebSocket connection handling and error reporting](https://github.com/H1ghBre4k3r/guardia/pull/63) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (2 days ago)
@@ -52,7 +53,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [feat(version): bump version to 0.5.0 and update documentation](https://github.com/H1ghBre4k3r/guardia/pull/48) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (1 week ago)
 - [refactor-global-styles-and-imports](https://github.com/H1ghBre4k3r/lome.dev/pull/178) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (1 week ago)
 - [config-resolution-refactor](https://github.com/H1ghBre4k3r/guardia/pull/47) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (1 week ago)
-- [feat(docker): Add build cache mounts for Cargo dependencies](https://github.com/H1ghBre4k3r/guardia/pull/46) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (1 week ago)
 
 #### ⭐ Recent Stars
 
