@@ -26,7 +26,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/esp-homekit-rs](https://github.com/H1ghBre4k3r/esp-homekit-rs) - 
 - [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) - The server monitoring solution from outer space.
 - [H1ghBre4k3r/rust-mem-leak](https://github.com/H1ghBre4k3r/rust-mem-leak) - 
-- [H1ghBre4k3r/kneipolympics](https://github.com/H1ghBre4k3r/kneipolympics) - Repository containing all information about the technical part for the Kneipolympics.
+- [H1ghBre4k3r/kneipolympics-legacy](https://github.com/H1ghBre4k3r/kneipolympics-legacy) - Repository containing all information about the technical part for the Kneipolympics.
 - [H1ghBre4k3r/lome.dev-deploy](https://github.com/H1ghBre4k3r/lome.dev-deploy) - Automatic deployment for my personal website
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time.
 - [H1ghBre4k3r/aoc-2024](https://github.com/H1ghBre4k3r/aoc-2024) - My submissions for Advent of Code 20024.
