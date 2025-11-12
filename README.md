@@ -7,8 +7,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (today)
-- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (1 week ago)
+- [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (1 day ago)
+- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (2 weeks ago)
 - [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (2 weeks ago)
 - [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) - The server monitoring solution from outer space. (2 weeks ago)
 - [pesca-dev/decentnoobbot-deploy](https://github.com/pesca-dev/decentnoobbot-deploy) -  (2 weeks ago)
@@ -33,7 +33,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.17.6](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.17.6), 4 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.17.6](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.17.6), 5 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) ([v0.2.0](https://github.com/H1ghBre4k3r/disruption/releases/tag/v0.2.0), 2 weeks ago) - Featherweight wrapper around the Discord-API written in Rust.
 - [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) ([v0.5.0](https://github.com/H1ghBre4k3r/guardia/releases/tag/v0.5.0), 3 weeks ago) - The server monitoring solution from outer space.
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) ([v0.1.1](https://github.com/H1ghBre4k3r/y-lang/releases/tag/v0.1.1), 1 month ago) - A new fancy and not at all useful programming language.
@@ -44,7 +44,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [routing-improvements-and-navigation](https://github.com/H1ghBre4k3r/lome.dev/pull/185) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (1 week ago)
+- [routing-improvements-and-navigation](https://github.com/H1ghBre4k3r/lome.dev/pull/185) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (2 weeks ago)
 - [docs: Add comprehensive README for disruption_types crate](https://github.com/H1ghBre4k3r/disruption/pull/347) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (2 weeks ago)
 - [gateway-event-handling-enhancement](https://github.com/H1ghBre4k3r/disruption/pull/346) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (2 weeks ago)
 - [feat(error): Add comprehensive error handling for Disruption library](https://github.com/H1ghBre4k3r/disruption/pull/345) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (2 weeks ago)
@@ -52,20 +52,20 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [refactor: Rename project from server-monitoring to guardia](https://github.com/H1ghBre4k3r/guardia/pull/66) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (2 weeks ago)
 - [feat(websocket): Improve WebSocket connection handling and error reporting](https://github.com/H1ghBre4k3r/guardia/pull/63) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (2 weeks ago)
 - [feat(favicon): Add multi-size favicons and PWA manifest](https://github.com/H1ghBre4k3r/guardia/pull/62) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (2 weeks ago)
-- [theme-switcher-refinements](https://github.com/H1ghBre4k3r/guardia/pull/59) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (2 weeks ago)
+- [theme-switcher-refinements](https://github.com/H1ghBre4k3r/guardia/pull/59) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (3 weeks ago)
 - [ci: Enable Docker builds for tagged releases](https://github.com/H1ghBre4k3r/guardia/pull/49) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal. (1 week ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (4 weeks ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 month ago)
 - [ghuntley/cursed](https://github.com/ghuntley/cursed) - the 💀 cursed programming language: programming, but make it gen z (1 month ago)
 - [git/git.github.io](https://github.com/git/git.github.io) - Git Developer Pages (This is NOT the place to discuss Git issues. See: https://git-scm.com/community) (1 month ago)
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (1 month ago)
 - [schacon/slidetty](https://github.com/schacon/slidetty) - cli slideshows (1 month ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 month ago)
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (1 month ago)
-- [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons (5 months ago)
+- [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons (6 months ago)
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don&#39;t be shy, join here: https://discord.com/invite/NAb6H3UTjK :) (6 months ago)
 
 #### 📫 How to reach me
