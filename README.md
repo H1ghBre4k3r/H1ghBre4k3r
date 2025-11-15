@@ -7,12 +7,12 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (3 days ago)
+- [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (4 days ago)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (2 weeks ago)
 - [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (2 weeks ago)
 - [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) - The server monitoring solution from outer space. (2 weeks ago)
 - [pesca-dev/decentnoobbot-deploy](https://github.com/pesca-dev/decentnoobbot-deploy) -  (2 weeks ago)
-- [H1ghBre4k3r/git-presentation](https://github.com/H1ghBre4k3r/git-presentation) - Git Presentation OE 2025 (3 weeks ago)
+- [H1ghBre4k3r/git-presentation](https://github.com/H1ghBre4k3r/git-presentation) - Git Presentation OE 2025 (4 weeks ago)
 - [H1ghBre4k3r/oe-workshop-git-2025](https://github.com/H1ghBre4k3r/oe-workshop-git-2025) -  (4 weeks ago)
 - [H1ghBre4k3r/foo-bar-2025](https://github.com/H1ghBre4k3r/foo-bar-2025) -  (4 weeks ago)
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) - Lightweight library for creating fast WebComponents. (1 month ago)
@@ -49,7 +49,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [gateway-event-handling-enhancement](https://github.com/H1ghBre4k3r/disruption/pull/346) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (2 weeks ago)
 - [feat(error): Add comprehensive error handling for Disruption library](https://github.com/H1ghBre4k3r/disruption/pull/345) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (2 weeks ago)
 - [docs: Add code formatting guidelines to documentation](https://github.com/H1ghBre4k3r/guardia/pull/67) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (2 weeks ago)
-- [refactor: Rename project from server-monitoring to guardia](https://github.com/H1ghBre4k3r/guardia/pull/66) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (2 weeks ago)
+- [refactor: Rename project from server-monitoring to guardia](https://github.com/H1ghBre4k3r/guardia/pull/66) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (3 weeks ago)
 - [feat(websocket): Improve WebSocket connection handling and error reporting](https://github.com/H1ghBre4k3r/guardia/pull/63) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (3 weeks ago)
 - [feat(favicon): Add multi-size favicons and PWA manifest](https://github.com/H1ghBre4k3r/guardia/pull/62) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (3 weeks ago)
 - [theme-switcher-refinements](https://github.com/H1ghBre4k3r/guardia/pull/59) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (3 weeks ago)
