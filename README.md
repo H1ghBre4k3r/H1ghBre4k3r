@@ -51,7 +51,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [docs: Add code formatting guidelines to documentation](https://github.com/H1ghBre4k3r/guardia/pull/67) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (3 weeks ago)
 - [refactor: Rename project from server-monitoring to guardia](https://github.com/H1ghBre4k3r/guardia/pull/66) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (3 weeks ago)
 - [feat(websocket): Improve WebSocket connection handling and error reporting](https://github.com/H1ghBre4k3r/guardia/pull/63) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (3 weeks ago)
-- [feat(favicon): Add multi-size favicons and PWA manifest](https://github.com/H1ghBre4k3r/guardia/pull/62) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (3 weeks ago)
+- [feat(favicon): Add multi-size favicons and PWA manifest](https://github.com/H1ghBre4k3r/guardia/pull/62) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (4 weeks ago)
 - [theme-switcher-refinements](https://github.com/H1ghBre4k3r/guardia/pull/59) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (4 weeks ago)
 - [ci: Enable Docker builds for tagged releases](https://github.com/H1ghBre4k3r/guardia/pull/49) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (1 month ago)
 
