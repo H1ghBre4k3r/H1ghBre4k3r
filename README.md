@@ -57,6 +57,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [tim-we/wavestreamer](https://github.com/tim-we/wavestreamer) - A music player simulating a radio written in Go.  (today)
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal. (1 month ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 month ago)
 - [ghuntley/cursed](https://github.com/ghuntley/cursed) - the 💀 cursed programming language: programming, but make it gen z (2 months ago)
@@ -66,7 +67,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (2 months ago)
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (2 months ago)
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons (6 months ago)
-- [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don&#39;t be shy, join here: https://discord.com/invite/NAb6H3UTjK :) (7 months ago)
 
 #### 📫 How to reach me
 
