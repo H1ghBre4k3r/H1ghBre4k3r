@@ -7,9 +7,9 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
+- [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) - The server monitoring solution from outer space. (today)
 - [H1ghBre4k3r/aoc-2025](https://github.com/H1ghBre4k3r/aoc-2025) - Ah shit, here we go again.  (2 days ago)
 - [H1ghBre4k3r/git-presentation](https://github.com/H1ghBre4k3r/git-presentation) - Git Presentation OE 2025 (1 week ago)
-- [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) - The server monitoring solution from outer space. (1 week ago)
 - [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (4 weeks ago)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (1 month ago)
 - [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (1 month ago)
@@ -44,6 +44,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [feat(alert): Improve service grace period alert handling](https://github.com/H1ghBre4k3r/guardia/pull/76) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (today)
 - [routing-improvements-and-navigation](https://github.com/H1ghBre4k3r/lome.dev/pull/185) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (1 month ago)
 - [docs: Add comprehensive README for disruption_types crate](https://github.com/H1ghBre4k3r/disruption/pull/347) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (1 month ago)
 - [gateway-event-handling-enhancement](https://github.com/H1ghBre4k3r/disruption/pull/346) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (1 month ago)
@@ -53,7 +54,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [feat(websocket): Improve WebSocket connection handling and error reporting](https://github.com/H1ghBre4k3r/guardia/pull/63) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (1 month ago)
 - [feat(favicon): Add multi-size favicons and PWA manifest](https://github.com/H1ghBre4k3r/guardia/pull/62) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (1 month ago)
 - [theme-switcher-refinements](https://github.com/H1ghBre4k3r/guardia/pull/59) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (1 month ago)
-- [ci: Enable Docker builds for tagged releases](https://github.com/H1ghBre4k3r/guardia/pull/49) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (1 month ago)
 
 #### ⭐ Recent Stars
 
