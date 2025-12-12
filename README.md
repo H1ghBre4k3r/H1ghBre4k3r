@@ -7,8 +7,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) - The server monitoring solution from outer space. (today)
-- [H1ghBre4k3r/aoc-2025](https://github.com/H1ghBre4k3r/aoc-2025) - Ah shit, here we go again.  (3 days ago)
+- [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) - The server monitoring solution from outer space. (1 day ago)
+- [H1ghBre4k3r/aoc-2025](https://github.com/H1ghBre4k3r/aoc-2025) - Ah shit, here we go again.  (4 days ago)
 - [H1ghBre4k3r/git-presentation](https://github.com/H1ghBre4k3r/git-presentation) - Git Presentation OE 2025 (1 week ago)
 - [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (1 month ago)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (1 month ago)
@@ -44,8 +44,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [feat(web): Add SPA routing support for web dashboard](https://github.com/H1ghBre4k3r/guardia/pull/77) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (today)
-- [feat(alert): Improve service grace period alert handling](https://github.com/H1ghBre4k3r/guardia/pull/76) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (1 day ago)
+- [feat(web): Add SPA routing support for web dashboard](https://github.com/H1ghBre4k3r/guardia/pull/77) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (1 day ago)
+- [feat(alert): Improve service grace period alert handling](https://github.com/H1ghBre4k3r/guardia/pull/76) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (2 days ago)
 - [routing-improvements-and-navigation](https://github.com/H1ghBre4k3r/lome.dev/pull/185) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (1 month ago)
 - [docs: Add comprehensive README for disruption_types crate](https://github.com/H1ghBre4k3r/disruption/pull/347) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (1 month ago)
 - [gateway-event-handling-enhancement](https://github.com/H1ghBre4k3r/disruption/pull/346) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (1 month ago)
@@ -59,14 +59,14 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 - [tim-we/wavestreamer](https://github.com/tim-we/wavestreamer) - A music player simulating a radio written in Go.  (1 week ago)
 - [sst/opencode](https://github.com/sst/opencode) - The open source coding agent. (1 month ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 month ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (2 months ago)
 - [ghuntley/cursed](https://github.com/ghuntley/cursed) - the 💀 cursed programming language: programming, but make it gen z (2 months ago)
 - [git/git.github.io](https://github.com/git/git.github.io) - Git Developer Pages (This is NOT the place to discuss Git issues. See: https://git-scm.com/community) (2 months ago)
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (2 months ago)
 - [schacon/slidetty](https://github.com/schacon/slidetty) - cli slideshows (2 months ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (2 months ago)
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (2 months ago)
-- [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons (6 months ago)
+- [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons (7 months ago)
 
 #### 📫 How to reach me
 
