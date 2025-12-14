@@ -7,8 +7,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) - The server monitoring solution from outer space. (2 days ago)
-- [H1ghBre4k3r/aoc-2025](https://github.com/H1ghBre4k3r/aoc-2025) - Ah shit, here we go again.  (5 days ago)
+- [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) - The server monitoring solution from outer space. (3 days ago)
+- [H1ghBre4k3r/aoc-2025](https://github.com/H1ghBre4k3r/aoc-2025) - Ah shit, here we go again.  (6 days ago)
 - [H1ghBre4k3r/git-presentation](https://github.com/H1ghBre4k3r/git-presentation) - Git Presentation OE 2025 (1 week ago)
 - [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (1 month ago)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (1 month ago)
@@ -44,8 +44,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [feat(web): Add SPA routing support for web dashboard](https://github.com/H1ghBre4k3r/guardia/pull/77) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (2 days ago)
-- [feat(alert): Improve service grace period alert handling](https://github.com/H1ghBre4k3r/guardia/pull/76) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (3 days ago)
+- [feat(web): Add SPA routing support for web dashboard](https://github.com/H1ghBre4k3r/guardia/pull/77) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (3 days ago)
+- [feat(alert): Improve service grace period alert handling](https://github.com/H1ghBre4k3r/guardia/pull/76) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (4 days ago)
 - [routing-improvements-and-navigation](https://github.com/H1ghBre4k3r/lome.dev/pull/185) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (1 month ago)
 - [docs: Add comprehensive README for disruption_types crate](https://github.com/H1ghBre4k3r/disruption/pull/347) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (1 month ago)
 - [gateway-event-handling-enhancement](https://github.com/H1ghBre4k3r/disruption/pull/346) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (1 month ago)
