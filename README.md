@@ -7,6 +7,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
+- [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) - Some language like Haskell, but implemented in Rust. (today)
 - [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it. (1 day ago)
 - [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) - The server monitoring solution from outer space. (2 days ago)
 - [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (5 days ago)
@@ -16,12 +17,12 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (2 months ago)
 - [pesca-dev/decentnoobbot-deploy](https://github.com/pesca-dev/decentnoobbot-deploy) -  (2 months ago)
 - [pesca-dev/oe-workshop-git-2025](https://github.com/pesca-dev/oe-workshop-git-2025) -  (2 months ago)
-- [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) - Lightweight library for creating fast WebComponents. (2 months ago)
 
 #### 🌱 My latest projects
 
 - [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it.
 - [H1ghBre4k3r/aoc-2025](https://github.com/H1ghBre4k3r/aoc-2025) - Ah shit, here we go again. 
+- [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) - Some language like Haskell, but implemented in Rust.
 - [H1ghBre4k3r/git-presentation](https://github.com/H1ghBre4k3r/git-presentation) - Git Presentation OE 2025
 - [H1ghBre4k3r/esp-homekit-rs](https://github.com/H1ghBre4k3r/esp-homekit-rs) - 
 - [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) - The server monitoring solution from outer space.
@@ -29,7 +30,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/kneipolympics-legacy](https://github.com/H1ghBre4k3r/kneipolympics-legacy) - Repository containing all information about the technical part for the Kneipolympics.
 - [H1ghBre4k3r/lome.dev-deploy](https://github.com/H1ghBre4k3r/lome.dev-deploy) - Automatic deployment for my personal website
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time.
-- [H1ghBre4k3r/aoc-2024](https://github.com/H1ghBre4k3r/aoc-2024) - My submissions for Advent of Code 20024.
 
 #### 🔭 Latest releases I've contributed to
 
@@ -44,16 +44,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [feat(web): Add SPA routing support for web dashboard](https://github.com/H1ghBre4k3r/guardia/pull/77) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (2 weeks ago)
-- [feat(alert): Improve service grace period alert handling](https://github.com/H1ghBre4k3r/guardia/pull/76) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (2 weeks ago)
-- [routing-improvements-and-navigation](https://github.com/H1ghBre4k3r/lome.dev/pull/185) on [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) (1 month ago)
-- [docs: Add comprehensive README for disruption_types crate](https://github.com/H1ghBre4k3r/disruption/pull/347) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (2 months ago)
-- [gateway-event-handling-enhancement](https://github.com/H1ghBre4k3r/disruption/pull/346) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (2 months ago)
-- [feat(error): Add comprehensive error handling for Disruption library](https://github.com/H1ghBre4k3r/disruption/pull/345) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (2 months ago)
-- [docs: Add code formatting guidelines to documentation](https://github.com/H1ghBre4k3r/guardia/pull/67) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (2 months ago)
-- [refactor: Rename project from server-monitoring to guardia](https://github.com/H1ghBre4k3r/guardia/pull/66) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (2 months ago)
-- [feat(websocket): Improve WebSocket connection handling and error reporting](https://github.com/H1ghBre4k3r/guardia/pull/63) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (2 months ago)
-- [feat(favicon): Add multi-size favicons and PWA manifest](https://github.com/H1ghBre4k3r/guardia/pull/62) on [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) (2 months ago)
+- [feat(docs): update README](https://github.com/H1ghBre4k3r/ruskell/pull/16) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (today)
+- [ci: Add documentation deployment workflow](https://github.com/H1ghBre4k3r/ruskell/pull/15) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (today)
+- [docs-type-inference-interpreter](https://github.com/H1ghBre4k3r/ruskell/pull/14) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (3 days ago)
+- [pattern-matching-desugar-refactor](https://github.com/H1ghBre4k3r/ruskell/pull/13) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (4 days ago)
+- [add-print-and-string-concatenation](https://github.com/H1ghBre4k3r/ruskell/pull/12) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (4 days ago)
+- [lambda-lifting-implementation-improvements](https://github.com/H1ghBre4k3r/ruskell/pull/11) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (4 days ago)
+- [cli-toolchain-improvements](https://github.com/H1ghBre4k3r/ruskell/pull/10) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (4 days ago)
+- [pattern-matching-support](https://github.com/H1ghBre4k3r/ruskell/pull/9) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (5 days ago)
+- [parser-add-boolean-logical-operators](https://github.com/H1ghBre4k3r/ruskell/pull/8) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (5 days ago)
+- [feat(compiler): Add desugarer and type checker to pipeline](https://github.com/H1ghBre4k3r/ruskell/pull/7) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (6 days ago)
 
 #### ⭐ Recent Stars
 
