@@ -7,13 +7,13 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) - Some language like Haskell, but implemented in Rust. (1 day ago)
-- [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it. (1 day ago)
-- [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) - The server monitoring solution from outer space. (3 days ago)
-- [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (6 days ago)
+- [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) - Some language like Haskell, but implemented in Rust. (2 days ago)
+- [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it. (2 days ago)
+- [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) - The server monitoring solution from outer space. (4 days ago)
+- [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (1 week ago)
 - [H1ghBre4k3r/aoc-2025](https://github.com/H1ghBre4k3r/aoc-2025) - Ah shit, here we go again.  (2 weeks ago)
 - [H1ghBre4k3r/git-presentation](https://github.com/H1ghBre4k3r/git-presentation) - Git Presentation OE 2025 (3 weeks ago)
-- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (1 month ago)
+- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (2 months ago)
 - [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (2 months ago)
 - [pesca-dev/decentnoobbot-deploy](https://github.com/pesca-dev/decentnoobbot-deploy) -  (2 months ago)
 - [pesca-dev/oe-workshop-git-2025](https://github.com/pesca-dev/oe-workshop-git-2025) -  (2 months ago)
@@ -44,15 +44,15 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [feat(docs): update README](https://github.com/H1ghBre4k3r/ruskell/pull/16) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 day ago)
-- [ci: Add documentation deployment workflow](https://github.com/H1ghBre4k3r/ruskell/pull/15) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 day ago)
-- [docs-type-inference-interpreter](https://github.com/H1ghBre4k3r/ruskell/pull/14) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (4 days ago)
-- [pattern-matching-desugar-refactor](https://github.com/H1ghBre4k3r/ruskell/pull/13) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (5 days ago)
-- [add-print-and-string-concatenation](https://github.com/H1ghBre4k3r/ruskell/pull/12) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (5 days ago)
-- [lambda-lifting-implementation-improvements](https://github.com/H1ghBre4k3r/ruskell/pull/11) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (5 days ago)
-- [cli-toolchain-improvements](https://github.com/H1ghBre4k3r/ruskell/pull/10) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (5 days ago)
-- [pattern-matching-support](https://github.com/H1ghBre4k3r/ruskell/pull/9) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (6 days ago)
-- [parser-add-boolean-logical-operators](https://github.com/H1ghBre4k3r/ruskell/pull/8) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (6 days ago)
+- [feat(docs): update README](https://github.com/H1ghBre4k3r/ruskell/pull/16) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (2 days ago)
+- [ci: Add documentation deployment workflow](https://github.com/H1ghBre4k3r/ruskell/pull/15) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (2 days ago)
+- [docs-type-inference-interpreter](https://github.com/H1ghBre4k3r/ruskell/pull/14) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (5 days ago)
+- [pattern-matching-desugar-refactor](https://github.com/H1ghBre4k3r/ruskell/pull/13) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (6 days ago)
+- [add-print-and-string-concatenation](https://github.com/H1ghBre4k3r/ruskell/pull/12) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (6 days ago)
+- [lambda-lifting-implementation-improvements](https://github.com/H1ghBre4k3r/ruskell/pull/11) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (6 days ago)
+- [cli-toolchain-improvements](https://github.com/H1ghBre4k3r/ruskell/pull/10) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (6 days ago)
+- [pattern-matching-support](https://github.com/H1ghBre4k3r/ruskell/pull/9) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 week ago)
+- [parser-add-boolean-logical-operators](https://github.com/H1ghBre4k3r/ruskell/pull/8) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 week ago)
 - [feat(compiler): Add desugarer and type checker to pipeline](https://github.com/H1ghBre4k3r/ruskell/pull/7) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 week ago)
 
 #### ⭐ Recent Stars
@@ -62,8 +62,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (2 months ago)
 - [ghuntley/cursed](https://github.com/ghuntley/cursed) - the 💀 cursed programming language: programming, but make it gen z (2 months ago)
 - [git/git.github.io](https://github.com/git/git.github.io) - Git Developer Pages (This is NOT the place to discuss Git issues. See: https://git-scm.com/community) (2 months ago)
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (2 months ago)
-- [schacon/slidetty](https://github.com/schacon/slidetty) - cli slideshows (2 months ago)
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (3 months ago)
+- [schacon/slidetty](https://github.com/schacon/slidetty) - cli slideshows (3 months ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (3 months ago)
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (3 months ago)
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons (7 months ago)
