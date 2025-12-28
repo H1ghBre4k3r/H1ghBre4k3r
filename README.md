@@ -7,7 +7,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) - Some language like Haskell, but implemented in Rust. (2 days ago)
+- [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) - Some language like Haskell, but implemented in Rust. (today)
 - [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it. (2 days ago)
 - [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) - The server monitoring solution from outer space. (4 days ago)
 - [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (1 week ago)
@@ -44,6 +44,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [feat(types): Introduce dedicated error module for type checking](https://github.com/H1ghBre4k3r/ruskell/pull/17) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (today)
 - [feat(docs): update README](https://github.com/H1ghBre4k3r/ruskell/pull/16) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (2 days ago)
 - [ci: Add documentation deployment workflow](https://github.com/H1ghBre4k3r/ruskell/pull/15) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (2 days ago)
 - [docs-type-inference-interpreter](https://github.com/H1ghBre4k3r/ruskell/pull/14) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (5 days ago)
@@ -53,7 +54,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [cli-toolchain-improvements](https://github.com/H1ghBre4k3r/ruskell/pull/10) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (6 days ago)
 - [pattern-matching-support](https://github.com/H1ghBre4k3r/ruskell/pull/9) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 week ago)
 - [parser-add-boolean-logical-operators](https://github.com/H1ghBre4k3r/ruskell/pull/8) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 week ago)
-- [feat(compiler): Add desugarer and type checker to pipeline](https://github.com/H1ghBre4k3r/ruskell/pull/7) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 week ago)
 
 #### ⭐ Recent Stars
 
