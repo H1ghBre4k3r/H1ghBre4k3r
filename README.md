@@ -7,8 +7,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it. (1 day ago)
-- [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) - Some language like Haskell, but implemented in Rust. (1 day ago)
+- [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it. (2 days ago)
+- [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) - Some language like Haskell, but implemented in Rust. (2 days ago)
 - [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) - The server monitoring solution from outer space. (2 weeks ago)
 - [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (2 weeks ago)
 - [H1ghBre4k3r/aoc-2025](https://github.com/H1ghBre4k3r/aoc-2025) - Ah shit, here we go again.  (1 month ago)
@@ -37,16 +37,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) ([v0.2.0](https://github.com/H1ghBre4k3r/disruption/releases/tag/v0.2.0), 2 months ago) - Featherweight wrapper around the Discord-API written in Rust.
 - [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) ([v0.5.0](https://github.com/H1ghBre4k3r/guardia/releases/tag/v0.5.0), 2 months ago) - The server monitoring solution from outer space.
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) ([v0.1.1](https://github.com/H1ghBre4k3r/y-lang/releases/tag/v0.1.1), 3 months ago) - A new fancy and not at all useful programming language.
-- [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) ([v0.1.4](https://github.com/H1ghBre4k3r/lachs/releases/tag/v0.1.4), 11 months ago) - Lightweight lexer generator for Rust written in Rust 🦀
+- [H1ghBre4k3r/lachs](https://github.com/H1ghBre4k3r/lachs) ([v0.1.4](https://github.com/H1ghBre4k3r/lachs/releases/tag/v0.1.4), 1 year ago) - Lightweight lexer generator for Rust written in Rust 🦀
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) ([v0.1.5](https://github.com/pesca-dev/atomicity/releases/tag/v0.1.5), 1 year ago) - Lightweight library for creating fast WebComponents.
 - [H1ghBre4k3r/y-lang-v0](https://github.com/H1ghBre4k3r/y-lang-v0) ([v0.1.3](https://github.com/H1ghBre4k3r/y-lang-v0/releases/tag/v0.1.3), 2 years ago) - Compiler for the (rather new and very experimental) Y programming language. 
 - [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) ([v0.2.1](https://github.com/pesca-dev/moneyboy-app/releases/tag/v0.2.1), 3 years ago) - The mobile app for MoneyBoy - a tool to track spendings between different people.
 
 #### 🔨 My recent Pull Requests
 
-- [refactor-task-and-async-mailbox-error-handling](https://github.com/H1ghBre4k3r/notizia/pull/1) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (3 days ago)
-- [feat(lexer): Add comment stripping support for Ruskell](https://github.com/H1ghBre4k3r/ruskell/pull/20) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (3 days ago)
-- [list-literals-and-operations](https://github.com/H1ghBre4k3r/ruskell/pull/19) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (4 days ago)
+- [refactor-task-and-async-mailbox-error-handling](https://github.com/H1ghBre4k3r/notizia/pull/1) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (4 days ago)
+- [feat(lexer): Add comment stripping support for Ruskell](https://github.com/H1ghBre4k3r/ruskell/pull/20) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (4 days ago)
+- [list-literals-and-operations](https://github.com/H1ghBre4k3r/ruskell/pull/19) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (5 days ago)
 - [feat(types): Introduce dedicated error module for type checking](https://github.com/H1ghBre4k3r/ruskell/pull/17) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 week ago)
 - [feat(docs): update README](https://github.com/H1ghBre4k3r/ruskell/pull/16) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 week ago)
 - [ci: Add documentation deployment workflow](https://github.com/H1ghBre4k3r/ruskell/pull/15) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 week ago)
