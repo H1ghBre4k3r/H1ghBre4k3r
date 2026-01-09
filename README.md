@@ -7,8 +7,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it. (2 days ago)
-- [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) - Some language like Haskell, but implemented in Rust. (2 days ago)
+- [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it. (3 days ago)
+- [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) - Some language like Haskell, but implemented in Rust. (3 days ago)
 - [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) - The server monitoring solution from outer space. (2 weeks ago)
 - [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (2 weeks ago)
 - [H1ghBre4k3r/aoc-2025](https://github.com/H1ghBre4k3r/aoc-2025) - Ah shit, here we go again.  (1 month ago)
@@ -44,12 +44,12 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [refactor-task-and-async-mailbox-error-handling](https://github.com/H1ghBre4k3r/notizia/pull/1) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (4 days ago)
-- [feat(lexer): Add comment stripping support for Ruskell](https://github.com/H1ghBre4k3r/ruskell/pull/20) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (4 days ago)
-- [list-literals-and-operations](https://github.com/H1ghBre4k3r/ruskell/pull/19) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (5 days ago)
+- [refactor-task-and-async-mailbox-error-handling](https://github.com/H1ghBre4k3r/notizia/pull/1) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (5 days ago)
+- [feat(lexer): Add comment stripping support for Ruskell](https://github.com/H1ghBre4k3r/ruskell/pull/20) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (5 days ago)
+- [list-literals-and-operations](https://github.com/H1ghBre4k3r/ruskell/pull/19) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (6 days ago)
 - [feat(types): Introduce dedicated error module for type checking](https://github.com/H1ghBre4k3r/ruskell/pull/17) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 week ago)
-- [feat(docs): update README](https://github.com/H1ghBre4k3r/ruskell/pull/16) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 week ago)
-- [ci: Add documentation deployment workflow](https://github.com/H1ghBre4k3r/ruskell/pull/15) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 week ago)
+- [feat(docs): update README](https://github.com/H1ghBre4k3r/ruskell/pull/16) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (2 weeks ago)
+- [ci: Add documentation deployment workflow](https://github.com/H1ghBre4k3r/ruskell/pull/15) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (2 weeks ago)
 - [docs-type-inference-interpreter](https://github.com/H1ghBre4k3r/ruskell/pull/14) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (2 weeks ago)
 - [pattern-matching-desugar-refactor](https://github.com/H1ghBre4k3r/ruskell/pull/13) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (2 weeks ago)
 - [add-print-and-string-concatenation](https://github.com/H1ghBre4k3r/ruskell/pull/12) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (2 weeks ago)
@@ -57,6 +57,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40&#43; independent Lua modules improving Neovim experience with minimal effort (today)
 - [martinwoodward/octolamp](https://github.com/martinwoodward/octolamp) - A 3D printed, GitHub infused, smart light (1 week ago)
 - [tim-we/wavestreamer](https://github.com/tim-we/wavestreamer) - A music player simulating a radio written in Go.  (1 month ago)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (2 months ago)
@@ -66,7 +67,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (3 months ago)
 - [schacon/slidetty](https://github.com/schacon/slidetty) - cli slideshows (3 months ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (3 months ago)
-- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (3 months ago)
 
 #### 📫 How to reach me
 
