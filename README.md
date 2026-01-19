@@ -7,8 +7,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it. (1 week ago)
 - [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) - Some language like Haskell, but implemented in Rust. (1 week ago)
+- [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it. (1 week ago)
 - [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) - The server monitoring solution from outer space. (3 weeks ago)
 - [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (4 weeks ago)
 - [H1ghBre4k3r/aoc-2025](https://github.com/H1ghBre4k3r/aoc-2025) - Ah shit, here we go again.  (1 month ago)
@@ -50,13 +50,13 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [feat(docs): update README](https://github.com/H1ghBre4k3r/ruskell/pull/16) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (3 weeks ago)
 - [ci: Add documentation deployment workflow](https://github.com/H1ghBre4k3r/ruskell/pull/15) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (3 weeks ago)
 - [docs-type-inference-interpreter](https://github.com/H1ghBre4k3r/ruskell/pull/14) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (3 weeks ago)
-- [pattern-matching-desugar-refactor](https://github.com/H1ghBre4k3r/ruskell/pull/13) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (3 weeks ago)
-- [add-print-and-string-concatenation](https://github.com/H1ghBre4k3r/ruskell/pull/12) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (3 weeks ago)
-- [lambda-lifting-implementation-improvements](https://github.com/H1ghBre4k3r/ruskell/pull/11) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (3 weeks ago)
+- [pattern-matching-desugar-refactor](https://github.com/H1ghBre4k3r/ruskell/pull/13) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (4 weeks ago)
+- [add-print-and-string-concatenation](https://github.com/H1ghBre4k3r/ruskell/pull/12) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (4 weeks ago)
+- [lambda-lifting-implementation-improvements](https://github.com/H1ghBre4k3r/ruskell/pull/11) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [z-libs/Zen-C](https://github.com/z-libs/Zen-C) - Write like a high-level language, run like C. (4 days ago)
+- [z-libs/Zen-C](https://github.com/z-libs/Zen-C) - Write like a high-level language, run like C. (5 days ago)
 - [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40&#43; independent Lua modules improving Neovim experience with minimal effort (1 week ago)
 - [martinwoodward/octolamp](https://github.com/martinwoodward/octolamp) - A 3D printed, GitHub infused, smart light (2 weeks ago)
 - [tim-we/wavestreamer](https://github.com/tim-we/wavestreamer) - A music player simulating a radio written in Go.  (1 month ago)
