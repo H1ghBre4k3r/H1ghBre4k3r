@@ -33,6 +33,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
+- [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) ([v0.2.0](https://github.com/H1ghBre4k3r/notizia/releases/tag/v0.2.0), today) - Message passing in Rust. Or at least an idea about it.
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.18.5](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.18.5), 1 day ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) ([v0.2.0](https://github.com/H1ghBre4k3r/disruption/releases/tag/v0.2.0), 2 months ago) - Featherweight wrapper around the Discord-API written in Rust.
 - [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) ([v0.5.0](https://github.com/H1ghBre4k3r/guardia/releases/tag/v0.5.0), 3 months ago) - The server monitoring solution from outer space.
