@@ -7,7 +7,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it. (2 days ago)
+- [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it. (today)
 - [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) - Some language like Haskell, but implemented in Rust. (2 weeks ago)
 - [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) - The server monitoring solution from outer space. (1 month ago)
 - [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (1 month ago)
@@ -33,8 +33,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.18.7](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.18.7), 2 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-- [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) ([v0.2.0](https://github.com/H1ghBre4k3r/notizia/releases/tag/v0.2.0), 4 days ago) - Message passing in Rust. Or at least an idea about it.
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.18.7](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.18.7), 3 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) ([v0.2.0](https://github.com/H1ghBre4k3r/notizia/releases/tag/v0.2.0), 5 days ago) - Message passing in Rust. Or at least an idea about it.
 - [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) ([v0.2.0](https://github.com/H1ghBre4k3r/disruption/releases/tag/v0.2.0), 3 months ago) - Featherweight wrapper around the Discord-API written in Rust.
 - [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) ([v0.5.0](https://github.com/H1ghBre4k3r/guardia/releases/tag/v0.5.0), 3 months ago) - The server monitoring solution from outer space.
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) ([v0.1.1](https://github.com/H1ghBre4k3r/y-lang/releases/tag/v0.1.1), 4 months ago) - A new fancy and not at all useful programming language.
@@ -44,6 +44,9 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [docs: Add error handling to README](https://github.com/H1ghBre4k3r/notizia/pull/28) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (today)
+- [feat(ci): Add code coverage tracking and reporting](https://github.com/H1ghBre4k3r/notizia/pull/27) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (today)
+- [feat(errors): Add error handling and RecvError types](https://github.com/H1ghBre4k3r/notizia/pull/26) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (today)
 - [refactor-task-and-async-mailbox-error-handling](https://github.com/H1ghBre4k3r/notizia/pull/1) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (3 weeks ago)
 - [feat(lexer): Add comment stripping support for Ruskell](https://github.com/H1ghBre4k3r/ruskell/pull/20) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (3 weeks ago)
 - [list-literals-and-operations](https://github.com/H1ghBre4k3r/ruskell/pull/19) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (3 weeks ago)
@@ -51,13 +54,10 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [feat(docs): update README](https://github.com/H1ghBre4k3r/ruskell/pull/16) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 month ago)
 - [ci: Add documentation deployment workflow](https://github.com/H1ghBre4k3r/ruskell/pull/15) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 month ago)
 - [docs-type-inference-interpreter](https://github.com/H1ghBre4k3r/ruskell/pull/14) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 month ago)
-- [pattern-matching-desugar-refactor](https://github.com/H1ghBre4k3r/ruskell/pull/13) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 month ago)
-- [add-print-and-string-concatenation](https://github.com/H1ghBre4k3r/ruskell/pull/12) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 month ago)
-- [lambda-lifting-implementation-improvements](https://github.com/H1ghBre4k3r/ruskell/pull/11) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (2 days ago)
+- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (3 days ago)
 - [z-libs/Zen-C](https://github.com/z-libs/Zen-C) - Write like a high-level language, run like C. (1 week ago)
 - [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40&#43; independent Lua modules improving Neovim experience with minimal effort (2 weeks ago)
 - [martinwoodward/octolamp](https://github.com/martinwoodward/octolamp) - A 3D printed, GitHub infused, smart light (3 weeks ago)
