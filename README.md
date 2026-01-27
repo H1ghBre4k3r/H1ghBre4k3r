@@ -44,6 +44,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [add-call-macro-request-response-patterns](https://github.com/H1ghBre4k3r/notizia/pull/33) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (today)
 - [task-lifecycle-improvements](https://github.com/H1ghBre4k3r/notizia/pull/32) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (today)
 - [task-infrastructure-and-traits](https://github.com/H1ghBre4k3r/notizia/pull/30) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (today)
 - [docs: Add error handling to README](https://github.com/H1ghBre4k3r/notizia/pull/28) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (1 day ago)
@@ -53,7 +54,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [feat(lexer): Add comment stripping support for Ruskell](https://github.com/H1ghBre4k3r/ruskell/pull/20) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (3 weeks ago)
 - [list-literals-and-operations](https://github.com/H1ghBre4k3r/ruskell/pull/19) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (3 weeks ago)
 - [feat(types): Introduce dedicated error module for type checking](https://github.com/H1ghBre4k3r/ruskell/pull/17) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 month ago)
-- [feat(docs): update README](https://github.com/H1ghBre4k3r/ruskell/pull/16) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 month ago)
 
 #### ⭐ Recent Stars
 
