@@ -44,6 +44,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [task-infrastructure-and-traits](https://github.com/H1ghBre4k3r/notizia/pull/30) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (today)
 - [docs: Add error handling to README](https://github.com/H1ghBre4k3r/notizia/pull/28) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (1 day ago)
 - [feat(ci): Add code coverage tracking and reporting](https://github.com/H1ghBre4k3r/notizia/pull/27) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (1 day ago)
 - [feat(errors): Add error handling and RecvError types](https://github.com/H1ghBre4k3r/notizia/pull/26) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (1 day ago)
@@ -53,7 +54,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [feat(types): Introduce dedicated error module for type checking](https://github.com/H1ghBre4k3r/ruskell/pull/17) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 month ago)
 - [feat(docs): update README](https://github.com/H1ghBre4k3r/ruskell/pull/16) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 month ago)
 - [ci: Add documentation deployment workflow](https://github.com/H1ghBre4k3r/ruskell/pull/15) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 month ago)
-- [docs-type-inference-interpreter](https://github.com/H1ghBre4k3r/ruskell/pull/14) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 month ago)
 
 #### ⭐ Recent Stars
 
