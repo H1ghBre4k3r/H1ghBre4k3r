@@ -33,8 +33,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.19.1](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.19.1), 1 day ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-- [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) ([v0.3.0](https://github.com/H1ghBre4k3r/notizia/releases/tag/v0.3.0), 1 week ago) - Message passing in Rust. Or at least an idea about it.
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.19.1](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.19.1), 2 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) ([v0.3.0](https://github.com/H1ghBre4k3r/notizia/releases/tag/v0.3.0), 2 weeks ago) - Message passing in Rust. Or at least an idea about it.
 - [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) ([v0.2.0](https://github.com/H1ghBre4k3r/disruption/releases/tag/v0.2.0), 3 months ago) - Featherweight wrapper around the Discord-API written in Rust.
 - [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) ([v0.5.0](https://github.com/H1ghBre4k3r/guardia/releases/tag/v0.5.0), 3 months ago) - The server monitoring solution from outer space.
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) ([v0.1.1](https://github.com/H1ghBre4k3r/y-lang/releases/tag/v0.1.1), 4 months ago) - A new fancy and not at all useful programming language.
@@ -44,9 +44,9 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [add-call-macro-request-response-patterns](https://github.com/H1ghBre4k3r/notizia/pull/33) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (1 week ago)
-- [task-lifecycle-improvements](https://github.com/H1ghBre4k3r/notizia/pull/32) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (1 week ago)
-- [task-infrastructure-and-traits](https://github.com/H1ghBre4k3r/notizia/pull/30) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (1 week ago)
+- [add-call-macro-request-response-patterns](https://github.com/H1ghBre4k3r/notizia/pull/33) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (2 weeks ago)
+- [task-lifecycle-improvements](https://github.com/H1ghBre4k3r/notizia/pull/32) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (2 weeks ago)
+- [task-infrastructure-and-traits](https://github.com/H1ghBre4k3r/notizia/pull/30) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (2 weeks ago)
 - [docs: Add error handling to README](https://github.com/H1ghBre4k3r/notizia/pull/28) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (2 weeks ago)
 - [feat(ci): Add code coverage tracking and reporting](https://github.com/H1ghBre4k3r/notizia/pull/27) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (2 weeks ago)
 - [feat(errors): Add error handling and RecvError types](https://github.com/H1ghBre4k3r/notizia/pull/26) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (2 weeks ago)
@@ -63,7 +63,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [martinwoodward/octolamp](https://github.com/martinwoodward/octolamp) - A 3D printed, GitHub infused, smart light (1 month ago)
 - [tim-we/wavestreamer](https://github.com/tim-we/wavestreamer) - A music player simulating a radio written in Go.  (2 months ago)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (3 months ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (3 months ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (4 months ago)
 - [ghuntley/cursed](https://github.com/ghuntley/cursed) - the 💀 cursed programming language: programming, but make it gen z (4 months ago)
 - [git/git.github.io](https://github.com/git/git.github.io) - Git Developer Pages (This is NOT the place to discuss Git issues. See: https://git-scm.com/community) (4 months ago)
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (4 months ago)
