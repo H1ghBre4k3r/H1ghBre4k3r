@@ -7,13 +7,13 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it. (3 weeks ago)
+- [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it. (4 weeks ago)
 - [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) - Some language like Haskell, but implemented in Rust. (1 month ago)
 - [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) - The server monitoring solution from outer space. (2 months ago)
 - [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (2 months ago)
 - [H1ghBre4k3r/aoc-2025](https://github.com/H1ghBre4k3r/aoc-2025) - Ah shit, here we go again.  (2 months ago)
 - [H1ghBre4k3r/git-presentation](https://github.com/H1ghBre4k3r/git-presentation) - Git Presentation OE 2025 (2 months ago)
-- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (3 months ago)
+- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (4 months ago)
 - [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (4 months ago)
 - [pesca-dev/decentnoobbot-deploy](https://github.com/pesca-dev/decentnoobbot-deploy) -  (4 months ago)
 - [pesca-dev/oe-workshop-git-2025](https://github.com/pesca-dev/oe-workshop-git-2025) -  (4 months ago)
@@ -33,8 +33,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.19.3](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.19.3), 6 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-- [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) ([v0.3.0](https://github.com/H1ghBre4k3r/notizia/releases/tag/v0.3.0), 4 weeks ago) - Message passing in Rust. Or at least an idea about it.
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.19.3](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.19.3), 1 week ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) ([v0.3.0](https://github.com/H1ghBre4k3r/notizia/releases/tag/v0.3.0), 1 month ago) - Message passing in Rust. Or at least an idea about it.
 - [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) ([v0.2.0](https://github.com/H1ghBre4k3r/disruption/releases/tag/v0.2.0), 4 months ago) - Featherweight wrapper around the Discord-API written in Rust.
 - [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) ([v0.5.0](https://github.com/H1ghBre4k3r/guardia/releases/tag/v0.5.0), 4 months ago) - The server monitoring solution from outer space.
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) ([v0.1.1](https://github.com/H1ghBre4k3r/y-lang/releases/tag/v0.1.1), 5 months ago) - A new fancy and not at all useful programming language.
@@ -44,16 +44,16 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [add-call-macro-request-response-patterns](https://github.com/H1ghBre4k3r/notizia/pull/33) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (4 weeks ago)
-- [task-lifecycle-improvements](https://github.com/H1ghBre4k3r/notizia/pull/32) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (4 weeks ago)
-- [task-infrastructure-and-traits](https://github.com/H1ghBre4k3r/notizia/pull/30) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (4 weeks ago)
+- [add-call-macro-request-response-patterns](https://github.com/H1ghBre4k3r/notizia/pull/33) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (1 month ago)
+- [task-lifecycle-improvements](https://github.com/H1ghBre4k3r/notizia/pull/32) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (1 month ago)
+- [task-infrastructure-and-traits](https://github.com/H1ghBre4k3r/notizia/pull/30) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (1 month ago)
 - [docs: Add error handling to README](https://github.com/H1ghBre4k3r/notizia/pull/28) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (1 month ago)
 - [feat(ci): Add code coverage tracking and reporting](https://github.com/H1ghBre4k3r/notizia/pull/27) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (1 month ago)
 - [feat(errors): Add error handling and RecvError types](https://github.com/H1ghBre4k3r/notizia/pull/26) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (1 month ago)
 - [refactor-task-and-async-mailbox-error-handling](https://github.com/H1ghBre4k3r/notizia/pull/1) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (1 month ago)
 - [feat(lexer): Add comment stripping support for Ruskell](https://github.com/H1ghBre4k3r/ruskell/pull/20) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 month ago)
 - [list-literals-and-operations](https://github.com/H1ghBre4k3r/ruskell/pull/19) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 month ago)
-- [feat(types): Introduce dedicated error module for type checking](https://github.com/H1ghBre4k3r/ruskell/pull/17) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (1 month ago)
+- [feat(types): Introduce dedicated error module for type checking](https://github.com/H1ghBre4k3r/ruskell/pull/17) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (2 months ago)
 
 #### ⭐ Recent Stars
 
@@ -66,7 +66,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (4 months ago)
 - [ghuntley/cursed](https://github.com/ghuntley/cursed) - the 💀 cursed programming language: programming, but make it gen z (4 months ago)
 - [git/git.github.io](https://github.com/git/git.github.io) - Git Developer Pages (This is NOT the place to discuss Git issues. See: https://git-scm.com/community) (4 months ago)
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (4 months ago)
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (5 months ago)
 
 #### 📫 How to reach me
 
