@@ -7,7 +7,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it. (4 weeks ago)
+- [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it. (1 month ago)
 - [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) - Some language like Haskell, but implemented in Rust. (1 month ago)
 - [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) - The server monitoring solution from outer space. (2 months ago)
 - [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (2 months ago)
@@ -62,10 +62,10 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40&#43; independent Lua modules improving Neovim experience with minimal effort (1 month ago)
 - [martinwoodward/octolamp](https://github.com/martinwoodward/octolamp) - A 3D printed, GitHub infused, smart light (1 month ago)
 - [tim-we/wavestreamer](https://github.com/tim-we/wavestreamer) - A music player simulating a radio written in Go.  (2 months ago)
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (3 months ago)
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (4 months ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (4 months ago)
 - [ghuntley/cursed](https://github.com/ghuntley/cursed) - the 💀 cursed programming language: programming, but make it gen z (4 months ago)
-- [git/git.github.io](https://github.com/git/git.github.io) - Git Developer Pages (This is NOT the place to discuss Git issues. See: https://git-scm.com/community) (4 months ago)
+- [git/git.github.io](https://github.com/git/git.github.io) - Git Developer Pages (This is NOT the place to discuss Git issues. See: https://git-scm.com/community) (5 months ago)
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (5 months ago)
 
 #### 📫 How to reach me
