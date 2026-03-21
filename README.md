@@ -57,6 +57,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim (today)
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents (5 days ago)
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (1 month ago)
 - [zenc-lang/zenc](https://github.com/zenc-lang/zenc) - Write like a high-level language, run like C. (2 months ago)
@@ -66,7 +67,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (4 months ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (5 months ago)
 - [ghuntley/cursed](https://github.com/ghuntley/cursed) - the 💀 cursed programming language: programming, but make it gen z (5 months ago)
-- [git/git.github.io](https://github.com/git/git.github.io) - Git Developer Pages (This is NOT the place to discuss Git issues. See: https://git-scm.com/community) (5 months ago)
 
 #### 📫 How to reach me
 
