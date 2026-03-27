@@ -7,7 +7,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/rerere](https://github.com/H1ghBre4k3r/rerere) -  (6 days ago)
+- [H1ghBre4k3r/rerere](https://github.com/H1ghBre4k3r/rerere) -  (1 week ago)
 - [H1ghBre4k3r/esp-homekit-rs](https://github.com/H1ghBre4k3r/esp-homekit-rs) -  (1 week ago)
 - [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it. (1 month ago)
 - [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) - Some language like Haskell, but implemented in Rust. (2 months ago)
@@ -47,9 +47,9 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [add-call-macro-request-response-patterns](https://github.com/H1ghBre4k3r/notizia/pull/33) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (1 month ago)
 - [task-lifecycle-improvements](https://github.com/H1ghBre4k3r/notizia/pull/32) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (1 month ago)
 - [task-infrastructure-and-traits](https://github.com/H1ghBre4k3r/notizia/pull/30) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (1 month ago)
-- [docs: Add error handling to README](https://github.com/H1ghBre4k3r/notizia/pull/28) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (1 month ago)
-- [feat(ci): Add code coverage tracking and reporting](https://github.com/H1ghBre4k3r/notizia/pull/27) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (1 month ago)
-- [feat(errors): Add error handling and RecvError types](https://github.com/H1ghBre4k3r/notizia/pull/26) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (1 month ago)
+- [docs: Add error handling to README](https://github.com/H1ghBre4k3r/notizia/pull/28) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (2 months ago)
+- [feat(ci): Add code coverage tracking and reporting](https://github.com/H1ghBre4k3r/notizia/pull/27) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (2 months ago)
+- [feat(errors): Add error handling and RecvError types](https://github.com/H1ghBre4k3r/notizia/pull/26) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (2 months ago)
 - [refactor-task-and-async-mailbox-error-handling](https://github.com/H1ghBre4k3r/notizia/pull/1) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (2 months ago)
 - [feat(lexer): Add comment stripping support for Ruskell](https://github.com/H1ghBre4k3r/ruskell/pull/20) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (2 months ago)
 - [list-literals-and-operations](https://github.com/H1ghBre4k3r/ruskell/pull/19) on [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) (2 months ago)
@@ -57,7 +57,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim (5 days ago)
+- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim (6 days ago)
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents (1 week ago)
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (2 months ago)
 - [zenc-lang/zenc](https://github.com/zenc-lang/zenc) - Write like a high-level language, run like C. (2 months ago)
