@@ -10,7 +10,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/rerere](https://github.com/H1ghBre4k3r/rerere) -  (2 weeks ago)
 - [H1ghBre4k3r/esp-homekit-rs](https://github.com/H1ghBre4k3r/esp-homekit-rs) -  (3 weeks ago)
 - [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it. (2 months ago)
-- [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) - Some language like Haskell, but implemented in Rust. (2 months ago)
+- [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) - Some language like Haskell, but implemented in Rust. (3 months ago)
 - [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) - The server monitoring solution from outer space. (3 months ago)
 - [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (3 months ago)
 - [H1ghBre4k3r/aoc-2025](https://github.com/H1ghBre4k3r/aoc-2025) - Ah shit, here we go again.  (3 months ago)
@@ -33,7 +33,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.19.7](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.19.7), 3 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.19.7](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.19.7), 4 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) ([v0.3.0](https://github.com/H1ghBre4k3r/notizia/releases/tag/v0.3.0), 2 months ago) - Message passing in Rust. Or at least an idea about it.
 - [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) ([v0.2.0](https://github.com/H1ghBre4k3r/disruption/releases/tag/v0.2.0), 5 months ago) - Featherweight wrapper around the Discord-API written in Rust.
 - [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) ([v0.5.0](https://github.com/H1ghBre4k3r/guardia/releases/tag/v0.5.0), 5 months ago) - The server monitoring solution from outer space.
@@ -58,7 +58,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 #### ⭐ Recent Stars
 
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim (2 weeks ago)
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents (2 weeks ago)
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents (3 weeks ago)
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (2 months ago)
 - [zenc-lang/zenc](https://github.com/zenc-lang/zenc) - Write like a high-level language, run like C. (2 months ago)
 - [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40&#43; independent Lua modules improving Neovim experience with minimal effort (2 months ago)
