@@ -44,6 +44,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [refactor-api-utilities-and-styling](https://github.com/H1ghBre4k3r/kiebex/pull/23) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (today)
 - [email-verification-breadcrumbs-audit-locations](https://github.com/H1ghBre4k3r/kiebex/pull/22) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 day ago)
 - [mobile-responsive-filter-sticky-header](https://github.com/H1ghBre4k3r/kiebex/pull/21) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 day ago)
 - [feat: add email verification management for users](https://github.com/H1ghBre4k3r/kiebex/pull/20) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 day ago)
@@ -53,7 +54,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [docker-nextjs-standalone-deployment](https://github.com/H1ghBre4k3r/kiebex/pull/3) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (4 days ago)
 - [add-tests](https://github.com/H1ghBre4k3r/kiebex/pull/2) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (4 days ago)
 - [enable-persistence](https://github.com/H1ghBre4k3r/kiebex/pull/1) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (4 days ago)
-- [add-call-macro-request-response-patterns](https://github.com/H1ghBre4k3r/notizia/pull/33) on [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) (2 months ago)
 
 #### ⭐ Recent Stars
 
