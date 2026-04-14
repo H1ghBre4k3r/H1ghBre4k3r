@@ -7,7 +7,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) - Kieler Beer Index (1 day ago)
+- [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) - Kieler Beer Index (today)
 - [H1ghBre4k3r/rerere](https://github.com/H1ghBre4k3r/rerere) -  (3 weeks ago)
 - [H1ghBre4k3r/esp-homekit-rs](https://github.com/H1ghBre4k3r/esp-homekit-rs) -  (1 month ago)
 - [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it. (2 months ago)
@@ -44,6 +44,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add legal pages and footer component](https://github.com/H1ghBre4k3r/kiebex/pull/28) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (today)
 - [user-ban-password-reset-functionality](https://github.com/H1ghBre4k3r/kiebex/pull/27) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 day ago)
 - [add-create-location-brand-forms](https://github.com/H1ghBre4k3r/kiebex/pull/26) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 day ago)
 - [refactor-api-utilities-and-styling](https://github.com/H1ghBre4k3r/kiebex/pull/23) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (2 days ago)
@@ -53,7 +54,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [k3s-deployment](https://github.com/H1ghBre4k3r/kiebex/pull/19) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (3 days ago)
 - [multi-select-filters-sorting-refactor](https://github.com/H1ghBre4k3r/kiebex/pull/18) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (3 days ago)
 - [logging-email-verification-profile-moderation](https://github.com/H1ghBre4k3r/kiebex/pull/14) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (5 days ago)
-- [docker-nextjs-standalone-deployment](https://github.com/H1ghBre4k3r/kiebex/pull/3) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (6 days ago)
 
 #### ⭐ Recent Stars
 
