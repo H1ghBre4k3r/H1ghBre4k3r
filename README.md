@@ -8,7 +8,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 #### 👷 Check out what I'm currently working on
 
 - [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) - Kieler Beer Index (today)
-- [H1ghBre4k3r/rerere](https://github.com/H1ghBre4k3r/rerere) -  (4 weeks ago)
+- [H1ghBre4k3r/rerere](https://github.com/H1ghBre4k3r/rerere) -  (1 month ago)
 - [H1ghBre4k3r/esp-homekit-rs](https://github.com/H1ghBre4k3r/esp-homekit-rs) -  (1 month ago)
 - [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it. (2 months ago)
 - [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) - Some language like Haskell, but implemented in Rust. (3 months ago)
@@ -33,7 +33,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.19.8](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.19.8), 1 day ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.19.8](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.19.8), 2 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) ([v0.3.0](https://github.com/H1ghBre4k3r/notizia/releases/tag/v0.3.0), 2 months ago) - Message passing in Rust. Or at least an idea about it.
 - [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) ([v0.2.0](https://github.com/H1ghBre4k3r/disruption/releases/tag/v0.2.0), 5 months ago) - Featherweight wrapper around the Discord-API written in Rust.
 - [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) ([v0.5.0](https://github.com/H1ghBre4k3r/guardia/releases/tag/v0.5.0), 6 months ago) - The server monitoring solution from outer space.
@@ -44,20 +44,21 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [container-image-cleanup-resource-limits](https://github.com/H1ghBre4k3r/kiebex/pull/35) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (today)
-- [feat: add review app deployment manifests and CI](https://github.com/H1ghBre4k3r/kiebex/pull/31) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (2 days ago)
-- [improve-moderation-ui](https://github.com/H1ghBre4k3r/kiebex/pull/29) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (4 days ago)
-- [feat: add legal pages and footer component](https://github.com/H1ghBre4k3r/kiebex/pull/28) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (4 days ago)
-- [user-ban-password-reset-functionality](https://github.com/H1ghBre4k3r/kiebex/pull/27) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (5 days ago)
-- [add-create-location-brand-forms](https://github.com/H1ghBre4k3r/kiebex/pull/26) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (5 days ago)
-- [refactor-api-utilities-and-styling](https://github.com/H1ghBre4k3r/kiebex/pull/23) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (6 days ago)
+- [container-image-cleanup-resource-limits](https://github.com/H1ghBre4k3r/kiebex/pull/35) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 day ago)
+- [feat: add review app deployment manifests and CI](https://github.com/H1ghBre4k3r/kiebex/pull/31) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (3 days ago)
+- [improve-moderation-ui](https://github.com/H1ghBre4k3r/kiebex/pull/29) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (5 days ago)
+- [feat: add legal pages and footer component](https://github.com/H1ghBre4k3r/kiebex/pull/28) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (5 days ago)
+- [user-ban-password-reset-functionality](https://github.com/H1ghBre4k3r/kiebex/pull/27) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (6 days ago)
+- [add-create-location-brand-forms](https://github.com/H1ghBre4k3r/kiebex/pull/26) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (6 days ago)
+- [refactor-api-utilities-and-styling](https://github.com/H1ghBre4k3r/kiebex/pull/23) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 week ago)
 - [email-verification-breadcrumbs-audit-locations](https://github.com/H1ghBre4k3r/kiebex/pull/22) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 week ago)
 - [mobile-responsive-filter-sticky-header](https://github.com/H1ghBre4k3r/kiebex/pull/21) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 week ago)
 - [feat: add email verification management for users](https://github.com/H1ghBre4k3r/kiebex/pull/20) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.  (4 days ago)
+- [carlosedp/cluster-monitoring](https://github.com/carlosedp/cluster-monitoring) - Cluster monitoring stack for clusters based on Prometheus Operator (1 day ago)
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.  (5 days ago)
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim (4 weeks ago)
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents (1 month ago)
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (2 months ago)
@@ -66,7 +67,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [martinwoodward/octolamp](https://github.com/martinwoodward/octolamp) - A 3D printed, GitHub infused, smart light (3 months ago)
 - [tim-we/wavestreamer](https://github.com/tim-we/wavestreamer) - A music player simulating a radio written in Go.  (4 months ago)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (5 months ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (6 months ago)
 
 #### 📫 How to reach me
 
