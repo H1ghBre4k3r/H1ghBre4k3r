@@ -44,6 +44,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [feat: wrap API handlers with metrics middleware](https://github.com/H1ghBre4k3r/kiebex/pull/36) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (today)
 - [container-image-cleanup-resource-limits](https://github.com/H1ghBre4k3r/kiebex/pull/35) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 day ago)
 - [feat: add review app deployment manifests and CI](https://github.com/H1ghBre4k3r/kiebex/pull/31) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (3 days ago)
 - [improve-moderation-ui](https://github.com/H1ghBre4k3r/kiebex/pull/29) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (5 days ago)
@@ -53,7 +54,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [refactor-api-utilities-and-styling](https://github.com/H1ghBre4k3r/kiebex/pull/23) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 week ago)
 - [email-verification-breadcrumbs-audit-locations](https://github.com/H1ghBre4k3r/kiebex/pull/22) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 week ago)
 - [mobile-responsive-filter-sticky-header](https://github.com/H1ghBre4k3r/kiebex/pull/21) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 week ago)
-- [feat: add email verification management for users](https://github.com/H1ghBre4k3r/kiebex/pull/20) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 week ago)
 
 #### ⭐ Recent Stars
 
