@@ -57,6 +57,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration (today)
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn&#39;t compromise on flexibility, efficiency and portability. (today)
 - [carlosedp/cluster-monitoring](https://github.com/carlosedp/cluster-monitoring) - Cluster monitoring stack for clusters based on Prometheus Operator (2 days ago)
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.  (6 days ago)
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim (1 month ago)
@@ -65,8 +67,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [zenc-lang/zenc](https://github.com/zenc-lang/zenc) - Write like a high-level language, run like C. (3 months ago)
 - [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40&#43; independent Lua modules improving Neovim experience with minimal effort (3 months ago)
 - [martinwoodward/octolamp](https://github.com/martinwoodward/octolamp) - A 3D printed, GitHub infused, smart light (3 months ago)
-- [tim-we/wavestreamer](https://github.com/tim-we/wavestreamer) - A music player simulating a radio written in Go.  (4 months ago)
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (5 months ago)
 
 #### 📫 How to reach me
 
