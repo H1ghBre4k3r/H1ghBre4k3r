@@ -44,6 +44,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: extract URL utilities to shared module](https://github.com/H1ghBre4k3r/kiebex/pull/42) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (today)
 - [auth-logging-sentry-metrics-integration](https://github.com/H1ghBre4k3r/kiebex/pull/41) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (2 days ago)
 - [feat: wrap API handlers with metrics middleware](https://github.com/H1ghBre4k3r/kiebex/pull/36) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (2 days ago)
 - [container-image-cleanup-resource-limits](https://github.com/H1ghBre4k3r/kiebex/pull/35) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (3 days ago)
@@ -53,7 +54,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [user-ban-password-reset-functionality](https://github.com/H1ghBre4k3r/kiebex/pull/27) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 week ago)
 - [add-create-location-brand-forms](https://github.com/H1ghBre4k3r/kiebex/pull/26) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 week ago)
 - [refactor-api-utilities-and-styling](https://github.com/H1ghBre4k3r/kiebex/pull/23) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 week ago)
-- [email-verification-breadcrumbs-audit-locations](https://github.com/H1ghBre4k3r/kiebex/pull/22) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 week ago)
 
 #### ⭐ Recent Stars
 
