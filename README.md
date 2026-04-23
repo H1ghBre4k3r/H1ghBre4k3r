@@ -44,6 +44,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [DO NOT MERGE: comparison pr for performance measurement](https://github.com/H1ghBre4k3r/kiebex/pull/50) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (today)
+- [DO NOT MERGE: baseline pr for performance measurement](https://github.com/H1ghBre4k3r/kiebex/pull/49) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (today)
 - [test-performance-improvements](https://github.com/H1ghBre4k3r/kiebex/pull/45) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 day ago)
 - [expand-test-coverage](https://github.com/H1ghBre4k3r/kiebex/pull/44) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 day ago)
 - [improve-e2e-coverage](https://github.com/H1ghBre4k3r/kiebex/pull/43) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (2 days ago)
@@ -52,8 +54,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [feat: wrap API handlers with metrics middleware](https://github.com/H1ghBre4k3r/kiebex/pull/36) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (4 days ago)
 - [container-image-cleanup-resource-limits](https://github.com/H1ghBre4k3r/kiebex/pull/35) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (5 days ago)
 - [feat: add review app deployment manifests and CI](https://github.com/H1ghBre4k3r/kiebex/pull/31) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 week ago)
-- [improve-moderation-ui](https://github.com/H1ghBre4k3r/kiebex/pull/29) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 week ago)
-- [feat: add legal pages and footer component](https://github.com/H1ghBre4k3r/kiebex/pull/28) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 week ago)
 
 #### ⭐ Recent Stars
 
