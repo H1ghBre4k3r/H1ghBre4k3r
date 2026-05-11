@@ -7,7 +7,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) - Kieler Beer Index (4 days ago)
+- [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) - Kieler Beer Index (today)
 - [H1ghBre4k3r/rerere](https://github.com/H1ghBre4k3r/rerere) -  (1 month ago)
 - [H1ghBre4k3r/esp-homekit-rs](https://github.com/H1ghBre4k3r/esp-homekit-rs) -  (1 month ago)
 - [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it. (3 months ago)
@@ -44,6 +44,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [add-contract-test-filtering-route-switch-proxy](https://github.com/H1ghBre4k3r/kiebex/pull/80) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (today)
 - [add-beer-styles-catalog-endpoint](https://github.com/H1ghBre4k3r/kiebex/pull/64) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 week ago)
 - [initial-rust-migration-setup](https://github.com/H1ghBre4k3r/kiebex/pull/59) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (2 weeks ago)
 - [DO NOT MERGE: comparison pr for performance measurement](https://github.com/H1ghBre4k3r/kiebex/pull/50) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (2 weeks ago)
@@ -53,7 +54,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [improve-e2e-coverage](https://github.com/H1ghBre4k3r/kiebex/pull/43) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (2 weeks ago)
 - [refactor: extract URL utilities to shared module](https://github.com/H1ghBre4k3r/kiebex/pull/42) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (2 weeks ago)
 - [auth-logging-sentry-metrics-integration](https://github.com/H1ghBre4k3r/kiebex/pull/41) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (3 weeks ago)
-- [feat: wrap API handlers with metrics middleware](https://github.com/H1ghBre4k3r/kiebex/pull/36) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
