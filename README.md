@@ -15,7 +15,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) - The server monitoring solution from outer space. (5 months ago)
 - [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (5 months ago)
 - [H1ghBre4k3r/aoc-2025](https://github.com/H1ghBre4k3r/aoc-2025) - Ah shit, here we go again.  (5 months ago)
-- [H1ghBre4k3r/git-presentation](https://github.com/H1ghBre4k3r/git-presentation) - Git Presentation OE 2025 (5 months ago)
+- [H1ghBre4k3r/git-presentation](https://github.com/H1ghBre4k3r/git-presentation) - Git Presentation OE 2025 (6 months ago)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (7 months ago)
 
 #### 🌱 My latest projects
@@ -57,7 +57,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (3 days ago)
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (4 days ago)
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode (3 weeks ago)
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration (3 weeks ago)
 - [janapavlasek/multi-robot-svbp](https://github.com/janapavlasek/multi-robot-svbp) - Code for the multi-robot SVBP paper. (1 month ago)
