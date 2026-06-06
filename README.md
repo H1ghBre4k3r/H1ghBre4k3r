@@ -59,7 +59,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 - [ReactiveBayes/RxEnvironments.jl](https://github.com/ReactiveBayes/RxEnvironments.jl) - Reactive environments for self-learning agents (5 days ago)
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (1 week ago)
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode (1 month ago)
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode (1 month ago)
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration (1 month ago)
 - [janapavlasek/multi-robot-svbp](https://github.com/janapavlasek/multi-robot-svbp) - Code for the multi-robot SVBP paper. (1 month ago)
 - [git-meta/git-meta](https://github.com/git-meta/git-meta) - git metadata spec and poc (1 month ago)
