@@ -20,6 +20,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🌱 My latest projects
 
+- [H1ghBre4k3r/algorithm-visualization](https://github.com/H1ghBre4k3r/algorithm-visualization) - 
 - [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) - Kieler Beer Index
 - [H1ghBre4k3r/rerere](https://github.com/H1ghBre4k3r/rerere) - 
 - [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it.
@@ -29,7 +30,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/esp-homekit-rs](https://github.com/H1ghBre4k3r/esp-homekit-rs) - 
 - [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) - The server monitoring solution from outer space.
 - [H1ghBre4k3r/rust-mem-leak](https://github.com/H1ghBre4k3r/rust-mem-leak) - 
-- [H1ghBre4k3r/kneipolympics-legacy](https://github.com/H1ghBre4k3r/kneipolympics-legacy) - Repository containing all information about the technical part for the Kneipolympics.
 
 #### 🔭 Latest releases I've contributed to
 
