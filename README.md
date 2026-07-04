@@ -57,7 +57,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches. (1 day ago)
+- [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches. (2 days ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (2 weeks ago)
 - [gitbutlerapp/grit](https://github.com/gitbutlerapp/grit) - Reimplementing Git in Rust. Like a boss. (2 weeks ago)
 - [ReactiveBayes/RxEnvironments.jl](https://github.com/ReactiveBayes/RxEnvironments.jl) - Reactive environments for self-learning agents (1 month ago)
