@@ -36,7 +36,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.21.0](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.21.0), 1 week ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) ([v0.3.0](https://github.com/H1ghBre4k3r/notizia/releases/tag/v0.3.0), 5 months ago) - Message passing in Rust. Or at least an idea about it.
 - [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) ([v0.2.0](https://github.com/H1ghBre4k3r/disruption/releases/tag/v0.2.0), 8 months ago) - Featherweight wrapper around the Discord-API written in Rust.
-- [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) ([v0.5.0](https://github.com/H1ghBre4k3r/guardia/releases/tag/v0.5.0), 8 months ago) - The server monitoring solution from outer space.
+- [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) ([v0.5.0](https://github.com/H1ghBre4k3r/guardia/releases/tag/v0.5.0), 9 months ago) - The server monitoring solution from outer space.
 - [H1ghBre4k3r/y-lang](https://github.com/H1ghBre4k3r/y-lang) ([v0.1.1](https://github.com/H1ghBre4k3r/y-lang/releases/tag/v0.1.1), 9 months ago) - A new fancy and not at all useful programming language.
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) ([v0.1.5](https://github.com/pesca-dev/atomicity/releases/tag/v0.1.5), 2 years ago) - Lightweight library for creating fast WebComponents.
 - [H1ghBre4k3r/y-lang-v0](https://github.com/H1ghBre4k3r/y-lang-v0) ([v0.1.3](https://github.com/H1ghBre4k3r/y-lang-v0/releases/tag/v0.1.3), 3 years ago) - Compiler for the (rather new and very experimental) Y programming language. 
@@ -57,7 +57,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches. (1 week ago)
+- [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches. (2 weeks ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (4 weeks ago)
 - [gitbutlerapp/grit](https://github.com/gitbutlerapp/grit) - Reimplementing Git in Rust. Like a boss. (1 month ago)
 - [ReactiveBayes/RxEnvironments.jl](https://github.com/ReactiveBayes/RxEnvironments.jl) - Reactive environments for self-learning agents (1 month ago)
