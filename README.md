@@ -7,6 +7,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
+- [H1ghBre4k3r/reactivebayes-agent-skills](https://github.com/H1ghBre4k3r/reactivebayes-agent-skills) - Coding-agent skills for idiomatic RxInfer, ReactiveMP, and RxEnvironments workflows. (today)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (1 month ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 month ago)
 - [H1ghBre4k3r/algorithm-visualization](https://github.com/H1ghBre4k3r/algorithm-visualization) - Interactive algorithm and data structure visualizations to make learning computer science intuitive. (1 month ago)
@@ -16,10 +17,10 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it. (5 months ago)
 - [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) - Some language like Haskell, but implemented in Rust. (6 months ago)
 - [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) - The server monitoring solution from outer space. (6 months ago)
-- [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (7 months ago)
 
 #### 🌱 My latest projects
 
+- [H1ghBre4k3r/reactivebayes-agent-skills](https://github.com/H1ghBre4k3r/reactivebayes-agent-skills) - Coding-agent skills for idiomatic RxInfer, ReactiveMP, and RxEnvironments workflows.
 - [H1ghBre4k3r/algorithm-visualization](https://github.com/H1ghBre4k3r/algorithm-visualization) - Interactive algorithm and data structure visualizations to make learning computer science intuitive.
 - [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) - Kieler Beer Index
 - [H1ghBre4k3r/rerere](https://github.com/H1ghBre4k3r/rerere) - 
@@ -29,7 +30,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/git-presentation](https://github.com/H1ghBre4k3r/git-presentation) - Git Presentation OE 2025
 - [H1ghBre4k3r/esp-homekit-rs](https://github.com/H1ghBre4k3r/esp-homekit-rs) - 
 - [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) - The server monitoring solution from outer space.
-- [H1ghBre4k3r/rust-mem-leak](https://github.com/H1ghBre4k3r/rust-mem-leak) - 
 
 #### 🔭 Latest releases I've contributed to
 
