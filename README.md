@@ -7,9 +7,9 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/reactivebayes-agent-skills](https://github.com/H1ghBre4k3r/reactivebayes-agent-skills) - Coding-agent skills for idiomatic RxInfer, ReactiveMP, and RxEnvironments workflows. (today)
-- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (1 month ago)
+- [H1ghBre4k3r/reactivebayes-agent-skills](https://github.com/H1ghBre4k3r/reactivebayes-agent-skills) - Coding-agent skills for idiomatic RxInfer, ReactiveMP, and RxEnvironments workflows. (1 day ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 month ago)
+- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (1 month ago)
 - [H1ghBre4k3r/algorithm-visualization](https://github.com/H1ghBre4k3r/algorithm-visualization) - Interactive algorithm and data structure visualizations to make learning computer science intuitive. (1 month ago)
 - [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) - Kieler Beer Index (1 month ago)
 - [H1ghBre4k3r/rerere](https://github.com/H1ghBre4k3r/rerere) -  (4 months ago)
@@ -49,14 +49,15 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [initial-rust-migration-setup](https://github.com/H1ghBre4k3r/kiebex/pull/59) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (2 months ago)
 - [DO NOT MERGE: comparison pr for performance measurement](https://github.com/H1ghBre4k3r/kiebex/pull/50) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (2 months ago)
 - [DO NOT MERGE: baseline pr for performance measurement](https://github.com/H1ghBre4k3r/kiebex/pull/49) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (2 months ago)
-- [test-performance-improvements](https://github.com/H1ghBre4k3r/kiebex/pull/45) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (2 months ago)
-- [expand-test-coverage](https://github.com/H1ghBre4k3r/kiebex/pull/44) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (2 months ago)
+- [test-performance-improvements](https://github.com/H1ghBre4k3r/kiebex/pull/45) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (3 months ago)
+- [expand-test-coverage](https://github.com/H1ghBre4k3r/kiebex/pull/44) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (3 months ago)
 - [improve-e2e-coverage](https://github.com/H1ghBre4k3r/kiebex/pull/43) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (3 months ago)
 - [refactor: extract URL utilities to shared module](https://github.com/H1ghBre4k3r/kiebex/pull/42) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (3 months ago)
 - [auth-logging-sentry-metrics-integration](https://github.com/H1ghBre4k3r/kiebex/pull/41) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (3 months ago)
 
 #### ⭐ Recent Stars
 
+- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. (today)
 - [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches. (2 weeks ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 month ago)
 - [gitbutlerapp/grit](https://github.com/gitbutlerapp/grit) - Reimplementing Git in Rust. Like a boss. (1 month ago)
@@ -66,7 +67,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated (2 months ago)
 - [janapavlasek/multi-robot-svbp](https://github.com/janapavlasek/multi-robot-svbp) - Code for the multi-robot SVBP paper. (2 months ago)
 - [git-meta/git-meta](https://github.com/git-meta/git-meta) - git metadata spec and poc (3 months ago)
-- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration (3 months ago)
 
 #### 📫 How to reach me
 
