@@ -8,7 +8,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 #### 👷 Check out what I'm currently working on
 
 - [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) - Kieler Beer Index (today)
-- [H1ghBre4k3r/reactivebayes-agent-skills](https://github.com/H1ghBre4k3r/reactivebayes-agent-skills) - Coding-agent skills for idiomatic RxInfer, ReactiveMP, and RxEnvironments workflows. (3 days ago)
+- [H1ghBre4k3r/reactivebayes-agent-skills](https://github.com/H1ghBre4k3r/reactivebayes-agent-skills) - Coding-agent skills for idiomatic RxInfer, ReactiveMP, and RxEnvironments workflows. (4 days ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 month ago)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (1 month ago)
 - [H1ghBre4k3r/algorithm-visualization](https://github.com/H1ghBre4k3r/algorithm-visualization) - Interactive algorithm and data structure visualizations to make learning computer science intuitive. (1 month ago)
@@ -33,7 +33,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.21.2](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.21.2), 1 day ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) ([release/0.21.2](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.21.2), 2 days ago) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) ([v0.3.0](https://github.com/H1ghBre4k3r/notizia/releases/tag/v0.3.0), 5 months ago) - Message passing in Rust. Or at least an idea about it.
 - [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) ([v0.2.0](https://github.com/H1ghBre4k3r/disruption/releases/tag/v0.2.0), 9 months ago) - Featherweight wrapper around the Discord-API written in Rust.
 - [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) ([v0.5.0](https://github.com/H1ghBre4k3r/guardia/releases/tag/v0.5.0), 9 months ago) - The server monitoring solution from outer space.
@@ -57,7 +57,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
-- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. (2 days ago)
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (today)
+- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. (3 days ago)
 - [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches. (3 weeks ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 month ago)
 - [gitbutlerapp/grit](https://github.com/gitbutlerapp/grit) - Reimplementing Git in Rust. Like a boss. (1 month ago)
@@ -66,7 +67,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode (2 months ago)
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated (2 months ago)
 - [janapavlasek/multi-robot-svbp](https://github.com/janapavlasek/multi-robot-svbp) - Code for the multi-robot SVBP paper. (2 months ago)
-- [git-meta/git-meta](https://github.com/git-meta/git-meta) - git metadata spec and poc (3 months ago)
 
 #### 📫 How to reach me
 
