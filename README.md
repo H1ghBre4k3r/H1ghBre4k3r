@@ -44,6 +44,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [ci: improve docker build cache handling](https://github.com/H1ghBre4k3r/kiebex/pull/98) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (today)
 - [add-contract-test-filtering-route-switch-proxy](https://github.com/H1ghBre4k3r/kiebex/pull/80) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (2 months ago)
 - [add-beer-styles-catalog-endpoint](https://github.com/H1ghBre4k3r/kiebex/pull/64) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (2 months ago)
 - [initial-rust-migration-setup](https://github.com/H1ghBre4k3r/kiebex/pull/59) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (3 months ago)
@@ -53,7 +54,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [expand-test-coverage](https://github.com/H1ghBre4k3r/kiebex/pull/44) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (3 months ago)
 - [improve-e2e-coverage](https://github.com/H1ghBre4k3r/kiebex/pull/43) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (3 months ago)
 - [refactor: extract URL utilities to shared module](https://github.com/H1ghBre4k3r/kiebex/pull/42) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (3 months ago)
-- [auth-logging-sentry-metrics-integration](https://github.com/H1ghBre4k3r/kiebex/pull/41) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (3 months ago)
 
 #### ⭐ Recent Stars
 
