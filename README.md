@@ -7,7 +7,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) - Kieler Beer Index (3 days ago)
+- [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) - Kieler Beer Index (today)
 - [H1ghBre4k3r/reactivebayes-agent-skills](https://github.com/H1ghBre4k3r/reactivebayes-agent-skills) - Coding-agent skills for idiomatic RxInfer, ReactiveMP, and RxEnvironments workflows. (1 week ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 month ago)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (1 month ago)
@@ -43,6 +43,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [build(deps): bump React and React DOM to 19.2.8](https://github.com/H1ghBre4k3r/kiebex/pull/107) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (today)
 - [ci: improve docker build cache handling](https://github.com/H1ghBre4k3r/kiebex/pull/98) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 week ago)
 - [add-contract-test-filtering-route-switch-proxy](https://github.com/H1ghBre4k3r/kiebex/pull/80) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (2 months ago)
 - [add-beer-styles-catalog-endpoint](https://github.com/H1ghBre4k3r/kiebex/pull/64) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (3 months ago)
@@ -52,10 +53,10 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [test-performance-improvements](https://github.com/H1ghBre4k3r/kiebex/pull/45) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (3 months ago)
 - [expand-test-coverage](https://github.com/H1ghBre4k3r/kiebex/pull/44) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (3 months ago)
 - [improve-e2e-coverage](https://github.com/H1ghBre4k3r/kiebex/pull/43) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (3 months ago)
-- [refactor: extract URL utilities to shared module](https://github.com/H1ghBre4k3r/kiebex/pull/42) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (3 months ago)
 
 #### ⭐ Recent Stars
 
+- [mssun/passforios](https://github.com/mssun/passforios) - Pass for iOS - an iOS client compatible with Pass command line application. (today)
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (6 days ago)
 - [andrew-waters/orchard](https://github.com/andrew-waters/orchard) - A GUI for Apple Containers and MLX, written in swift (6 days ago)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (1 week ago)
@@ -65,7 +66,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [gitbutlerapp/grit](https://github.com/gitbutlerapp/grit) - Reimplementing Git in Rust. Like a boss. (1 month ago)
 - [ReactiveBayes/RxEnvironments.jl](https://github.com/ReactiveBayes/RxEnvironments.jl) - Reactive environments for self-learning agents (2 months ago)
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (2 months ago)
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode (2 months ago)
 
 #### 📫 How to reach me
 
