@@ -56,6 +56,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [progit/progit3](https://github.com/progit/progit3) - Pro Git 3rd Edition (today)
 - [mssun/passforios](https://github.com/mssun/passforios) - Pass for iOS - an iOS client compatible with Pass command line application. (2 days ago)
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (1 week ago)
 - [andrew-waters/orchard](https://github.com/andrew-waters/orchard) - A GUI for Apple Containers and MLX, written in swift (1 week ago)
@@ -65,7 +66,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 month ago)
 - [gitbutlerapp/grit](https://github.com/gitbutlerapp/grit) - Reimplementing Git in Rust. Like a boss. (1 month ago)
 - [ReactiveBayes/RxEnvironments.jl](https://github.com/ReactiveBayes/RxEnvironments.jl) - Reactive environments for self-learning agents (2 months ago)
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (2 months ago)
 
 #### 📫 How to reach me
 
