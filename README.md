@@ -43,6 +43,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add Discord API code generation](https://github.com/H1ghBre4k3r/disruption/pull/361) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (today)
+- [docs: rewrite README in a concise, human style](https://github.com/H1ghBre4k3r/disruption/pull/360) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (today)
 - [build(deps): bump React and React DOM to 19.2.8](https://github.com/H1ghBre4k3r/kiebex/pull/107) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (4 days ago)
 - [ci: improve docker build cache handling](https://github.com/H1ghBre4k3r/kiebex/pull/98) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 week ago)
 - [add-contract-test-filtering-route-switch-proxy](https://github.com/H1ghBre4k3r/kiebex/pull/80) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (2 months ago)
@@ -51,8 +53,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [DO NOT MERGE: comparison pr for performance measurement](https://github.com/H1ghBre4k3r/kiebex/pull/50) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (3 months ago)
 - [DO NOT MERGE: baseline pr for performance measurement](https://github.com/H1ghBre4k3r/kiebex/pull/49) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (3 months ago)
 - [test-performance-improvements](https://github.com/H1ghBre4k3r/kiebex/pull/45) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (3 months ago)
-- [expand-test-coverage](https://github.com/H1ghBre4k3r/kiebex/pull/44) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (3 months ago)
-- [improve-e2e-coverage](https://github.com/H1ghBre4k3r/kiebex/pull/43) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (3 months ago)
 
 #### ⭐ Recent Stars
 
