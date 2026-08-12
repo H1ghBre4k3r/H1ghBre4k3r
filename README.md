@@ -7,14 +7,14 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (today)
-- [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) - Kieler Beer Index (4 days ago)
-- [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (6 days ago)
+- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (1 day ago)
+- [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) - Kieler Beer Index (5 days ago)
+- [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (1 week ago)
 - [H1ghBre4k3r/reactivebayes-agent-skills](https://github.com/H1ghBre4k3r/reactivebayes-agent-skills) - Coding-agent skills for idiomatic RxInfer, ReactiveMP, and RxEnvironments workflows. (3 weeks ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (1 month ago)
 - [H1ghBre4k3r/algorithm-visualization](https://github.com/H1ghBre4k3r/algorithm-visualization) - Interactive algorithm and data structure visualizations to make learning computer science intuitive. (2 months ago)
 - [H1ghBre4k3r/rerere](https://github.com/H1ghBre4k3r/rerere) -  (4 months ago)
-- [H1ghBre4k3r/esp-homekit-rs](https://github.com/H1ghBre4k3r/esp-homekit-rs) -  (4 months ago)
+- [H1ghBre4k3r/esp-homekit-rs](https://github.com/H1ghBre4k3r/esp-homekit-rs) -  (5 months ago)
 - [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it. (6 months ago)
 - [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) - Some language like Haskell, but implemented in Rust. (7 months ago)
 
@@ -43,8 +43,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add Discord API code generation](https://github.com/H1ghBre4k3r/disruption/pull/361) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (6 days ago)
-- [docs: rewrite README in a concise, human style](https://github.com/H1ghBre4k3r/disruption/pull/360) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (6 days ago)
+- [feat: add Discord API code generation](https://github.com/H1ghBre4k3r/disruption/pull/361) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (1 week ago)
+- [docs: rewrite README in a concise, human style](https://github.com/H1ghBre4k3r/disruption/pull/360) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (1 week ago)
 - [build(deps): bump React and React DOM to 19.2.8](https://github.com/H1ghBre4k3r/kiebex/pull/107) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 week ago)
 - [ci: improve docker build cache handling](https://github.com/H1ghBre4k3r/kiebex/pull/98) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (2 weeks ago)
 - [add-contract-test-filtering-route-switch-proxy](https://github.com/H1ghBre4k3r/kiebex/pull/80) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (3 months ago)
@@ -56,6 +56,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [yousifamanuel/terraink](https://github.com/yousifamanuel/terraink) - Terraink: The Cartographic Poster Engine that creates unique and customizable map posters (today)
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more! (today)
 - [progit/progit3](https://github.com/progit/progit3) - Pro Git 3rd Edition (1 week ago)
 - [mssun/passforios](https://github.com/mssun/passforios) - Pass for iOS - an iOS client compatible with Pass command line application. (1 week ago)
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (2 weeks ago)
@@ -64,8 +66,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. (3 weeks ago)
 - [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches. (1 month ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 month ago)
-- [gitbutlerapp/grit](https://github.com/gitbutlerapp/grit) - Reimplementing Git in Rust. Like a boss. (1 month ago)
-- [ReactiveBayes/RxEnvironments.jl](https://github.com/ReactiveBayes/RxEnvironments.jl) - Reactive environments for self-learning agents (2 months ago)
 
 #### 📫 How to reach me
 
