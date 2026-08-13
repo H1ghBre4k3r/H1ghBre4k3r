@@ -56,6 +56,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### ⭐ Recent Stars
 
+- [repowise-dev/repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP. (today)
 - [yousifamanuel/terraink](https://github.com/yousifamanuel/terraink) - Terraink: The Cartographic Poster Engine that creates unique and customizable map posters (1 day ago)
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more! (1 day ago)
 - [progit/progit3](https://github.com/progit/progit3) - Pro Git 3rd Edition (1 week ago)
@@ -65,7 +66,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (2 weeks ago)
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. (3 weeks ago)
 - [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches. (1 month ago)
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 month ago)
 
 #### 📫 How to reach me
 
