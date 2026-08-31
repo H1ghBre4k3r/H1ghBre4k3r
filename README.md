@@ -62,7 +62,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [progit/progit3](https://github.com/progit/progit3) - Pro Git 3rd Edition (4 weeks ago)
 - [mssun/passforios](https://github.com/mssun/passforios) - Pass for iOS - an iOS client compatible with Pass command line application. (1 month ago)
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (1 month ago)
-- [andrew-waters/orchard](https://github.com/andrew-waters/orchard) - A UI for Apple Containers, (o)MLX and k8s, written in swift as a replacement for docker desktop (1 month ago)
+- [andrew-waters/orchard](https://github.com/andrew-waters/orchard) - A native UI for Apple Containers and (o)MLX sandboxes, written in swift as a replacement for docker desktop (1 month ago)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (1 month ago)
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. (1 month ago)
 
