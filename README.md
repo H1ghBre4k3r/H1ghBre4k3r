@@ -42,6 +42,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [feat: support optional function return types](https://github.com/H1ghBre4k3r/nome/pull/3) on [H1ghBre4k3r/nome](https://github.com/H1ghBre4k3r/nome) (today)
+- [fix: scope Clippy allowance to macro expansion](https://github.com/H1ghBre4k3r/nome/pull/2) on [H1ghBre4k3r/nome](https://github.com/H1ghBre4k3r/nome) (today)
 - [ci: add GitHub CI and Dependabot](https://github.com/H1ghBre4k3r/nome/pull/1) on [H1ghBre4k3r/nome](https://github.com/H1ghBre4k3r/nome) (today)
 - [feat: add Discord API code generation](https://github.com/H1ghBre4k3r/disruption/pull/361) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (1 month ago)
 - [docs: rewrite README in a concise, human style](https://github.com/H1ghBre4k3r/disruption/pull/360) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (1 month ago)
@@ -50,8 +52,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [add-contract-test-filtering-route-switch-proxy](https://github.com/H1ghBre4k3r/kiebex/pull/80) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (4 months ago)
 - [add-beer-styles-catalog-endpoint](https://github.com/H1ghBre4k3r/kiebex/pull/64) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (4 months ago)
 - [initial-rust-migration-setup](https://github.com/H1ghBre4k3r/kiebex/pull/59) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (4 months ago)
-- [DO NOT MERGE: comparison pr for performance measurement](https://github.com/H1ghBre4k3r/kiebex/pull/50) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (4 months ago)
-- [DO NOT MERGE: baseline pr for performance measurement](https://github.com/H1ghBre4k3r/kiebex/pull/49) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (4 months ago)
 
 #### ⭐ Recent Stars
 
