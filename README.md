@@ -7,6 +7,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
+- [H1ghBre4k3r/nome](https://github.com/H1ghBre4k3r/nome) - Named Arguments for your functions! (today)
 - [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (3 weeks ago)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (1 month ago)
 - [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) - Kieler Beer Index (1 month ago)
@@ -16,10 +17,10 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/algorithm-visualization](https://github.com/H1ghBre4k3r/algorithm-visualization) - Interactive algorithm and data structure visualizations to make learning computer science intuitive. (3 months ago)
 - [H1ghBre4k3r/rerere](https://github.com/H1ghBre4k3r/rerere) -  (6 months ago)
 - [H1ghBre4k3r/esp-homekit-rs](https://github.com/H1ghBre4k3r/esp-homekit-rs) -  (6 months ago)
-- [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it. (7 months ago)
 
 #### 🌱 My latest projects
 
+- [H1ghBre4k3r/nome](https://github.com/H1ghBre4k3r/nome) - Named Arguments for your functions!
 - [H1ghBre4k3r/reactivebayes-agent-skills](https://github.com/H1ghBre4k3r/reactivebayes-agent-skills) - Coding-agent skills for idiomatic RxInfer, ReactiveMP, and RxEnvironments workflows.
 - [H1ghBre4k3r/algorithm-visualization](https://github.com/H1ghBre4k3r/algorithm-visualization) - Interactive algorithm and data structure visualizations to make learning computer science intuitive.
 - [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) - Kieler Beer Index
@@ -29,7 +30,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/ruskell](https://github.com/H1ghBre4k3r/ruskell) - Some language like Haskell, but implemented in Rust.
 - [H1ghBre4k3r/git-presentation](https://github.com/H1ghBre4k3r/git-presentation) - Git Presentation OE 2025
 - [H1ghBre4k3r/esp-homekit-rs](https://github.com/H1ghBre4k3r/esp-homekit-rs) - 
-- [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) - The server monitoring solution from outer space.
 
 #### 🔭 Latest releases I've contributed to
 
@@ -42,6 +42,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [ci: add GitHub CI and Dependabot](https://github.com/H1ghBre4k3r/nome/pull/1) on [H1ghBre4k3r/nome](https://github.com/H1ghBre4k3r/nome) (today)
 - [feat: add Discord API code generation](https://github.com/H1ghBre4k3r/disruption/pull/361) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (1 month ago)
 - [docs: rewrite README in a concise, human style](https://github.com/H1ghBre4k3r/disruption/pull/360) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (1 month ago)
 - [build(deps): bump React and React DOM to 19.2.8](https://github.com/H1ghBre4k3r/kiebex/pull/107) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 month ago)
@@ -51,7 +52,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [initial-rust-migration-setup](https://github.com/H1ghBre4k3r/kiebex/pull/59) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (4 months ago)
 - [DO NOT MERGE: comparison pr for performance measurement](https://github.com/H1ghBre4k3r/kiebex/pull/50) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (4 months ago)
 - [DO NOT MERGE: baseline pr for performance measurement](https://github.com/H1ghBre4k3r/kiebex/pull/49) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (4 months ago)
-- [test-performance-improvements](https://github.com/H1ghBre4k3r/kiebex/pull/45) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (4 months ago)
 
 #### ⭐ Recent Stars
 
