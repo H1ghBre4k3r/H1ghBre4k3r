@@ -7,7 +7,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/nome](https://github.com/H1ghBre4k3r/nome) - Named Arguments for your functions! (6 days ago)
+- [H1ghBre4k3r/nome](https://github.com/H1ghBre4k3r/nome) - Named Arguments for your functions! (1 week ago)
 - [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (1 month ago)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (1 month ago)
 - [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) - Kieler Beer Index (1 month ago)
@@ -41,9 +41,9 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [feat: support optional function return types](https://github.com/H1ghBre4k3r/nome/pull/3) on [H1ghBre4k3r/nome](https://github.com/H1ghBre4k3r/nome) (6 days ago)
-- [fix: scope Clippy allowance to macro expansion](https://github.com/H1ghBre4k3r/nome/pull/2) on [H1ghBre4k3r/nome](https://github.com/H1ghBre4k3r/nome) (6 days ago)
-- [ci: add GitHub CI and Dependabot](https://github.com/H1ghBre4k3r/nome/pull/1) on [H1ghBre4k3r/nome](https://github.com/H1ghBre4k3r/nome) (6 days ago)
+- [feat: support optional function return types](https://github.com/H1ghBre4k3r/nome/pull/3) on [H1ghBre4k3r/nome](https://github.com/H1ghBre4k3r/nome) (1 week ago)
+- [fix: scope Clippy allowance to macro expansion](https://github.com/H1ghBre4k3r/nome/pull/2) on [H1ghBre4k3r/nome](https://github.com/H1ghBre4k3r/nome) (1 week ago)
+- [ci: add GitHub CI and Dependabot](https://github.com/H1ghBre4k3r/nome/pull/1) on [H1ghBre4k3r/nome](https://github.com/H1ghBre4k3r/nome) (1 week ago)
 - [feat: add Discord API code generation](https://github.com/H1ghBre4k3r/disruption/pull/361) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (1 month ago)
 - [docs: rewrite README in a concise, human style](https://github.com/H1ghBre4k3r/disruption/pull/360) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (1 month ago)
 - [build(deps): bump React and React DOM to 19.2.8](https://github.com/H1ghBre4k3r/kiebex/pull/107) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (1 month ago)
