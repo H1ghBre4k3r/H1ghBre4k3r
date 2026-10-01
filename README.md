@@ -7,7 +7,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) - Kieler Beer Index (4 days ago)
+- [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) - Kieler Beer Index (5 days ago)
 - [H1ghBre4k3r/nome](https://github.com/H1ghBre4k3r/nome) - Named Arguments for your functions! (1 week ago)
 - [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (1 month ago)
 - [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (1 month ago)
@@ -37,7 +37,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) ([v0.2.0](https://github.com/H1ghBre4k3r/disruption/releases/tag/v0.2.0), 11 months ago) - Featherweight wrapper around the Discord-API written in Rust.
 - [H1ghBre4k3r/guardia](https://github.com/H1ghBre4k3r/guardia) ([v0.5.0](https://github.com/H1ghBre4k3r/guardia/releases/tag/v0.5.0), 11 months ago) - The server monitoring solution from outer space.
 - [pesca-dev/atomicity](https://github.com/pesca-dev/atomicity) ([v0.1.5](https://github.com/pesca-dev/atomicity/releases/tag/v0.1.5), 2 years ago) - Lightweight library for creating fast WebComponents.
-- [pesca-dev/moneyboy-app](https://github.com/pesca-dev/moneyboy-app) ([v0.2.1](https://github.com/pesca-dev/moneyboy-app/releases/tag/v0.2.1), 4 years ago) - The mobile app for MoneyBoy - a tool to track spendings between different people.
 
 #### 🔨 My recent Pull Requests
 
