@@ -10,13 +10,13 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) - Kieler Beer Index (2 weeks ago)
 - [H1ghBre4k3r/nome](https://github.com/H1ghBre4k3r/nome) - Named Arguments for your functions! (3 weeks ago)
 - [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (1 month ago)
-- [H1ghBre4k3r/lome.dev](https://github.com/H1ghBre4k3r/lome.dev) - My personal website which might actually be deployed at some point in time. (2 months ago)
 - [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (2 months ago)
 - [H1ghBre4k3r/reactivebayes-agent-skills](https://github.com/H1ghBre4k3r/reactivebayes-agent-skills) - Coding-agent skills for idiomatic RxInfer, ReactiveMP, and RxEnvironments workflows. (2 months ago)
 - [H1ghBre4k3r/hurricane-ics](https://github.com/H1ghBre4k3r/hurricane-ics) - ICS provider for the Hurricane Festival. (3 months ago)
 - [H1ghBre4k3r/algorithm-visualization](https://github.com/H1ghBre4k3r/algorithm-visualization) - Interactive algorithm and data structure visualizations to make learning computer science intuitive. (4 months ago)
 - [H1ghBre4k3r/rerere](https://github.com/H1ghBre4k3r/rerere) -  (6 months ago)
 - [H1ghBre4k3r/esp-homekit-rs](https://github.com/H1ghBre4k3r/esp-homekit-rs) -  (7 months ago)
+- [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it. (8 months ago)
 
 #### 🌱 My latest projects
 
