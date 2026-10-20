@@ -39,6 +39,8 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [docs: add migration roadmap and future work, update README](https://github.com/H1ghBre4k3r/kiebex/pull/133) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (today)
+- [feat(deploy): route health and beer-styles to Rust API](https://github.com/H1ghBre4k3r/kiebex/pull/132) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (today)
 - [fix(ci): bump Playwright to 1.64.1 for Ubuntu 26.04 runners](https://github.com/H1ghBre4k3r/kiebex/pull/131) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (today)
 - [feat: support optional function return types](https://github.com/H1ghBre4k3r/nome/pull/3) on [H1ghBre4k3r/nome](https://github.com/H1ghBre4k3r/nome) (1 month ago)
 - [fix: scope Clippy allowance to macro expansion](https://github.com/H1ghBre4k3r/nome/pull/2) on [H1ghBre4k3r/nome](https://github.com/H1ghBre4k3r/nome) (1 month ago)
@@ -47,8 +49,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [docs: rewrite README in a concise, human style](https://github.com/H1ghBre4k3r/disruption/pull/360) on [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) (2 months ago)
 - [build(deps): bump React and React DOM to 19.2.8](https://github.com/H1ghBre4k3r/kiebex/pull/107) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (2 months ago)
 - [ci: improve docker build cache handling](https://github.com/H1ghBre4k3r/kiebex/pull/98) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (2 months ago)
-- [add-contract-test-filtering-route-switch-proxy](https://github.com/H1ghBre4k3r/kiebex/pull/80) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (5 months ago)
-- [add-beer-styles-catalog-endpoint](https://github.com/H1ghBre4k3r/kiebex/pull/64) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (5 months ago)
 
 #### ⭐ Recent Stars
 
