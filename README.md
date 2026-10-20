@@ -7,7 +7,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) - Kieler Beer Index (3 weeks ago)
+- [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) - Kieler Beer Index (today)
 - [H1ghBre4k3r/nome](https://github.com/H1ghBre4k3r/nome) - Named Arguments for your functions! (1 month ago)
 - [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (1 month ago)
 - [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (2 months ago)
@@ -39,6 +39,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): bump Playwright to 1.64.1 for Ubuntu 26.04 runners](https://github.com/H1ghBre4k3r/kiebex/pull/131) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (today)
 - [feat: support optional function return types](https://github.com/H1ghBre4k3r/nome/pull/3) on [H1ghBre4k3r/nome](https://github.com/H1ghBre4k3r/nome) (1 month ago)
 - [fix: scope Clippy allowance to macro expansion](https://github.com/H1ghBre4k3r/nome/pull/2) on [H1ghBre4k3r/nome](https://github.com/H1ghBre4k3r/nome) (1 month ago)
 - [ci: add GitHub CI and Dependabot](https://github.com/H1ghBre4k3r/nome/pull/1) on [H1ghBre4k3r/nome](https://github.com/H1ghBre4k3r/nome) (1 month ago)
@@ -48,7 +49,6 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [ci: improve docker build cache handling](https://github.com/H1ghBre4k3r/kiebex/pull/98) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (2 months ago)
 - [add-contract-test-filtering-route-switch-proxy](https://github.com/H1ghBre4k3r/kiebex/pull/80) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (5 months ago)
 - [add-beer-styles-catalog-endpoint](https://github.com/H1ghBre4k3r/kiebex/pull/64) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (5 months ago)
-- [initial-rust-migration-setup](https://github.com/H1ghBre4k3r/kiebex/pull/59) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (5 months ago)
 
 #### ⭐ Recent Stars
 
