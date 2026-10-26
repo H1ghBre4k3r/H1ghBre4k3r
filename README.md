@@ -7,7 +7,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) - Kieler Beer Index (3 days ago)
+- [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) - Kieler Beer Index (4 days ago)
 - [H1ghBre4k3r/nome](https://github.com/H1ghBre4k3r/nome) - Named Arguments for your functions! (1 month ago)
 - [H1ghBre4k3r/nvim](https://github.com/H1ghBre4k3r/nvim) - My private NeoVim setup and configuration. (2 months ago)
 - [H1ghBre4k3r/disruption](https://github.com/H1ghBre4k3r/disruption) - Featherweight wrapper around the Discord-API written in Rust. (2 months ago)
@@ -16,7 +16,7 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 - [H1ghBre4k3r/algorithm-visualization](https://github.com/H1ghBre4k3r/algorithm-visualization) - Interactive algorithm and data structure visualizations to make learning computer science intuitive. (4 months ago)
 - [H1ghBre4k3r/rerere](https://github.com/H1ghBre4k3r/rerere) -  (7 months ago)
 - [H1ghBre4k3r/esp-homekit-rs](https://github.com/H1ghBre4k3r/esp-homekit-rs) -  (7 months ago)
-- [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it. (8 months ago)
+- [H1ghBre4k3r/notizia](https://github.com/H1ghBre4k3r/notizia) - Message passing in Rust. Or at least an idea about it. (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -39,9 +39,9 @@ I'm Louis, a CS student from Northern Germany with an affinity for IoT, distribu
 
 #### 🔨 My recent Pull Requests
 
-- [docs: add migration roadmap and future work, update README](https://github.com/H1ghBre4k3r/kiebex/pull/133) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (5 days ago)
-- [feat(deploy): route health and beer-styles to Rust API](https://github.com/H1ghBre4k3r/kiebex/pull/132) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (5 days ago)
-- [fix(ci): bump Playwright to 1.64.1 for Ubuntu 26.04 runners](https://github.com/H1ghBre4k3r/kiebex/pull/131) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (5 days ago)
+- [docs: add migration roadmap and future work, update README](https://github.com/H1ghBre4k3r/kiebex/pull/133) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (6 days ago)
+- [feat(deploy): route health and beer-styles to Rust API](https://github.com/H1ghBre4k3r/kiebex/pull/132) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (6 days ago)
+- [fix(ci): bump Playwright to 1.64.1 for Ubuntu 26.04 runners](https://github.com/H1ghBre4k3r/kiebex/pull/131) on [H1ghBre4k3r/kiebex](https://github.com/H1ghBre4k3r/kiebex) (6 days ago)
 - [feat: support optional function return types](https://github.com/H1ghBre4k3r/nome/pull/3) on [H1ghBre4k3r/nome](https://github.com/H1ghBre4k3r/nome) (1 month ago)
 - [fix: scope Clippy allowance to macro expansion](https://github.com/H1ghBre4k3r/nome/pull/2) on [H1ghBre4k3r/nome](https://github.com/H1ghBre4k3r/nome) (1 month ago)
 - [ci: add GitHub CI and Dependabot](https://github.com/H1ghBre4k3r/nome/pull/1) on [H1ghBre4k3r/nome](https://github.com/H1ghBre4k3r/nome) (1 month ago)
